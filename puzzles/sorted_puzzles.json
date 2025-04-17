@@ -1,0 +1,541 @@
+{
+  "sorted_puzzles": [
+    {
+      "file": "怀孕.md",
+      "puzzle_text": "妻子怀孕了两次，一次高兴 ，一次哭。为什么？",
+      "answer_text": "妻子怀孕的时候，丈夫得了精神病，习惯了妻子怀孕的模样。 妻子生出孩子肚子就不大了，丈夫很不习惯 ，于是把妻子绑在沙发上， 往她的肚子里注水， 直到注射到和妻子怀孕一样大为止……",
+      "logprobs": {
+        "answer_given_puzzle": -217.23070335388184,
+        "puzzle_given_answer": -58.38409423828125,
+        "answer_given_empty": -197.87976837158203,
+        "puzzle_given_empty": -62.95416259765625,
+        "answer_prompt_effect": -19.350934982299805,
+        "puzzle_prompt_effect": 4.570068359375
+      },
+      "calculated_value": -19.350934982299805
+    },
+    {
+      "file": "水池中的死者.md",
+      "puzzle_text": "一名男子被发现死在一间空荡荡的房间里，附近只有一池水。他怎么死的？",
+      "answer_text": "他被冰柱刺伤了。",
+      "logprobs": {
+        "answer_given_puzzle": -36.271484375,
+        "puzzle_given_answer": -66.57956600189209,
+        "answer_given_empty": -32.3935546875,
+        "puzzle_given_empty": -64.46070861816406,
+        "answer_prompt_effect": -3.8779296875,
+        "puzzle_prompt_effect": -2.1188573837280273
+      },
+      "calculated_value": -3.8779296875
+    },
+    {
+      "file": "车头灯关闭.md",
+      "puzzle_text": "两个男人在车头灯关闭的情况下朝对方行驶。看不到月亮或星星，附近也没有电灯。两辆车都漆成黑色，没有反光表面。然而两人都知道何时该踩刹车并险些避免撞到对方。这怎么可能？",
+      "answer_text": "现在是白天。 （而且今天是阴天，这就是为什么我们称之为太阳的恒星看不见的原因。）",
+      "logprobs": {
+        "answer_given_puzzle": -94.38496780395508,
+        "puzzle_given_answer": -186.3181278705597,
+        "answer_given_empty": -95.80152893066406,
+        "puzzle_given_empty": -198.48698806762695,
+        "answer_prompt_effect": 1.4165611267089844,
+        "puzzle_prompt_effect": 12.16886019706726
+      },
+      "calculated_value": 1.4165611267089844
+    },
+    {
+      "file": "杀人早餐.md",
+      "puzzle_text": "他被自己做的早餐杀死了。",
+      "answer_text": "这个男人在登雪山。他做早餐时放了些胡椒，这致使他大声地打了个喷嚏，从而引起雪崩。",
+      "logprobs": {
+        "answer_given_puzzle": -115.48454570770264,
+        "puzzle_given_answer": -29.24187469482422,
+        "answer_given_empty": -119.10223007202148,
+        "puzzle_given_empty": -40.7685546875,
+        "answer_prompt_effect": 3.6176843643188477,
+        "puzzle_prompt_effect": 11.526679992675781
+      },
+      "calculated_value": 3.6176843643188477
+    },
+    {
+      "file": "捉迷藏2.md",
+      "puzzle_text": "我跟妈妈玩捉迷藏，当妈妈看到我时，我却一动也不能动了。",
+      "answer_text": "我跟妈妈在家玩捉迷藏，我藏到了床底下，随着咚咚咚的脚步声，我知道妈妈要进来了，可当门被打开后，我看到了妈妈的眼睛，她倒在地上，身体被人拖着，似乎已经没有了呼吸，而我捂着口鼻一动也不敢动！",
+      "logprobs": {
+        "answer_given_puzzle": -185.2723273038864,
+        "puzzle_given_answer": -44.700942158699036,
+        "answer_given_empty": -189.53067588806152,
+        "puzzle_given_empty": -64.29620933532715,
+        "answer_prompt_effect": 4.25834858417511,
+        "puzzle_prompt_effect": 19.595267176628113
+      },
+      "calculated_value": 4.25834858417511
+    },
+    {
+      "file": "裤子破了.md",
+      "puzzle_text": "我的裤子破了，我知道我马上要死了。",
+      "answer_text": "我是一名宇航员，这一天我正身着宇航服在太空中执行任务，突然我发现我的裤子破了，之后我暴露在太空中，不到几秒钟，我将死去",
+      "logprobs": {
+        "answer_given_puzzle": -107.42342853546143,
+        "puzzle_given_answer": -33.94873046875,
+        "answer_given_empty": -115.16689729690552,
+        "puzzle_given_empty": -40.56884765625,
+        "answer_prompt_effect": 7.743468761444092,
+        "puzzle_prompt_effect": 6.6201171875
+      },
+      "calculated_value": 7.743468761444092
+    },
+    {
+      "file": "看起来没那么严重.md",
+      "puzzle_text": "男人无法想象他的感冒会导致他的死亡。",
+      "answer_text": "男人家发生了煤气泄漏，但由于他感冒了，所以他闻不到煤气的味道。他在做饭时起火而死。",
+      "logprobs": {
+        "answer_given_puzzle": -95.82757568359375,
+        "puzzle_given_answer": -43.00341796875,
+        "answer_given_empty": -103.9114990234375,
+        "puzzle_given_empty": -58.5888671875,
+        "answer_prompt_effect": 8.08392333984375,
+        "puzzle_prompt_effect": 15.58544921875
+      },
+      "calculated_value": 8.08392333984375
+    },
+    {
+      "file": "生意.md",
+      "puzzle_text": "男人照常做了一笔赚钱生意，但是以往很支持他的家人，这次却非常愤怒。",
+      "answer_text": "男人是一个人贩子，年轻时靠此发家致富，家人也很高兴。但他现在换了老年痴呆，转手将孙子卖了，家人们很愤怒。",
+      "logprobs": {
+        "answer_given_puzzle": -141.6706337928772,
+        "puzzle_given_answer": -81.510009765625,
+        "answer_given_empty": -150.84343242645264,
+        "puzzle_given_empty": -97.046630859375,
+        "answer_prompt_effect": 9.17279863357544,
+        "puzzle_prompt_effect": 15.53662109375
+      },
+      "calculated_value": 9.17279863357544
+    },
+    {
+      "file": "对赌.md",
+      "puzzle_text": "两个死人，现场只有一把枪，一颗子弹，一副牌。发生了什么？",
+      "answer_text": "两个人在潜艇里，潜艇在深水因故障进水，两个人赌牌，赢的人才可以用枪自杀，体面死去。输的人只能在潜艇中痛苦地死亡。",
+      "logprobs": {
+        "answer_given_puzzle": -145.18350219726562,
+        "puzzle_given_answer": -64.9967041015625,
+        "answer_given_empty": -155.3477783203125,
+        "puzzle_given_empty": -79.1650390625,
+        "answer_prompt_effect": 10.164276123046875,
+        "puzzle_prompt_effect": 14.1683349609375
+      },
+      "calculated_value": 10.164276123046875
+    },
+    {
+      "file": "手滑.md",
+      "puzzle_text": "我在和闺蜜聊天，忽然手机掉在了地上。闺蜜吓傻了。 我死了。 为什么？",
+      "answer_text": "晚上 我在房间和闺蜜视频聊天 忽然我手一滑 手机掉在了地上 闺蜜通过视频看到我床下有个男人 那个男人见我要捡手机 怕被发现就冲出来把我杀了 闺蜜目睹一切 吓傻了！",
+      "logprobs": {
+        "answer_given_puzzle": -183.342458486557,
+        "puzzle_given_answer": -65.27597904205322,
+        "answer_given_empty": -193.90085983276367,
+        "puzzle_given_empty": -90.03307962417603,
+        "answer_prompt_effect": 10.558401346206665,
+        "puzzle_prompt_effect": 24.757100582122803
+      },
+      "calculated_value": 10.558401346206665
+    },
+    {
+      "file": "要好的朋友.md",
+      "puzzle_text": "我有一个要好的朋友，我们形影不离。可惜，他死了。",
+      "answer_text": "我一直孤单，长期的孤独引发了我的妄想症。在妄想中，我有一个很好的朋友。我的症状被家人发现，我被迫接受治疗。我的妄想症治好了，他也就死了。",
+      "logprobs": {
+        "answer_given_puzzle": -136.3052463531494,
+        "puzzle_given_answer": -41.458606243133545,
+        "answer_given_empty": -147.19652032852173,
+        "puzzle_given_empty": -50.57424354553223,
+        "answer_prompt_effect": 10.891273975372314,
+        "puzzle_prompt_effect": 9.115637302398682
+      },
+      "calculated_value": 10.891273975372314
+    },
+    {
+      "file": "私人医生.md",
+      "puzzle_text": "我接到了一个电话，然后杀死了一个人。",
+      "answer_text": "我的私人医生在电话那头说，我有严重的精神分裂，那个所谓的朋友不过是我幻想出来的。我想继续问下去，可是朋友过来了，他疑惑地问我为什么要对着一部坏掉的电话说话。医生告诉我说，只要彻底把这个幻想出来的朋友杀死，他就不会出现在我的世界里了。现在我蹲坐在尸体边上，等待着他从我的世界消失。",
+      "logprobs": {
+        "answer_given_puzzle": -276.2465515136719,
+        "puzzle_given_answer": -34.1314697265625,
+        "answer_given_empty": -289.4112548828125,
+        "puzzle_given_empty": -38.646240234375,
+        "answer_prompt_effect": 13.164703369140625,
+        "puzzle_prompt_effect": 4.5147705078125
+      },
+      "calculated_value": 13.164703369140625
+    },
+    {
+      "file": "挑衅.md",
+      "puzzle_text": "一天，游手好闲的阿星在大街上游荡。正巧碰上一所小学放学，他在拥挤的人流中不幸被无良小学生倒，小学生不仅没有道歉而且还出言挑衅阿星，阿星却没有因此生气反而很高兴，这是为什么?",
+      "answer_text": "小学生很生气的说了一句：“你是哪个班的？下次带我哥揍你。”年近30的阿星没想到自己在小学生眼里看上去这么年轻，心里舒坦了很多。",
+      "logprobs": {
+        "answer_given_puzzle": -162.2171425819397,
+        "puzzle_given_answer": -192.43341398239136,
+        "answer_given_empty": -176.2210693359375,
+        "puzzle_given_empty": -207.54162657260895,
+        "answer_prompt_effect": 14.003926753997803,
+        "puzzle_prompt_effect": 15.10821259021759
+      },
+      "calculated_value": 14.003926753997803
+    },
+    {
+      "file": "消失的乘客.md",
+      "puzzle_text": "一辆公交车上有5名乘客，到站后下来4人，但车上却空了。为什么？",
+      "answer_text": "下车的4人中有1人是司机，公交车需要司机才能行驶，所以司机下车后车上就没人了。",
+      "logprobs": {
+        "answer_given_puzzle": -67.84730529785156,
+        "puzzle_given_answer": -57.580108642578125,
+        "answer_given_empty": -83.689453125,
+        "puzzle_given_empty": -68.78970336914062,
+        "answer_prompt_effect": 15.842147827148438,
+        "puzzle_prompt_effect": 11.2095947265625
+      },
+      "calculated_value": 15.842147827148438
+    },
+    {
+      "file": "要水拿枪.md",
+      "puzzle_text": "一个男人走进一家酒吧，并向酒保要了一杯水。酒保拿出一支枪并瞄准他，该名男子说：“谢谢你！”然后离开，请问发生了什么事？",
+      "answer_text": "该名男子打嗝，他希望喝一杯水来改善状况。酒保意识到这一点，选择拿枪吓他，男子一紧张之下，打嗝自然消失，因而衷心感谢酒保后就离开了。",
+      "logprobs": {
+        "answer_given_puzzle": -172.17891681194305,
+        "puzzle_given_answer": -93.00660610198975,
+        "answer_given_empty": -188.33366656303406,
+        "puzzle_given_empty": -126.30965864658356,
+        "answer_prompt_effect": 16.154749751091003,
+        "puzzle_prompt_effect": 33.30305254459381
+      },
+      "calculated_value": 16.154749751091003
+    },
+    {
+      "file": "捉迷藏.md",
+      "puzzle_text": "我六岁那年，外公去世，我和亲人一起去祭奠，和姐姐玩捉迷藏，然后我对母亲说了句话把她吓昏了过去，我说了什么?",
+      "answer_text": "我去参加外公的葬礼，同行的还有比我大两岁的姐姐，我和她玩捉迷藏，我没有找到她。没想到她躲在了纸做的房子里，当纸房子被点燃，姐姐被烧死了。我对妈说，姐姐在那房子里面跳舞。",
+      "logprobs": {
+        "answer_given_puzzle": -160.10240530967712,
+        "puzzle_given_answer": -109.17608118057251,
+        "answer_given_empty": -177.5225591659546,
+        "puzzle_given_empty": -138.5170783996582,
+        "answer_prompt_effect": 17.420153856277466,
+        "puzzle_prompt_effect": 29.340997219085693
+      },
+      "calculated_value": 17.420153856277466
+    },
+    {
+      "file": "杀妻后自杀.md",
+      "puzzle_text": "一个男人杀死自己的妻子，然后回到自己的房间，而后自杀。",
+      "answer_text": "为了庆祝自己50岁生日，男人计划杀死自己的妻子，然后拿走所有的钱，到一个新的城市去过一个崭新的生活。他的妻子带他出去晚餐，回家时男人在房前杀死了她。他打开家门，把妻子的尸体拖进房间，突然屋里的所有灯同时亮起，他的朋友们跳出来大叫“Surprise”。他自杀了。",
+      "logprobs": {
+        "answer_given_puzzle": -262.0430145263672,
+        "puzzle_given_answer": -49.11442565917969,
+        "answer_given_empty": -279.75257873535156,
+        "puzzle_given_empty": -59.3515625,
+        "answer_prompt_effect": 17.709564208984375,
+        "puzzle_prompt_effect": 10.237136840820312
+      },
+      "calculated_value": 17.709564208984375
+    },
+    {
+      "file": "电梯里的人.md",
+      "puzzle_text": "一个人住在高层公寓楼里。每天下班回家后，他对电梯有一个不寻常的习惯。如果下雨，他总是乘电梯到他住的楼层，即 17 层。如果没有下雨，但电梯里还有其他人，那么他也乘电梯到17楼。但如果没有下雨，而且电梯里只有他一个人，那么他就会乘电梯到11楼，然后走楼梯走完剩下的路。",
+      "answer_text": "这个男人异常矮小。他只能按到11楼的按钮。如果电梯里还有其他人，他会要求他们按他所在楼层的按钮。如果下雨了，他就会用雨伞按下按钮。",
+      "logprobs": {
+        "answer_given_puzzle": -116.349609375,
+        "puzzle_given_answer": -189.624183177948,
+        "answer_given_empty": -135.0990753173828,
+        "puzzle_given_empty": -199.171910405159,
+        "answer_prompt_effect": 18.749465942382812,
+        "puzzle_prompt_effect": 9.547727227210999
+      },
+      "calculated_value": 18.749465942382812
+    },
+    {
+      "file": "延迟死亡.md",
+      "puzzle_text": "海伦从未想到，她乘坐飞机旅行的决定会挽救她的生命。",
+      "answer_text": "几天前，海伦接受了手术。在登机前，她必须通过金属探测器，尽管她已经摘掉了身上所有的金属物品，但金属探测器一直响个不停。经过X光检查后，发现医生在她体内留了一把手术刀。如果不是海伦及时发现，她必死无疑。",
+      "logprobs": {
+        "answer_given_puzzle": -160.3998785018921,
+        "puzzle_given_answer": -51.761417508125305,
+        "answer_given_empty": -179.30673503875732,
+        "puzzle_given_empty": -60.37481689453125,
+        "answer_prompt_effect": 18.906856536865234,
+        "puzzle_prompt_effect": 8.613399386405945
+      },
+      "calculated_value": 18.906856536865234
+    },
+    {
+      "file": "日访三十国.md",
+      "puzzle_text": "个没有护照的普通美国公民，一天之内访问了30多个国家。在每个国家里他都受到热情招待，并且离开时也完全自由。",
+      "answer_text": "他是一个送信人，负责将包裹送到各个大使馆。大使馆的领地为使馆国所有。",
+      "logprobs": {
+        "answer_given_puzzle": -87.71478080749512,
+        "puzzle_given_answer": -124.937255859375,
+        "answer_given_empty": -107.36665725708008,
+        "puzzle_given_empty": -122.01959228515625,
+        "answer_prompt_effect": 19.65187644958496,
+        "puzzle_prompt_effect": -2.91766357421875
+      },
+      "calculated_value": 19.65187644958496
+    },
+    {
+      "file": "关灯之后.md",
+      "puzzle_text": "小明半夜起来喝水，然后把灯关上继续睡觉，醒了之后他就自杀了，为什么?",
+      "answer_text": "小明是一个海上的灯塔守护人，他半夜起来顺手把灯塔的灯关掉了，那些大型船只找不到方向、乱作一团甚至发生海难，小明自责所以自杀了。",
+      "logprobs": {
+        "answer_given_puzzle": -144.5364646911621,
+        "puzzle_given_answer": -78.834228515625,
+        "answer_given_empty": -164.53675270080566,
+        "puzzle_given_empty": -88.40576171875,
+        "answer_prompt_effect": 20.000288009643555,
+        "puzzle_prompt_effect": 9.571533203125
+      },
+      "calculated_value": 20.000288009643555
+    },
+    {
+      "file": "脚步声.md",
+      "puzzle_text": "每次单独走路都能听到两个人的脚步声，有一次终于变成一个人的了，我却后悔了。",
+      "answer_text": "我是一个盲人，爸爸不放心我出门每次都会悄悄跟上，可我却不知道一直以为有人尾随。有一天，一辆失控的卡车向我冲了过来，千钧一发之际爸爸从后面跑过来推开了我，自己却葬身车下。脚步声终于变成一个人的了，可是爸爸却永远离开了我。",
+      "logprobs": {
+        "answer_given_puzzle": -214.37972736358643,
+        "puzzle_given_answer": -78.985595703125,
+        "answer_given_empty": -234.4449155330658,
+        "puzzle_given_empty": -104.00857543945312,
+        "answer_prompt_effect": 20.06518816947937,
+        "puzzle_prompt_effect": 25.022979736328125
+      },
+      "calculated_value": 20.06518816947937
+    },
+    {
+      "file": "最棒的一天.md",
+      "puzzle_text": "他在公园的长椅上醒来。昨天晚上，他刚向苏珊求婚，而她已经几乎接受了他，并让他第二天下午去她家。他舒缓着酥麻的腿脚，叩响了她的门，喊着苏珊的名字。然而房门打开后，他才意识到有事情不对劲。",
+      "answer_text": "他是阿兹海默症患者，经常觉得自己还在刚刚跟妻子表白的那天。这天他又一次走丢并在长椅上睡着，他凭着记忆找回家以为能见到自己的女朋友，然而确实跟自己妻子有几分相似的孙女，他这才意识到自己又犯病了。",
+      "logprobs": {
+        "answer_given_puzzle": -234.08510398864746,
+        "puzzle_given_answer": -226.69567108154297,
+        "answer_given_empty": -254.62393474578857,
+        "puzzle_given_empty": -231.87834548950195,
+        "answer_prompt_effect": 20.538830757141113,
+        "puzzle_prompt_effect": 5.182674407958984
+      },
+      "calculated_value": 20.538830757141113
+    },
+    {
+      "file": "100元钱.md",
+      "puzzle_text": "小明在图书馆看书，在一本书里翻到了100块钱，但是他却哭了。",
+      "answer_text": "小明是一个不火的作家，他在图书馆自己写的书里放了张100元，如果有人看到就会拿走表示有人看了他的书，而至今这100还是夹在书里，表示至今都没有人看过小明的书，于是小明哭了。",
+      "logprobs": {
+        "answer_given_puzzle": -197.08465147018433,
+        "puzzle_given_answer": -55.23247718811035,
+        "answer_given_empty": -217.8317060470581,
+        "puzzle_given_empty": -75.376708984375,
+        "answer_prompt_effect": 20.74705457687378,
+        "puzzle_prompt_effect": 20.14423179626465
+      },
+      "calculated_value": 20.74705457687378
+    },
+    {
+      "file": "长路终有归途.md",
+      "puzzle_text": "“祝你生日快乐”，我终于在45岁这天度过了6岁的生日。",
+      "answer_text": "我在6岁生日到来之前，在路边玩耍的时候被人贩子拐走了。在45岁生日到来之际，我终于找到了我的家",
+      "logprobs": {
+        "answer_given_puzzle": -77.60691833496094,
+        "puzzle_given_answer": -61.70678424835205,
+        "answer_given_empty": -98.7889404296875,
+        "puzzle_given_empty": -73.8692626953125,
+        "answer_prompt_effect": 21.182022094726562,
+        "puzzle_prompt_effect": 12.16247844696045
+      },
+      "calculated_value": 21.182022094726562
+    },
+    {
+      "file": "无声的呼救.md",
+      "puzzle_text": "一个人在沙漠中快要渴死了，他看见远处有个小屋，用尽最后力气爬到门口，却转身离开了。为什么？",
+      "answer_text": "小屋是个冰箱，里面装满了食物但没有水，他意识到进去会更渴所以离开去找水源。",
+      "logprobs": {
+        "answer_given_puzzle": -101.49908447265625,
+        "puzzle_given_answer": -80.2159423828125,
+        "answer_given_empty": -123.88623046875,
+        "puzzle_given_empty": -93.1063232421875,
+        "answer_prompt_effect": 22.38714599609375,
+        "puzzle_prompt_effect": 12.890380859375
+      },
+      "calculated_value": 22.38714599609375
+    },
+    {
+      "file": "保龄球.md",
+      "puzzle_text": "一个男人放手抛出保龄球。不久，他被送往医院急诊。",
+      "answer_text": "这个男人是一个物理教授。他在课堂上演示能量守恒定律。他用绳子把一个保龄球拴在天花板上，然后双手握球置于脸前并站在房间一侧。根据动能和重力势能的相互转化，松手后保龄球将荡到房间另一侧再荡回来，但其幅度不会超过初始位置。不幸的是，教授放手时稍微用了一点推力，这导致实验失败。",
+      "logprobs": {
+        "answer_given_puzzle": -282.6871122121811,
+        "puzzle_given_answer": -68.35981464385986,
+        "answer_given_empty": -306.0134757757187,
+        "puzzle_given_empty": -91.86781311035156,
+        "answer_prompt_effect": 23.326363563537598,
+        "puzzle_prompt_effect": 23.5079984664917
+      },
+      "calculated_value": 23.326363563537598
+    },
+    {
+      "file": "忠诚的狗.md",
+      "puzzle_text": "小强养了一只很忠诚的狗，今天他牵着狗上街，然后小强死了。为什么？",
+      "answer_text": "小强这次上街突发心脏病，狗不让其他人靠近主人包括医生。耽误了治疗时间，导致了小强的死亡。",
+      "logprobs": {
+        "answer_given_puzzle": -101.05727815628052,
+        "puzzle_given_answer": -79.17780685424805,
+        "answer_given_empty": -124.98043632507324,
+        "puzzle_given_empty": -86.14208984375,
+        "answer_prompt_effect": 23.923158168792725,
+        "puzzle_prompt_effect": 6.964282989501953
+      },
+      "calculated_value": 23.923158168792725
+    },
+    {
+      "file": "接连死去的哥哥.md",
+      "puzzle_text": "我有两个哥哥，我们三兄弟自小就睡在一张床上。后来有一天二哥因为生病死了，不久后我把大哥也杀了。",
+      "answer_text": "我的两个哥哥是双胞胎。从小我们关系就特别好，同睡一张床。大哥睡我左边，二哥睡我右边，十几年了，我已经习惯了这样。可是有一天二哥却因为得了大病死了。我床的右边就这样空了。我很不习惯，突然我想到了!把大哥砍成两半不就好了吗，今天晚上我又睡得好香。",
+      "logprobs": {
+        "answer_given_puzzle": -256.0265111923218,
+        "puzzle_given_answer": -81.070068359375,
+        "answer_given_empty": -285.93761587142944,
+        "puzzle_given_empty": -105.63543701171875,
+        "answer_prompt_effect": 29.911104679107666,
+        "puzzle_prompt_effect": 24.56536865234375
+      },
+      "calculated_value": 29.911104679107666
+    },
+    {
+      "file": "自相残杀.md",
+      "puzzle_text": "两兄弟在酒吧喝酒。他们开始争吵。其中一人掏枪射杀了另一人。不久后他自己也不幸身亡。",
+      "answer_text": "两兄弟是连体人。其中一人抱怨另一人不讲卫生，口臭难忍，并掏枪杀死了他。他自己也因失血过多而死。",
+      "logprobs": {
+        "answer_given_puzzle": -102.04077911376953,
+        "puzzle_given_answer": -69.8582649230957,
+        "answer_given_empty": -132.0722885131836,
+        "puzzle_given_empty": -88.06542205810547,
+        "answer_prompt_effect": 30.031509399414062,
+        "puzzle_prompt_effect": 18.207157135009766
+      },
+      "calculated_value": 30.031509399414062
+    },
+    {
+      "file": "治病.md",
+      "puzzle_text": "他决定给经济拮据的母亲治病，却被母亲强硬地拒绝了。",
+      "answer_text": "生意破产的母亲患了肾衰竭，需要肾移植，他决定将自己的肾捐给母亲。他不知道的是，自己的一个肾，早在小的时候，就被因为做生意而缺钱的母亲卖掉了。",
+      "logprobs": {
+        "answer_given_puzzle": -136.85362243652344,
+        "puzzle_given_answer": -51.57164669036865,
+        "answer_given_empty": -167.90509033203125,
+        "puzzle_given_empty": -65.60005187988281,
+        "answer_prompt_effect": 31.051467895507812,
+        "puzzle_prompt_effect": 14.02840518951416
+      },
+      "calculated_value": 31.051467895507812
+    },
+    {
+      "file": "免费的大餐.md",
+      "puzzle_text": "一个男人走进一家餐馆，大吃一顿，却没有支付任何费用。",
+      "answer_text": "这个男人是一位知名艺术家。一个专门收集名人签名的女人看到了该艺术家正在用餐，于是待他用餐完毕并用支票支付费用后，从餐厅经理那儿买下了支票。该支票从未被兑现，因此男人并未为这顿大餐支付任何费用。",
+      "logprobs": {
+        "answer_given_puzzle": -202.23167324066162,
+        "puzzle_given_answer": -42.12371826171875,
+        "answer_given_empty": -234.31462502479553,
+        "puzzle_given_empty": -54.752197265625,
+        "answer_prompt_effect": 32.08295178413391,
+        "puzzle_prompt_effect": 12.62847900390625
+      },
+      "calculated_value": 32.08295178413391
+    },
+    {
+      "file": "完美的谋杀.md",
+      "puzzle_text": "一个男人死在密闭的房间里，身边只有一滩水和碎玻璃。他是怎么死的？",
+      "answer_text": "他是金鱼，鱼缸被打碎后因缺水而死。水和碎玻璃是鱼缸的残留物。",
+      "logprobs": {
+        "answer_given_puzzle": -72.04513549804688,
+        "puzzle_given_answer": -61.9448127746582,
+        "answer_given_empty": -107.797119140625,
+        "puzzle_given_empty": -72.33241939544678,
+        "answer_prompt_effect": 35.751983642578125,
+        "puzzle_prompt_effect": 10.387606620788574
+      },
+      "calculated_value": 35.751983642578125
+    },
+    {
+      "file": "祭日.md",
+      "puzzle_text": "在儿子去世一周年的祭日上， 我杀死了三个来悼念他的人。",
+      "answer_text": "儿子生病去世，他在临终前告诉我，把他的器官捐献给有需要的人，这样他就能以另外的方式继续活在世界上。我同意了。最后儿子身上有三个器官分别捐献给了三个不同的人。在儿子的祭日上，我认出了他们，接受皮肤捐赠的男人，居然满身都是纹身，接受肺部捐赠的小伙，不停地在那吸烟，而接受肝捐赠的居然打电话约朋友晚上出去喝酒。我儿子把生的机会留给他们，但他们竟然这样继续糟践自己。我深深为儿子感到不甘，愤怒不已的我杀了他们三个。",
+      "logprobs": {
+        "answer_given_puzzle": -386.06962490081787,
+        "puzzle_given_answer": -55.52021598815918,
+        "answer_given_empty": -425.48031759262085,
+        "puzzle_given_empty": -85.58995056152344,
+        "answer_prompt_effect": 39.41069269180298,
+        "puzzle_prompt_effect": 30.069734573364258
+      },
+      "calculated_value": 39.41069269180298
+    },
+    {
+      "file": "看病.md",
+      "puzzle_text": "一个人坐火车去临镇看病，看完之后病全好了。回来的路上火车经过一个隧道，这个人就跳车自杀了。",
+      "answer_text": "因为他看好的是眼睛的病。经过隧道，以为眼睛又看不见了。经受不住打击，自杀了。",
+      "logprobs": {
+        "answer_given_puzzle": -77.69725799560547,
+        "puzzle_given_answer": -103.69293212890625,
+        "answer_given_empty": -119.3402099609375,
+        "puzzle_given_empty": -111.39617919921875,
+        "answer_prompt_effect": 41.64295196533203,
+        "puzzle_prompt_effect": 7.7032470703125
+      },
+      "calculated_value": 41.64295196533203
+    },
+    {
+      "file": "街上的工作.md",
+      "puzzle_text": "我正在街上努力工作，突然一个疯疯癫癫的女人向我扑来，爸爸赶紧把我抱回了家，但随后那个女人又跟来了。",
+      "answer_text": "“爸爸”并不是我真正的爸爸，而是将我拐走的人贩子，而那个疯癫的女人就是一直在寻找我的妈妈，那天我跟着“爸爸”在街上行乞，她一眼就认出了被折磨的不成人形的我，人贩子见事情败露，急忙将我抱回了家，妈妈为了复仇，用人贩子折磨我的方式折磨人贩子，随后杀了他，我终于可以回家了。",
+      "logprobs": {
+        "answer_given_puzzle": -239.890052318573,
+        "puzzle_given_answer": -96.27552223205566,
+        "answer_given_empty": -283.13871002197266,
+        "puzzle_given_empty": -108.64694786071777,
+        "answer_prompt_effect": 43.24865770339966,
+        "puzzle_prompt_effect": 12.37142562866211
+      },
+      "calculated_value": 43.24865770339966
+    },
+    {
+      "file": "死亡直播.md",
+      "puzzle_text": "我在床上躺着看直播，刷到了一个漆黑的直播间，直播间里越来越亮，我看到了天花板，然后我死了。",
+      "answer_text": "我观看的这个直播间正在直播杀人，巧的是这一次要杀的人就是我。我关着灯躺在床上看直播，所以直播间里漆黑一片。主播进来后打开了灯，直播间逐渐变亮，而我也能看见天花板了。看清我位置的主播把我给杀了。",
+      "logprobs": {
+        "answer_given_puzzle": -192.86039686203003,
+        "puzzle_given_answer": -70.86204528808594,
+        "answer_given_empty": -238.39578437805176,
+        "puzzle_given_empty": -100.7271728515625,
+        "answer_prompt_effect": 45.53538751602173,
+        "puzzle_prompt_effect": 29.865127563476562
+      },
+      "calculated_value": 45.53538751602173
+    },
+    {
+      "file": "爱犬.md",
+      "puzzle_text": "一个女孩独居，陪伴她的只有爱犬。半夜醒来，她听到一下一下的水滴声，非常害怕。于是把手放到了床边，让爱犬舔了舔她的手，渐渐又睡着了。第二天，她发现狗死了。",
+      "answer_text": "当天晚上小偷潜入她家，为避免狗叫惊醒女孩，就将狗杀死，滴水声是狗在流血。舔她手的也不是她的狗，而是躺在她床边的小偷。",
+      "logprobs": {
+        "answer_given_puzzle": -129.0019302368164,
+        "puzzle_given_answer": -133.3964080810547,
+        "answer_given_empty": -181.01776123046875,
+        "puzzle_given_empty": -170.12326049804688,
+        "answer_prompt_effect": 52.015830993652344,
+        "puzzle_prompt_effect": 36.72685241699219
+      },
+      "calculated_value": 52.015830993652344
+    }
+  ],
+  "statistics": {
+    "min_value": -19.350934982299805,
+    "max_value": 52.015830993652344,
+    "avg_value": 19.661418575989572
+  }
+}

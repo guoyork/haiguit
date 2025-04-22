@@ -1,0 +1,3026 @@
+{
+  "puzzles": [
+    {
+      "id": 0,
+      "puzzle_text": "Jack and Judy were lying on the floor dead. There was a puddle of water and broken glass on the floor. How did they die?",
+      "answer_text": "Jack and Judy were two goldfish that swam in a small aquarium placed on a shelf. One afternoon, a cat sneaked into the room through the window and hit the aquarium that fell off the shelf and broke against the ground.",
+      "logprobs": {
+        "answer_given_puzzle": -139.04925727844238,
+        "puzzle_given_answer": -55.1176700592041,
+        "answer_given_empty": -145.97537183761597,
+        "puzzle_given_empty": -73.23368453979492,
+        "answer_prompt_effect": 6.926114559173584,
+        "puzzle_prompt_effect": 18.11601448059082
+      }
+    },
+    {
+      "id": 1,
+      "puzzle_text": "A man lives on the 10th floor of a building. Every morning he takes the elevator to the ground floor to go to work. Upon returning from work he goes up always to floor 7th in the elevator. Then he goes upstairs the 3 remaining floors.",
+      "answer_text": "The man is very short so he has no problem to press the button on the ground floor but he does not reach the 10th floor button. The maximum he reaches is up to the 7th floor button.",
+      "logprobs": {
+        "answer_given_puzzle": -97.28356170654297,
+        "puzzle_given_answer": -106.79095840454102,
+        "answer_given_empty": -136.6236114501953,
+        "puzzle_given_empty": -145.80566024780273,
+        "answer_prompt_effect": 39.340049743652344,
+        "puzzle_prompt_effect": 39.01470184326172
+      }
+    },
+    {
+      "id": 2,
+      "puzzle_text": "A hunter aimed his gun carefully and fired. Seconds later, he realized his mistake. Minutes later, he was dead.",
+      "answer_text": "He hunted in snow-capped mountains. The shot provoked an avalanche, which covered the man. He died of strangulation.",
+      "logprobs": {
+        "answer_given_puzzle": -72.8353500366211,
+        "puzzle_given_answer": -56.580230712890625,
+        "answer_given_empty": -107.27880668640137,
+        "puzzle_given_empty": -95.9951171875,
+        "answer_prompt_effect": 34.44345664978027,
+        "puzzle_prompt_effect": 39.414886474609375
+      }
+    },
+    {
+      "id": 3,
+      "puzzle_text": "Matthew keeps reading a bedtime story to his son despite the blackout.",
+      "answer_text": "Matthew was blind and he usually read bedtime stories to his son from a braille book. That night there was a blackout, but this did not stop him from finishing the story.",
+      "logprobs": {
+        "answer_given_puzzle": -67.24589490890503,
+        "puzzle_given_answer": -27.645179748535156,
+        "answer_given_empty": -123.05097198486328,
+        "puzzle_given_empty": -76.04286193847656,
+        "answer_prompt_effect": 55.80507707595825,
+        "puzzle_prompt_effect": 48.397682189941406
+      }
+    },
+    {
+      "id": 4,
+      "puzzle_text": "A man is found dead in a filed. Lying next to him is an unopened package.",
+      "answer_text": "The man was skydiving and his parachute did not open. The unopened package was his parachute.",
+      "logprobs": {
+        "answer_given_puzzle": -38.30312919616699,
+        "puzzle_given_answer": -42.32366180419922,
+        "answer_given_empty": -90.55651664733887,
+        "puzzle_given_empty": -69.68005180358887,
+        "answer_prompt_effect": 52.253387451171875,
+        "puzzle_prompt_effect": 27.35638999938965
+      }
+    },
+    {
+      "id": 5,
+      "puzzle_text": "A woman buys a new pair of red high heels. Hours later, she dies.",
+      "answer_text": "Her husband was a magician that was doing a gun trick with an apple on her head and his eyes closed. He didn't realize that she was wearing high heals so he didn't calculate the height accurately.... so he killed her.",
+      "logprobs": {
+        "answer_given_puzzle": -173.48253631591797,
+        "puzzle_given_answer": -42.62544822692871,
+        "answer_given_empty": -195.26103973388672,
+        "puzzle_given_empty": -72.1357421875,
+        "answer_prompt_effect": 21.77850341796875,
+        "puzzle_prompt_effect": 29.51029396057129
+      }
+    },
+    {
+      "id": 6,
+      "puzzle_text": "Three dead men sitting at a table in a room. On the table, there are playing cards and a gun. What happened?",
+      "answer_text": "Two men shot themselves in the head, and the third one suffocated. The room is in a submarine lying motionless at the sea bottom. \n\nThe men had a gun with only two bullets. When there was very little air left, the men decided to gamble. The winners got the right to shoot themselves, and the loser had to agonize suffocating, accompanied by two corpses.",
+      "logprobs": {
+        "answer_given_puzzle": -223.03862285614014,
+        "puzzle_given_answer": -54.8422737121582,
+        "answer_given_empty": -253.7682285308838,
+        "puzzle_given_empty": -78.41099548339844,
+        "answer_prompt_effect": 30.729605674743652,
+        "puzzle_prompt_effect": 23.568721771240234
+      }
+    },
+    {
+      "id": 7,
+      "puzzle_text": "The boy knocks on the door. The owner of the house opens it. The boy immediately thanks the owner and leaves. Why?",
+      "answer_text": "Before knocking, the boy tied his baby tooth to the door handle. When the owner opened the door, he also pulled the boy's tooth.",
+      "logprobs": {
+        "answer_given_puzzle": -100.56013441085815,
+        "puzzle_given_answer": -66.23974609375,
+        "answer_given_empty": -123.57168388366699,
+        "puzzle_given_empty": -75.90291976928711,
+        "answer_prompt_effect": 23.011549472808838,
+        "puzzle_prompt_effect": 9.66317367553711
+      }
+    },
+    {
+      "id": 8,
+      "puzzle_text": "A little girl was warned by her parents never to open the cellar door. If she did, she would see things that they did not want her to see. One day, while her parents were out, they accidentally left the cellar door unlocked. The girl opened the cellar door. What did she see?",
+      "answer_text": "When the girl opened the cellar door she saw the living room and a beautiful garden through its windows. She had never seen these before because her parents had kept her in the cellar all her life.",
+      "logprobs": {
+        "answer_given_puzzle": -87.82036924362183,
+        "puzzle_given_answer": -81.77094984054565,
+        "answer_given_empty": -111.39080810546875,
+        "puzzle_given_empty": -133.05280685424805,
+        "answer_prompt_effect": 23.570438861846924,
+        "puzzle_prompt_effect": 51.28185701370239
+      }
+    },
+    {
+      "id": 9,
+      "puzzle_text": "A man went into a party and drank some of the punch. He then left early. Everyone at the party who drunk the punch subsequently died of poisoning. Why did the man not die?",
+      "answer_text": "The poison from the punch came from the ice cubes. When the man drank the punch, the ice was fully frozen. Gradually, as the ice cubes melted the poison was released into the punch.",
+      "logprobs": {
+        "answer_given_puzzle": -97.49164962768555,
+        "puzzle_given_answer": -79.33627700805664,
+        "answer_given_empty": -130.09165143966675,
+        "puzzle_given_empty": -103.23204755783081,
+        "answer_prompt_effect": 32.6000018119812,
+        "puzzle_prompt_effect": 23.89577054977417
+      }
+    },
+    {
+      "id": 10,
+      "puzzle_text": "A married couple was speeding into town when their sedan ran out of gas. The man went for help after making sure his wife closed the windows and locked the doors of the car. Upon his return, he found his wife dead and a stranger in the car. The windows were still closed, the doors were still locked, and no damage was done to the car.",
+      "answer_text": "The woman gave birth, and bled to death. Since the father has never seen the baby before, the kid can technically be called a stranger.",
+      "logprobs": {
+        "answer_given_puzzle": -94.83797979354858,
+        "puzzle_given_answer": -141.49280881881714,
+        "answer_given_empty": -129.40980529785156,
+        "puzzle_given_empty": -161.055278301239,
+        "answer_prompt_effect": 34.57182550430298,
+        "puzzle_prompt_effect": 19.562469482421875
+      }
+    },
+    {
+      "id": 11,
+      "puzzle_text": "A man woke up at night feeling thirsty. Then he turned off the light everywhere and went to bed again. In the morning he woke up, looked out of the window and yelled. Soon after he committed suicide.",
+      "answer_text": "The man was caretaker. Accindetally he turned off the lighthouse and it caused some shipwrecks. When he woke up, he realized what he have done.",
+      "logprobs": {
+        "answer_given_puzzle": -97.15594434738159,
+        "puzzle_given_answer": -130.50091552734375,
+        "answer_given_empty": -131.84075164794922,
+        "puzzle_given_empty": -151.9227066040039,
+        "answer_prompt_effect": 34.68480730056763,
+        "puzzle_prompt_effect": 21.421791076660156
+      }
+    },
+    {
+      "id": 12,
+      "puzzle_text": "Francis dies of a heart attack at work. His colleagues are there when it happens. However, they do not call for help until Francis dies.",
+      "answer_text": "Francis was a theather actor and suffered a heart attack in the middle of a performance. However, he was playing someone who was having a heart attack. Therefore, both his colleagues and the audience simply thought that he was giving a really impressive performance.",
+      "logprobs": {
+        "answer_given_puzzle": -113.84091329574585,
+        "puzzle_given_answer": -79.47924423217773,
+        "answer_given_empty": -147.36497497558594,
+        "puzzle_given_empty": -94.87593841552734,
+        "answer_prompt_effect": 33.52406167984009,
+        "puzzle_prompt_effect": 15.39669418334961
+      }
+    },
+    {
+      "id": 13,
+      "puzzle_text": "Helen never thought that her decision to travel by plane would save her life.",
+      "answer_text": "A few days earlier Helen had been operated on. Before boarding the plane, she had to go through the metal detector, which kept going off, despite the fact that she had removed everything metal she had on. After an X-ray examination, it was discovered that the doctors had left a scalpel inside her body. If Helen had not discovered it in time, she would died for sure.",
+      "logprobs": {
+        "answer_given_puzzle": -182.42568969726562,
+        "puzzle_given_answer": -32.60064649581909,
+        "answer_given_empty": -220.34759330749512,
+        "puzzle_given_empty": -63.88037109375,
+        "answer_prompt_effect": 37.92190361022949,
+        "puzzle_prompt_effect": 31.279724597930908
+      }
+    },
+    {
+      "id": 14,
+      "puzzle_text": "A black cat is walking through the middle of a road where there is a broken street lamp. A man is driving his vehicle with headlights that do not work. Despite all of this, he is able to avoid harming the cat.",
+      "answer_text": "The man avoided the cat because it was daylight.",
+      "logprobs": {
+        "answer_given_puzzle": -16.047393798828125,
+        "puzzle_given_answer": -137.15855360031128,
+        "answer_given_empty": -68.904296875,
+        "puzzle_given_empty": -135.95181846618652,
+        "answer_prompt_effect": 52.856903076171875,
+        "puzzle_prompt_effect": -1.2067351341247559
+      }
+    },
+    {
+      "id": 15,
+      "puzzle_text": "A man is replacing a wheel on his car, when he accidentally drops the four nuts used to hold the wheel on the car, and they fall into a deep drain, irretrievably lost. A passing girl offers him a solution which enables him to drive home. What is it? (keep you mind out of the drain)",
+      "answer_text": "Use one nut from each of the four other wheels.",
+      "logprobs": {
+        "answer_given_puzzle": -36.45977783203125,
+        "puzzle_given_answer": -137.33237600326538,
+        "answer_given_empty": -71.359375,
+        "puzzle_given_empty": -156.06835746765137,
+        "answer_prompt_effect": 34.89959716796875,
+        "puzzle_prompt_effect": 18.735981464385986
+      }
+    },
+    {
+      "id": 16,
+      "puzzle_text": "A car driver causes an accident when he crashes into a bike, as he was making an unexpected turn at a crossroad. When the policemen arrive, another man gets arrested. The one who was driving is carried home.",
+      "answer_text": "The driver was receiving driving lessons and his instructor told him to make an incorrect turn at a crossroad, crashing into a bike. The policemen considered the driving instructor to be responsible for the accident so they arrested him and took the learner home.",
+      "logprobs": {
+        "answer_given_puzzle": -117.39508056640625,
+        "puzzle_given_answer": -119.88449096679688,
+        "answer_given_empty": -182.40341138839722,
+        "puzzle_given_empty": -166.9017791748047,
+        "answer_prompt_effect": 65.00833082199097,
+        "puzzle_prompt_effect": 47.01728820800781
+      }
+    },
+    {
+      "id": 17,
+      "puzzle_text": "Anthony couldn't have imagine his cold would be the cause of his death.",
+      "answer_text": "There was a gas leak at Anthony's house but since he had a cold, he could not smell it. He died when he started a fire, as he was cooking his dinner.",
+      "logprobs": {
+        "answer_given_puzzle": -82.04055786132812,
+        "puzzle_given_answer": -42.1258544921875,
+        "answer_given_empty": -125.63522338867188,
+        "puzzle_given_empty": -75.05487060546875,
+        "answer_prompt_effect": 43.59466552734375,
+        "puzzle_prompt_effect": 32.92901611328125
+      }
+    },
+    {
+      "id": 18,
+      "puzzle_text": "A man was walking with a gold ring on his finger. Suddenly robbers attacked him. They wanted to take the ring but couldn’t take it off. So, they cut off the finger and ran away. However, the man didn’t even scream. Why?",
+      "answer_text": "He had gold teeth, and he didn’t want to show them, so that the robbers wouldn’t take them too.",
+      "logprobs": {
+        "answer_given_puzzle": -65.79743957519531,
+        "puzzle_given_answer": -97.43994903564453,
+        "answer_given_empty": -91.02416610717773,
+        "puzzle_given_empty": -127.64392852783203,
+        "answer_prompt_effect": 25.226726531982422,
+        "puzzle_prompt_effect": 30.2039794921875
+      }
+    },
+    {
+      "id": 19,
+      "puzzle_text": "A salesman tries too hard to get a sale and as a result ends up dying.",
+      "answer_text": "The salesman sold bulletproof vests. One day, to prove the quality of his product to a customer, he put one of them on and insisted the client to shoot him. The client accepted but unfortunately he missed the shot and shot the salesman in the head.",
+      "logprobs": {
+        "answer_given_puzzle": -116.68144226074219,
+        "puzzle_given_answer": -55.757774353027344,
+        "answer_given_empty": -161.73470306396484,
+        "puzzle_given_empty": -78.0140380859375,
+        "answer_prompt_effect": 45.053260803222656,
+        "puzzle_prompt_effect": 22.256263732910156
+      }
+    },
+    {
+      "id": 20,
+      "puzzle_text": "After George tries to hug a person, he dies by drowning.",
+      "answer_text": "George was under the influence of alcohol and saw his reflection on a river. As he was intoxicated, he thought that it would be a good idea to give a hug to the \"stranger\". However this caused him to fall into the river and drown.",
+      "logprobs": {
+        "answer_given_puzzle": -108.71695137023926,
+        "puzzle_given_answer": -34.10978698730469,
+        "answer_given_empty": -152.25717544555664,
+        "puzzle_given_empty": -81.144775390625,
+        "answer_prompt_effect": 43.54022407531738,
+        "puzzle_prompt_effect": 47.03498840332031
+      }
+    },
+    {
+      "id": 21,
+      "puzzle_text": "When on a bus, Kate wanted to offer her seat to a woman who's just goton. But she was very embarrassed and refused. Why?",
+      "answer_text": "Little Kate was sitting in her dad's lap.",
+      "logprobs": {
+        "answer_given_puzzle": -35.096954345703125,
+        "puzzle_given_answer": -107.3341064453125,
+        "answer_given_empty": -47.32421875,
+        "puzzle_given_empty": -137.34038496017456,
+        "answer_prompt_effect": 12.227264404296875,
+        "puzzle_prompt_effect": 30.00627851486206
+      }
+    },
+    {
+      "id": 22,
+      "puzzle_text": "While he was in the forest, a wild beast bit off his nose. But he died only 3 months later.",
+      "answer_text": "It was a snowman. A hare bit off its carrot nose, but it melted only in April.",
+      "logprobs": {
+        "answer_given_puzzle": -70.1446533203125,
+        "puzzle_given_answer": -56.4337158203125,
+        "answer_given_empty": -101.25555419921875,
+        "puzzle_given_empty": -90.249755859375,
+        "answer_prompt_effect": 31.11090087890625,
+        "puzzle_prompt_effect": 33.8160400390625
+      }
+    },
+    {
+      "id": 23,
+      "puzzle_text": "Every night before going to sleep, Lisa locks the door of her house and attaches the key to a string. Why?",
+      "answer_text": "Lisa was a sleepwalker. Some days before, she had left her house in the middle of the night without realizing. To prevent this happening again, she began tying the key with a piece of string to a bell each night. That way, if Lisa tried to leave the house, her husband would wake up and take her back to bed.",
+      "logprobs": {
+        "answer_given_puzzle": -147.73992538452148,
+        "puzzle_given_answer": -46.46545219421387,
+        "answer_given_empty": -205.61442852020264,
+        "puzzle_given_empty": -99.1197509765625,
+        "answer_prompt_effect": 57.87450313568115,
+        "puzzle_prompt_effect": 52.65429878234863
+      }
+    },
+    {
+      "id": 24,
+      "puzzle_text": "Sherlock Holmes had a secret room, and the key to it was in a chest of drawers. He didn’t let anyone in there – neither Dr. Watson, nor Mrs. Hudson. But when Sherlock Holmes and Dr. Watson left, Mrs. Hudson decided to see what was in the room, took the key, opened the room, and entered. She walked around the room, approached a table, opened a book lying on it. \r\n\r\nSuddenly, she heard footsteps downstairs, and Holmes’s voice, “I forgot something.” Mrs. Hudson quickly closed the book, put it back, went to the door, turned off the light, left the room, closed the door, and managed to put the key back. Holmes took the key, opened the door, looked into the room, and immediately asked, “Mrs. Hudson, why did you enter my room?”\r\n\r\nHow did Holmes know that Mrs. Hudson had entered his room?",
+      "answer_text": "Holmes forgot to turn off the light.",
+      "logprobs": {
+        "answer_given_puzzle": -28.609512329101562,
+        "puzzle_given_answer": -354.73660135269165,
+        "answer_given_empty": -43.22450256347656,
+        "puzzle_given_empty": -368.84377574920654,
+        "answer_prompt_effect": 14.614990234375,
+        "puzzle_prompt_effect": 14.107174396514893
+      }
+    },
+    {
+      "id": 25,
+      "puzzle_text": "At one time, the following warning notices appeared on one of the main squares of Prague, “Attention! Beware of pickpockets!” The local police knew that there really were a lot of pickpockets here, but they actively tore these notices down. Why?",
+      "answer_text": "There were a lot of tourists on this square. It was pickpockets who pasted up notices about themselves. This made their task easier. People who read the notices automatically wanted to check whether their valuables were intact. The thieves were watching them and understood where their target was.\nThe police found out about this trick and tore these notices down so that people couldn’t unknowingly help to rob themselves.",
+      "logprobs": {
+        "answer_given_puzzle": -226.47026443481445,
+        "puzzle_given_answer": -129.43695783615112,
+        "answer_given_empty": -305.67576599121094,
+        "puzzle_given_empty": -163.05206775665283,
+        "answer_prompt_effect": 79.20550155639648,
+        "puzzle_prompt_effect": 33.61510992050171
+      }
+    },
+    {
+      "id": 26,
+      "puzzle_text": "A couple enters a grand ballroom only to find the occupants are dead. There has been no crime committed. The couple is not concerned by what they have found. How is this possible?",
+      "answer_text": "The couple is scuba diving on a sunken cruise ship. The occupants in the ballroom had drowned when the ship sank suddenly in a terrible disaster at sea.",
+      "logprobs": {
+        "answer_given_puzzle": -104.57254409790039,
+        "puzzle_given_answer": -101.46162986755371,
+        "answer_given_empty": -127.19075727462769,
+        "puzzle_given_empty": -130.15272521972656,
+        "answer_prompt_effect": 22.618213176727295,
+        "puzzle_prompt_effect": 28.69109535217285
+      }
+    },
+    {
+      "id": 27,
+      "puzzle_text": "Eugene was watching his relatives and friends being killed, but he couldn’t wipe the smile\r\noff his face.",
+      "answer_text": "Eugene worked as a clown in a circus. Once, animals escaped from\ntheir enclosures during a performance, and everyone broke into a run. People\nand members of his family were dying in the stampede. But he couldn’t wipe the\nsmile off his face because of the clown makeup.",
+      "logprobs": {
+        "answer_given_puzzle": -156.1331009864807,
+        "puzzle_given_answer": -49.87412977218628,
+        "answer_given_empty": -226.55401802062988,
+        "puzzle_given_empty": -124.486328125,
+        "answer_prompt_effect": 70.42091703414917,
+        "puzzle_prompt_effect": 74.61219835281372
+      }
+    },
+    {
+      "id": 28,
+      "puzzle_text": "A man walks into a bar and asks for a drink. The bartender pulls out a gun and points it at him. The man says, \"Thank you,\" and walks out. How come?",
+      "answer_text": "The man has hiccups; the bartender scares them away by pulling a gun.",
+      "logprobs": {
+        "answer_given_puzzle": -50.63603973388672,
+        "puzzle_given_answer": -45.59991455078125,
+        "answer_given_empty": -80.16889953613281,
+        "puzzle_given_empty": -65.60518836975098,
+        "answer_prompt_effect": 29.532859802246094,
+        "puzzle_prompt_effect": 20.005273818969727
+      }
+    },
+    {
+      "id": 29,
+      "puzzle_text": "A man is lying awake in bed. He makes a phone call, says nothing, and goes to sleep.",
+      "answer_text": "He is in a hotel and is unable to sleep because the man in the adjacent room is snoring. He calls the snorer up (at this hotel, like many others, the phone numbers are based on the room number). The snorer wakes up and answers. The first man hangs up without saying anything and goes to sleep before the snorer starts snoring again.",
+      "logprobs": {
+        "answer_given_puzzle": -186.50750589370728,
+        "puzzle_given_answer": -46.3358039855957,
+        "answer_given_empty": -210.26254415512085,
+        "puzzle_given_empty": -77.93184661865234,
+        "answer_prompt_effect": 23.755038261413574,
+        "puzzle_prompt_effect": 31.59604263305664
+      }
+    },
+    {
+      "id": 30,
+      "puzzle_text": "An exotic dancer goes on a date for a private session with a man. In the room where they are, she takes her shirt and bra off. The man approaches, watches her breasts and smiles. Soon after, she dresses herself up, pays the man and leaves.",
+      "answer_text": "The woman had undergone a breast augmentation surgery a few days earlier and she had arranged an appointment with her private doctor to review the result of the operation. The man saw that everything was perfect and that he had done a great job. Finally the woman paid the bill and left the clinic.",
+      "logprobs": {
+        "answer_given_puzzle": -146.1547088623047,
+        "puzzle_given_answer": -145.78338623046875,
+        "answer_given_empty": -162.28358459472656,
+        "puzzle_given_empty": -179.4132194519043,
+        "answer_prompt_effect": 16.128875732421875,
+        "puzzle_prompt_effect": 33.62983322143555
+      }
+    },
+    {
+      "id": 31,
+      "puzzle_text": "When Liz was about to find out who killed Mario, she fell asleep. When she woke up she realized that she could no longer find it out.",
+      "answer_text": "Liz was reading a novel on the beach. The main character, Mario, had been killed and she was about to find out who had committed the crime. Before she found it out, she fell asleep with the book lying in the sand. When she woke up she saw that the tide had risen and the book had been washed away.",
+      "logprobs": {
+        "answer_given_puzzle": -116.88465881347656,
+        "puzzle_given_answer": -48.32749366760254,
+        "answer_given_empty": -214.76327466964722,
+        "puzzle_given_empty": -105.96807670593262,
+        "answer_prompt_effect": 97.87861585617065,
+        "puzzle_prompt_effect": 57.64058303833008
+      }
+    },
+    {
+      "id": 32,
+      "puzzle_text": "Beulah died in the Appalachians, while Craig died at sea. Everyone was much happier with Craig's death. How come?",
+      "answer_text": "Beulah and Craig were hurricanes.",
+      "logprobs": {
+        "answer_given_puzzle": -21.549362182617188,
+        "puzzle_given_answer": -76.0863037109375,
+        "answer_given_empty": -60.35253858566284,
+        "puzzle_given_empty": -112.25024366378784,
+        "answer_prompt_effect": 38.803176403045654,
+        "puzzle_prompt_effect": 36.16393995285034
+      }
+    },
+    {
+      "id": 33,
+      "puzzle_text": "A woman dies from a long telephone conversation.",
+      "answer_text": "She was just coming from the mechanic, where she picked up her car. The mechanic forgot to put on the brakes, and he was trying to call and tell her. But it was impossible because she was already talking on the phone with someone.",
+      "logprobs": {
+        "answer_given_puzzle": -121.45233154296875,
+        "puzzle_given_answer": -39.5859375,
+        "answer_given_empty": -177.49517011642456,
+        "puzzle_given_empty": -52.91015625,
+        "answer_prompt_effect": 56.04283857345581,
+        "puzzle_prompt_effect": 13.32421875
+      }
+    },
+    {
+      "id": 34,
+      "puzzle_text": "A young woman has her photo taken with her grandfather, but they have never met before, and neither of them is aware of their relationship.",
+      "answer_text": "The woman is a student in medical school. She has her photo taken with a human skeleton in the classroom, used for instruction. She does not know that the skeleton is that of her grandfather, who donated his body to science.",
+      "logprobs": {
+        "answer_given_puzzle": -88.4322657585144,
+        "puzzle_given_answer": -60.79264450073242,
+        "answer_given_empty": -130.16207838058472,
+        "puzzle_given_empty": -86.459716796875,
+        "answer_prompt_effect": 41.72981262207031,
+        "puzzle_prompt_effect": 25.667072296142578
+      }
+    },
+    {
+      "id": 35,
+      "puzzle_text": "A woman is at home, sad, and watching the street through her window. Soon after she jumps out of it. Just in that precise moment, she hears the telephone ringing and regrets jumping.",
+      "answer_text": "After a nuclear catastrophe, the woman thought that she was the only person alive and decided to put an end to her life. When the telephone rang she realized that she was not alone. But it was too late for her.",
+      "logprobs": {
+        "answer_given_puzzle": -87.46932744979858,
+        "puzzle_given_answer": -116.14776611328125,
+        "answer_given_empty": -133.36312055587769,
+        "puzzle_given_empty": -153.173583984375,
+        "answer_prompt_effect": 45.8937931060791,
+        "puzzle_prompt_effect": 37.02581787109375
+      }
+    },
+    {
+      "id": 36,
+      "puzzle_text": "A woman is watching a movie. Suddenly she hears a lot of explosions and people screaming outside. Then there is silence. The woman turns off the TV and goes to sleep.",
+      "answer_text": "It was New Year's Eve. The woman waited until everyone had finished celebrating and then went to bed.",
+      "logprobs": {
+        "answer_given_puzzle": -46.722564697265625,
+        "puzzle_given_answer": -86.31932783126831,
+        "answer_given_empty": -73.19619750976562,
+        "puzzle_given_empty": -108.8996810913086,
+        "answer_prompt_effect": 26.4736328125,
+        "puzzle_prompt_effect": 22.580353260040283
+      }
+    },
+    {
+      "id": 37,
+      "puzzle_text": "Before going to bed, the woman hides her shoe in the safe. What for?",
+      "answer_text": "This woman works as a stewardess on an airplane. In the hotel before going to bed she puts her documents in the safe, and to not forget them in the morning, she puts one of her shoes along with the documents.",
+      "logprobs": {
+        "answer_given_puzzle": -130.42700719833374,
+        "puzzle_given_answer": -39.10394287109375,
+        "answer_given_empty": -151.17812824249268,
+        "puzzle_given_empty": -82.12841796875,
+        "answer_prompt_effect": 20.751121044158936,
+        "puzzle_prompt_effect": 43.02447509765625
+      }
+    },
+    {
+      "id": 38,
+      "puzzle_text": "Visitors to a scenic mountain village were often amused by the village idiot. When offered a choice between a shiny 50-cent piece and a crumpled $5 bill, he would always happily choose the half-dollar. The bill was worth ten times as much, so why did he never choose it?",
+      "answer_text": "The so-called village idiot was smart enough to realize that as long as he kept choosing a 50-cent piece, people would keep offering him the choice. If he took the $5 bill once, the stream of coins would stop rolling in.",
+      "logprobs": {
+        "answer_given_puzzle": -93.2044267654419,
+        "puzzle_given_answer": -110.85139846801758,
+        "answer_given_empty": -171.18055534362793,
+        "puzzle_given_empty": -145.59962272644043,
+        "answer_prompt_effect": 77.97612857818604,
+        "puzzle_prompt_effect": 34.74822425842285
+      }
+    },
+    {
+      "id": 39,
+      "puzzle_text": "The son of a rich man was kidnapped. The kidnapper wanted the rich man to bring and put the expensive diamond into the call-box located in a city park. Policemen surrounded this park, intending to catch the criminal. The father of the kidnapped child came to the call-box and did everything the kidnapper said to him, but the police could not prevent the cunning criminal from taking the diamond out of the call-box. They didn't grab the villian as well. What did he do?",
+      "answer_text": "This is a real history that happened in Taiwan. When the father came to the call-box, he found a postal pigeon in the cage. There was a note attached to him, in which it was said that the diamond should be put into a small pouch attached to the neck of the pigeon, and then he should let the pigeon out of the cage. When the rich man did this, the dove flew through the city to its dovecote, and the police could not follow it.",
+      "logprobs": {
+        "answer_given_puzzle": -222.07222366333008,
+        "puzzle_given_answer": -234.1361026763916,
+        "answer_given_empty": -296.93514585494995,
+        "puzzle_given_empty": -285.4055004119873,
+        "answer_prompt_effect": 74.86292219161987,
+        "puzzle_prompt_effect": 51.2693977355957
+      }
+    },
+    {
+      "id": 40,
+      "puzzle_text": "A man who was expecting to die in a few days dies sooner than he thought.",
+      "answer_text": "The man was really sick and he decided to donate his organs to a rich man. Since this rich man's son wanted to inherit his farther's fortune he poisoned the donor so that his organs became unable to work again in his father's body.",
+      "logprobs": {
+        "answer_given_puzzle": -158.88653564453125,
+        "puzzle_given_answer": -52.24072265625,
+        "answer_given_empty": -209.0025634765625,
+        "puzzle_given_empty": -66.13946533203125,
+        "answer_prompt_effect": 50.11602783203125,
+        "puzzle_prompt_effect": 13.89874267578125
+      }
+    },
+    {
+      "id": 41,
+      "puzzle_text": "A woman goes to the library, takes a book and cries out.",
+      "answer_text": "The woman was a writer and she had donated one of her books to the library. She had included a 50$ bill among the pages as a gift for the first person borrowing the book. After a year, she came back to the library, took the book and saw that the bill was still there. Realizing that no one had read her book she burst into tears.",
+      "logprobs": {
+        "answer_given_puzzle": -141.78623580932617,
+        "puzzle_given_answer": -27.836074829101562,
+        "answer_given_empty": -198.87639808654785,
+        "puzzle_given_empty": -69.69219970703125,
+        "answer_prompt_effect": 57.09016227722168,
+        "puzzle_prompt_effect": 41.85612487792969
+      }
+    },
+    {
+      "id": 42,
+      "puzzle_text": "The sound of Brian’s snoring is usually just annoying, but today it causes terror and panic. Why?",
+      "answer_text": "Brian is a bus driver.",
+      "logprobs": {
+        "answer_given_puzzle": -21.490203857421875,
+        "puzzle_given_answer": -80.32171630859375,
+        "answer_given_empty": -29.51513671875,
+        "puzzle_given_empty": -91.31573486328125,
+        "answer_prompt_effect": 8.024932861328125,
+        "puzzle_prompt_effect": 10.9940185546875
+      }
+    },
+    {
+      "id": 43,
+      "puzzle_text": "A man and a woman got married. After the wedding they abandoned all their activities, that were bringing them money, and only had fun. As a result, in three years they became millionaires.",
+      "answer_text": "Before the wedding, they were billionaires. Therefore during these three years they spent a lot of money and as a result became millionaires.",
+      "logprobs": {
+        "answer_given_puzzle": -49.642059326171875,
+        "puzzle_given_answer": -77.41085433959961,
+        "answer_given_empty": -110.59295463562012,
+        "puzzle_given_empty": -129.49609327316284,
+        "answer_prompt_effect": 60.95089530944824,
+        "puzzle_prompt_effect": 52.08523893356323
+      }
+    },
+    {
+      "id": 44,
+      "puzzle_text": "If the wind hadn't blown so strongly that night, Angela would still be alive.",
+      "answer_text": "As it was windy, Angela decided to go to a field to fly her kite. At twilight, she could not see the nearby transmission tower. When her kite got tangled in the cables and she tried to untangle them, she was electrocuted.",
+      "logprobs": {
+        "answer_given_puzzle": -114.92287063598633,
+        "puzzle_given_answer": -34.58872604370117,
+        "answer_given_empty": -148.36742401123047,
+        "puzzle_given_empty": -67.26655578613281,
+        "answer_prompt_effect": 33.44455337524414,
+        "puzzle_prompt_effect": 32.67782974243164
+      }
+    },
+    {
+      "id": 45,
+      "puzzle_text": "A man was furious, when he realized that he can hear better without hearing aid that he was using the last 20 years. He went to his doctor to complain but the specialist became even more furious than him.",
+      "answer_text": "The man was wearing the hearing aid on his healthy ear.",
+      "logprobs": {
+        "answer_given_puzzle": -21.931114196777344,
+        "puzzle_given_answer": -124.75743865966797,
+        "answer_given_empty": -60.1639404296875,
+        "puzzle_given_empty": -146.53265380859375,
+        "answer_prompt_effect": 38.232826232910156,
+        "puzzle_prompt_effect": 21.77521514892578
+      }
+    },
+    {
+      "id": 46,
+      "puzzle_text": "One day a man received a parcel in the post. Carefully packed inside was a human arm. He examined it, repacked it and then sent it on to another man. The second man also carefully examined the arm before taking it to the woods and burying it. Why did they do this?",
+      "answer_text": "The three men had been stranded on a desert island. Desperate for food, they had agreed to amputate their left arms in order to eat them. They swore an oath that each would have his left arm cut off. One of them was a doctor and he cut the arms off his two companions. They were then rescued. But his oath was still binding so he later had to have his arm amputated and sent to his colleagues. \nThis is often told with a further twist whereby a doctor pays a tramp a large sum in order to amputate the tramp's arm which the doctor then sends to another man who inspects it etc. This variation can make for a long night of questioning!",
+      "logprobs": {
+        "answer_given_puzzle": -393.96705198287964,
+        "puzzle_given_answer": -122.89873504638672,
+        "answer_given_empty": -403.6903281211853,
+        "puzzle_given_empty": -148.48040342330933,
+        "answer_prompt_effect": 9.723276138305664,
+        "puzzle_prompt_effect": 25.581668376922607
+      }
+    },
+    {
+      "id": 47,
+      "puzzle_text": "Every day he puts on green lipstick. But almost no one notices it.",
+      "answer_text": "In the 20th century the television was still black and white, and cameras had red filters, which absorbed red color of the image, i.e., red lipstick couldn’t be seen on the lips. Therefore, TV broadcasters had to make up their lips with green lipstick to make them look more expressive.",
+      "logprobs": {
+        "answer_given_puzzle": -176.84801483154297,
+        "puzzle_given_answer": -41.371856689453125,
+        "answer_given_empty": -206.61708068847656,
+        "puzzle_given_empty": -70.89474487304688,
+        "answer_prompt_effect": 29.769065856933594,
+        "puzzle_prompt_effect": 29.52288818359375
+      }
+    },
+    {
+      "id": 48,
+      "puzzle_text": "On a beautiful road, there’s a bus stop that is fully operational. However, no public transport stops there. Why?",
+      "answer_text": "This stop is in Germany next to a nursing home for senile dementia patients. It has a schedule of supposedly passing bus routes hanging on it. Old men and old women who tried to tail off, went to the bus stop, sat down and humbly waited for their bus.\n\nIf the nursing home employees noticed that one of the inhabitants had been missing for a long time, they just went and picked them up from the bus stop.",
+      "logprobs": {
+        "answer_given_puzzle": -297.7976779937744,
+        "puzzle_given_answer": -72.9614028930664,
+        "answer_given_empty": -307.1894302368164,
+        "puzzle_given_empty": -96.89379692077637,
+        "answer_prompt_effect": 9.391752243041992,
+        "puzzle_prompt_effect": 23.93239402770996
+      }
+    },
+    {
+      "id": 49,
+      "puzzle_text": "A man is driving his car while listening to the radio when suddenly the radio goes silent. He then decides to leave the road and throw himself off the top of a cliff.",
+      "answer_text": "The man was a radio broadcaster who had commited a murder. He had left a recorded radio broadcast live as an alibi. Realizing that the program he had prepared had stopped airing accidentally and that they would know that he was the culprit, he decided to end his life.",
+      "logprobs": {
+        "answer_given_puzzle": -165.72353744506836,
+        "puzzle_given_answer": -78.32620620727539,
+        "answer_given_empty": -199.19513320922852,
+        "puzzle_given_empty": -106.35429000854492,
+        "answer_prompt_effect": 33.471595764160156,
+        "puzzle_prompt_effect": 28.02808380126953
+      }
+    },
+    {
+      "id": 50,
+      "puzzle_text": "A man sitting on a park bench reads a newspaper article headlined \"Death at Sea\" and knows a murder has been committed.",
+      "answer_text": "The man is a travel agent. He had sold someone two tickets for an ocean voyage, one round-trip and one one-way. The last name of the man who bought the tickets is the same as the last name of the woman who \"fell\" overboard and drowned on the same voyage, which is the subject of the article he's reading. \nThis may have derived from a story done by Alfred Hitchcock, if the following Hitchcock quotation is accurate: \"If you take your wife on a sea voyage, buy her a round-trip ticket no matter what your plans may be.\"",
+      "logprobs": {
+        "answer_given_puzzle": -280.4848155975342,
+        "puzzle_given_answer": -67.57773399353027,
+        "answer_given_empty": -328.2177257537842,
+        "puzzle_given_empty": -98.95811462402344,
+        "answer_prompt_effect": 47.73291015625,
+        "puzzle_prompt_effect": 31.380380630493164
+      }
+    },
+    {
+      "id": 51,
+      "puzzle_text": "In the 1940s, a real football game in Brazil ended with an unusual score of 0.5 - 0. What happened?",
+      "answer_text": "When the score was 0-0, a penalty kick was awarded. The attacker runs up and strikes... and one of the seams of the ball, which at that time was hand-made, burst: the inner rubber bubble flew into the gate, and the outer leather case rolled out of the gate. The referee’s decision was: “half a goal.”\nSince no more goals were scored, the game ended with a score of 0.5 - 0.",
+      "logprobs": {
+        "answer_given_puzzle": -257.63218879699707,
+        "puzzle_given_answer": -56.482421875,
+        "answer_given_empty": -287.5064239501953,
+        "puzzle_given_empty": -92.3521876335144,
+        "answer_prompt_effect": 29.874235153198242,
+        "puzzle_prompt_effect": 35.869765758514404
+      }
+    },
+    {
+      "id": 52,
+      "puzzle_text": "Bill died and went to heaven. There he saw thousands of people, who all were naked. He was looking around hoping to find someone he knew. And then he saw Adam and Eve.\r\n\r\nHow did he know it was them?",
+      "answer_text": "Adam and Eve were the only ones who didn’t have belly-buttons.",
+      "logprobs": {
+        "answer_given_puzzle": -38.127037048339844,
+        "puzzle_given_answer": -119.22746276855469,
+        "answer_given_empty": -52.97705078125,
+        "puzzle_given_empty": -123.36886596679688,
+        "answer_prompt_effect": 14.850013732910156,
+        "puzzle_prompt_effect": 4.1414031982421875
+      }
+    },
+    {
+      "id": 53,
+      "puzzle_text": "Everybody knew that if Julia took one step forward, she would die, but nobody told her.",
+      "answer_text": "Julia was a rat on which scientists were conducting an experiment. She was trapped in a labyrinth full of traps and was standing right in front of one.",
+      "logprobs": {
+        "answer_given_puzzle": -76.00555324554443,
+        "puzzle_given_answer": -35.477134704589844,
+        "answer_given_empty": -132.38460540771484,
+        "puzzle_given_empty": -69.08847045898438,
+        "answer_prompt_effect": 56.37905216217041,
+        "puzzle_prompt_effect": 33.61133575439453
+      }
+    },
+    {
+      "id": 54,
+      "puzzle_text": "One of Michael’s dearest loved ones binds him to a chair, but Michael doesn't mind. Why?",
+      "answer_text": "Michael is a kid. The chair is a car seat. One of Michael’s parents put his seatbelt on for him.",
+      "logprobs": {
+        "answer_given_puzzle": -72.07388305664062,
+        "puzzle_given_answer": -62.866455078125,
+        "answer_given_empty": -112.80876159667969,
+        "puzzle_given_empty": -90.76406860351562,
+        "answer_prompt_effect": 40.73487854003906,
+        "puzzle_prompt_effect": 27.897613525390625
+      }
+    },
+    {
+      "id": 55,
+      "puzzle_text": "At the bottom of a large hill, more than 50 cars are involved in an accident. Some of the cars are overturned and others are resting on top of other cars. The pile-up is so large that a few military vehicles and a fire truck are also involved in the crash. What happened to cause this big accident?",
+      "answer_text": "The cars, trucks, and other vehicles are toys being played with by a toddler.",
+      "logprobs": {
+        "answer_given_puzzle": -59.33056592941284,
+        "puzzle_given_answer": -129.37503814697266,
+        "answer_given_empty": -66.66637420654297,
+        "puzzle_given_empty": -177.8130397796631,
+        "answer_prompt_effect": 7.335808277130127,
+        "puzzle_prompt_effect": 48.43800163269043
+      }
+    },
+    {
+      "id": 56,
+      "puzzle_text": "In the 1950s in America there was invented a chicken gun. What for?",
+      "answer_text": "A chicken gun is a large-diameter, compressed-air cannon used to fire dead chickens at aircraft components in order to simulate high-speed bird strikes during the aircraft's flight. Jet engines and aircraft windshields are particularly vulnerable to damage from such strikes, and are the most common target in such tests. Whole, dead, standard-size chickens, as would be used for cooking, are thought to accurately simulate a large, live bird striking a plane in flight.",
+      "logprobs": {
+        "answer_given_puzzle": -243.1903896331787,
+        "puzzle_given_answer": -56.87577772140503,
+        "answer_given_empty": -270.24672651290894,
+        "puzzle_given_empty": -76.12112426757812,
+        "answer_prompt_effect": 27.056336879730225,
+        "puzzle_prompt_effect": 19.245346546173096
+      }
+    },
+    {
+      "id": 57,
+      "puzzle_text": "A woman is looking through the window and sees a man with a knife. However, she does not have enough time to call the police before being murdered.",
+      "answer_text": "What the woman really saw was the reflection of the murderer, who was already inside her house, behind her.",
+      "logprobs": {
+        "answer_given_puzzle": -54.48138427734375,
+        "puzzle_given_answer": -54.521759033203125,
+        "answer_given_empty": -82.3736572265625,
+        "puzzle_given_empty": -97.89599227905273,
+        "answer_prompt_effect": 27.89227294921875,
+        "puzzle_prompt_effect": 43.37423324584961
+      }
+    },
+    {
+      "id": 58,
+      "puzzle_text": "A man jumped out of plane. And he survived.",
+      "answer_text": "The plane wasn't flying.",
+      "logprobs": {
+        "answer_given_puzzle": -17.325183868408203,
+        "puzzle_given_answer": -31.5400390625,
+        "answer_given_empty": -43.4549560546875,
+        "puzzle_given_empty": -55.759521484375,
+        "answer_prompt_effect": 26.129772186279297,
+        "puzzle_prompt_effect": 24.219482421875
+      }
+    },
+    {
+      "id": 59,
+      "puzzle_text": "A man kills his brother in front of a crowd of people. However, no one reports him.",
+      "answer_text": "The man worked as executioner and his brother had been sentenced to death.",
+      "logprobs": {
+        "answer_given_puzzle": -42.79098463058472,
+        "puzzle_given_answer": -46.36162185668945,
+        "answer_given_empty": -72.36370801925659,
+        "puzzle_given_empty": -69.56523847579956,
+        "answer_prompt_effect": 29.572723388671875,
+        "puzzle_prompt_effect": 23.203616619110107
+      }
+    },
+    {
+      "id": 60,
+      "puzzle_text": "Sherlock Holmes was walking down the corridor. Suddenly he heard a woman screaming, “Please, John, don’t kill me!” A shot rang. Holmes burst into the room. In one corner lay a dead woman and a gun. In another corner stood a postman, a lawyer, and an accountant. Sherlock looked at them, approached the postman, and grabbed him: “I will arrest you for killing this woman.” It was really the postman who killed this woman, but how could Holmes know it?",
+      "answer_text": "The postman was the only man. The lawyer and the accountant were women.",
+      "logprobs": {
+        "answer_given_puzzle": -28.57357358932495,
+        "puzzle_given_answer": -221.95349407196045,
+        "answer_given_empty": -71.54632568359375,
+        "puzzle_given_empty": -242.0028223991394,
+        "answer_prompt_effect": 42.9727520942688,
+        "puzzle_prompt_effect": 20.049328327178955
+      }
+    },
+    {
+      "id": 61,
+      "puzzle_text": "Tony ran out of the building, carrying two bags. Another man ran after him, shouting and waving knives.",
+      "answer_text": "Tony was shopping in the store, he spent a lot of money, so the shop workers decided to give him a gift: a set of kitchen knives. Tony was in a hurry so he ran to his car, forgetting about it. The worker noticed this and ran after Tony to give him the gift.",
+      "logprobs": {
+        "answer_given_puzzle": -154.6314468383789,
+        "puzzle_given_answer": -83.5909423828125,
+        "answer_given_empty": -207.62786865234375,
+        "puzzle_given_empty": -89.37835645675659,
+        "answer_prompt_effect": 52.996421813964844,
+        "puzzle_prompt_effect": 5.787414073944092
+      }
+    },
+    {
+      "id": 62,
+      "puzzle_text": "John was walking along the snow-covered field. When he came to a lonely tree, he saw the corpse of a man hanging on the tree. He died the last night from strangulation, but there were no traces around him, except John's ones.",
+      "answer_text": "The hanged man was a skydiver. His parachute was entangled and caught on branches of the tree.",
+      "logprobs": {
+        "answer_given_puzzle": -59.02528762817383,
+        "puzzle_given_answer": -166.2807502746582,
+        "answer_given_empty": -89.44377517700195,
+        "puzzle_given_empty": -174.71539306640625,
+        "answer_prompt_effect": 30.418487548828125,
+        "puzzle_prompt_effect": 8.434642791748047
+      }
+    },
+    {
+      "id": 63,
+      "puzzle_text": "The Venezuelan police made a few attempts to arrest a well-known bandit. They knew where he lived. From time to time they got the arrest warrant and approached his house. When they entered the house, he locked in the bedroom. The police had nothing to do but to leave empty-handed.",
+      "answer_text": "His house was on the border between Venezuela and Colombia. Although the front door and half of the house were on the territory of Venezuela, the bedroom was located on the territory of Colombia. The Venezuelan police had no jurisdiction in Colombia, so the police couldn't arrest him while he was in the bedroom.",
+      "logprobs": {
+        "answer_given_puzzle": -93.39692878723145,
+        "puzzle_given_answer": -134.0428295135498,
+        "answer_given_empty": -153.86739921569824,
+        "puzzle_given_empty": -186.8393497467041,
+        "answer_prompt_effect": 60.4704704284668,
+        "puzzle_prompt_effect": 52.7965202331543
+      }
+    },
+    {
+      "id": 64,
+      "puzzle_text": "He died because he mixed up the colors.",
+      "answer_text": "In Thailand if some snake bites you, doctor has to identify the snake's species in order to choose the right antidote. The tourist usually can not identify it, so doctor asks him/her what color the snake was, and using this information specialist defines snake's species. The man was colorblind, therefore he received a wrong antidote.",
+      "logprobs": {
+        "answer_given_puzzle": -216.63784790039062,
+        "puzzle_given_answer": -37.6405029296875,
+        "answer_given_empty": -251.06764602661133,
+        "puzzle_given_empty": -49.9365234375,
+        "answer_prompt_effect": 34.4297981262207,
+        "puzzle_prompt_effect": 12.2960205078125
+      }
+    },
+    {
+      "id": 65,
+      "puzzle_text": "Michael applaused, and everyone in the room (except him) died. What happened?",
+      "answer_text": "Michael was killing mosquitoes.",
+      "logprobs": {
+        "answer_given_puzzle": -31.692626953125,
+        "puzzle_given_answer": -68.30322265625,
+        "answer_given_empty": -52.13671875,
+        "puzzle_given_empty": -78.3704833984375,
+        "answer_prompt_effect": 20.444091796875,
+        "puzzle_prompt_effect": 10.0672607421875
+      }
+    },
+    {
+      "id": 66,
+      "puzzle_text": "Roger sees the light and he becomes paralyzed. Soon after that he dies.",
+      "answer_text": "Roger was a rabbit that escaped from the house where he lived. He was crossing the road at night when the lights of a car blinded him. The driver did not see him and ran him over.",
+      "logprobs": {
+        "answer_given_puzzle": -73.30852890014648,
+        "puzzle_given_answer": -47.91039276123047,
+        "answer_given_empty": -93.35447311401367,
+        "puzzle_given_empty": -74.58740234375,
+        "answer_prompt_effect": 20.045944213867188,
+        "puzzle_prompt_effect": 26.67700958251953
+      }
+    },
+    {
+      "id": 67,
+      "puzzle_text": "Jack goes on a trip with his compass. After a long walk, he stops to eat a sandwich. He is not able to find his way back afterwards.",
+      "answer_text": "Jack was a scientist who worked near the North Pole. When he went walking, he walked towards the north and he stopped to eat his sandwich exactly at the North Pole. When he tried to return home, his compass was useless, since every direction pointed South.",
+      "logprobs": {
+        "answer_given_puzzle": -127.7484016418457,
+        "puzzle_given_answer": -70.15526580810547,
+        "answer_given_empty": -171.15164184570312,
+        "puzzle_given_empty": -112.93347120285034,
+        "answer_prompt_effect": 43.40324020385742,
+        "puzzle_prompt_effect": 42.77820539474487
+      }
+    },
+    {
+      "id": 68,
+      "puzzle_text": "An avid birdwatcher sees an unexpected bird. Soon he’s dead. How come?",
+      "answer_text": "He is a passenger in an airplane and sees the bird get sucked into an engine at 20,000 feet.",
+      "logprobs": {
+        "answer_given_puzzle": -61.755828857421875,
+        "puzzle_given_answer": -67.67675733566284,
+        "answer_given_empty": -75.05839538574219,
+        "puzzle_given_empty": -87.19262504577637,
+        "answer_prompt_effect": 13.302566528320312,
+        "puzzle_prompt_effect": 19.515867710113525
+      }
+    },
+    {
+      "id": 69,
+      "puzzle_text": "Paul goes diving. How could he know he would be burnt to a crisp?",
+      "answer_text": "He was scuba diving when a firefighting plane landed nearby and filled its tanks with water, sucking him in. He ran out of air while the plane was in flight; then the water, with him in it, was dumped onto a burning forest.",
+      "logprobs": {
+        "answer_given_puzzle": -165.9667525291443,
+        "puzzle_given_answer": -75.17939758300781,
+        "answer_given_empty": -159.2960720062256,
+        "puzzle_given_empty": -93.10000610351562,
+        "answer_prompt_effect": -6.670680522918701,
+        "puzzle_prompt_effect": 17.920608520507812
+      }
+    },
+    {
+      "id": 70,
+      "puzzle_text": "She thought that it was the best day of her life moments before she died.",
+      "answer_text": "At the end of a theather play, the lead actress appeared and the audience began to applaud. At that time there was a failure with the scenery and it started to collapse on stage. The oublic rose from their seats screaming, trying to warn the actress but she thought it was a standing ovation and she was crushed.",
+      "logprobs": {
+        "answer_given_puzzle": -211.37562561035156,
+        "puzzle_given_answer": -33.3514404296875,
+        "answer_given_empty": -224.16882276535034,
+        "puzzle_given_empty": -49.30438232421875,
+        "answer_prompt_effect": 12.79319715499878,
+        "puzzle_prompt_effect": 15.95294189453125
+      }
+    },
+    {
+      "id": 71,
+      "puzzle_text": "Today, I was on the train again when a woman appeared before me. I didn’t even remember her face. It’s so sad. \r\n \r\nExplain why the narrator feels sad.",
+      "answer_text": "This story was told by a train operator that hit a woman who suddenly jumped out onto the railway.",
+      "logprobs": {
+        "answer_given_puzzle": -84.22070121765137,
+        "puzzle_given_answer": -99.5430908203125,
+        "answer_given_empty": -98.71279907226562,
+        "puzzle_given_empty": -132.36965942382812,
+        "answer_prompt_effect": 14.492097854614258,
+        "puzzle_prompt_effect": 32.826568603515625
+      }
+    },
+    {
+      "id": 72,
+      "puzzle_text": "One day Mark hid his watch. What for?",
+      "answer_text": "– We have been married for thirty-one years.\n– How did you meet?\n– I saw her on the bus, took off my watch, and put it in my pocket. Then, he sat down next to her and asked what time it was.",
+      "logprobs": {
+        "answer_given_puzzle": -141.38739585876465,
+        "puzzle_given_answer": -47.10546875,
+        "answer_given_empty": -115.9935450553894,
+        "puzzle_given_empty": -69.27392578125,
+        "answer_prompt_effect": -25.393850803375244,
+        "puzzle_prompt_effect": 22.16845703125
+      }
+    },
+    {
+      "id": 73,
+      "puzzle_text": "A woman misread something and never saw another person again.",
+      "answer_text": "The woman was a scientist working in a laboratory. She accidentally misread a bottle label before adding the chemical to another. The mixture exploded, blinding her permanently. She could never see another person, or anything at all ever again.",
+      "logprobs": {
+        "answer_given_puzzle": -103.88067626953125,
+        "puzzle_given_answer": -22.60101318359375,
+        "answer_given_empty": -174.79007291793823,
+        "puzzle_given_empty": -70.5849609375,
+        "answer_prompt_effect": 70.90939664840698,
+        "puzzle_prompt_effect": 47.98394775390625
+      }
+    },
+    {
+      "id": 74,
+      "puzzle_text": "A cowboy rode into town on Friday, spent one night in town, and left on Friday. How do you account for this?",
+      "answer_text": "His horse is named Friday.",
+      "logprobs": {
+        "answer_given_puzzle": -20.184417247772217,
+        "puzzle_given_answer": -65.58779859542847,
+        "answer_given_empty": -36.94482421875,
+        "puzzle_given_empty": -64.48052930831909,
+        "answer_prompt_effect": 16.760406970977783,
+        "puzzle_prompt_effect": -1.107269287109375
+      }
+    },
+    {
+      "id": 75,
+      "puzzle_text": "A man goes into a restaurant, orders albatross, eats one bite, and kills himself. Why?",
+      "answer_text": "The man was in a ship that was wrecked on a desert island. When there was no food left, another passenger brought what he said was albatross but was really part of the man's wife (who had died in the wreck). The man suspects something fishy, so when they finally return to civilization, he orders albatross , realizes that what he ate before was his wife, and kills himself.\n(there is also a version of the riddle with an abalone instead of an albatross)",
+      "logprobs": {
+        "answer_given_puzzle": -251.99473524093628,
+        "puzzle_given_answer": -42.840110778808594,
+        "answer_given_empty": -324.9857096672058,
+        "puzzle_given_empty": -80.50720167160034,
+        "answer_prompt_effect": 72.99097442626953,
+        "puzzle_prompt_effect": 37.66709089279175
+      }
+    },
+    {
+      "id": 76,
+      "puzzle_text": "A man, who was examining some school, noticed that any time a teacher was asking a question, lots of pupils were ready to answer. Moreover, every time the teacher was choosing another person and the answer was always right.",
+      "answer_text": "The teacher told pupils to raise up their hands no matter what question would be asked. But if they khew the answer, they should raise the right hand, otherwise - the left one. Therefore the teacher could choose among the pupils who knew the answer.",
+      "logprobs": {
+        "answer_given_puzzle": -124.803382396698,
+        "puzzle_given_answer": -138.67469596862793,
+        "answer_given_empty": -186.06904554367065,
+        "puzzle_given_empty": -173.3877716064453,
+        "answer_prompt_effect": 61.265663146972656,
+        "puzzle_prompt_effect": 34.71307563781738
+      }
+    },
+    {
+      "id": 77,
+      "puzzle_text": "A woman asks a driver to take her home. The whole way she talks, too much. The taxist tells her: \"I'm sorry but I am deaf.\" The woman falls silent. But when she goes out of the taxi, she understands that the driver isn't deaf.",
+      "answer_text": "The taxist have heard and understood where her house was.",
+      "logprobs": {
+        "answer_given_puzzle": -38.53478240966797,
+        "puzzle_given_answer": -142.0947608947754,
+        "answer_given_empty": -96.255859375,
+        "puzzle_given_empty": -190.3765926361084,
+        "answer_prompt_effect": 57.72107696533203,
+        "puzzle_prompt_effect": 48.28183174133301
+      }
+    },
+    {
+      "id": 78,
+      "puzzle_text": "After careful planning, five men break into a house and take thousands of dollars in cash from it. The owner of the house is the only person arrested.",
+      "answer_text": "The five men were policemen and they had an arrest warrant to enter a mobster's house and take all his money. After planning the assault, they arrested the house's owner.",
+      "logprobs": {
+        "answer_given_puzzle": -95.239990234375,
+        "puzzle_given_answer": -60.991580963134766,
+        "answer_given_empty": -139.8248291015625,
+        "puzzle_given_empty": -104.81345748901367,
+        "answer_prompt_effect": 44.5848388671875,
+        "puzzle_prompt_effect": 43.821876525878906
+      }
+    },
+    {
+      "id": 79,
+      "puzzle_text": "A professor didn’t want to accept a student’s paper. \r\nStudent: “Do you know who I am?”\r\nProfessor: “I neither know nor care. And don’t try to frighten me!”\r\nBut the professor still accepted the paper. Why?",
+      "answer_text": "A written exam. All but one student submitted the papers, but he kept writing after the time was up. Therefore, the professor refused to accept his paper. \nWhen the student realized that the professor didn’t know his name, he put his paper in the middle of the stack and ran away.",
+      "logprobs": {
+        "answer_given_puzzle": -156.16064453125,
+        "puzzle_given_answer": -121.06367492675781,
+        "answer_given_empty": -187.49510955810547,
+        "puzzle_given_empty": -136.11197662353516,
+        "answer_prompt_effect": 31.33446502685547,
+        "puzzle_prompt_effect": 15.048301696777344
+      }
+    },
+    {
+      "id": 80,
+      "puzzle_text": "A dying man gives another man a gift, and then the dying man dies. Shortly after that the second man dies. How come?",
+      "answer_text": "The second man had shot the first man. Before he dies, the first man gives the second man a grenade pin, which he's of course just pulled from a grenade. The first man dies, then the grenade explodes and the second man dies.",
+      "logprobs": {
+        "answer_given_puzzle": -140.0538787841797,
+        "puzzle_given_answer": -57.01044464111328,
+        "answer_given_empty": -166.4736099243164,
+        "puzzle_given_empty": -84.75381851196289,
+        "answer_prompt_effect": 26.41973114013672,
+        "puzzle_prompt_effect": 27.74337387084961
+      }
+    },
+    {
+      "id": 81,
+      "puzzle_text": "The German police was totally confused. Over the course of 15 years, the same person had been stealing, killing, and driving away. By 2008, they had spent 14 thousand working hours and over 15 million euros to find the criminal but failed. How did it happen? \r\n  \r\nThis is a true story.",
+      "answer_text": "The main suspect was a woman whose DNA was found at every crime scene. But they couldn’t find her. \n\nPolice thought that she led a nomadic life, because she committed crimes all over Germany and sometimes even abroad – in France and Austria. \n\nIn 2009, the police finally found out that she was a 71-year-old Polish woman who spent many years working as a cotton buds packer at a Bavarian factory. It was with these buds that were used for DNA tests. \n\nThe case went down in history as The Phantom of Heilbronn.",
+      "logprobs": {
+        "answer_given_puzzle": -279.6592388153076,
+        "puzzle_given_answer": -168.5763087272644,
+        "answer_given_empty": -327.03420782089233,
+        "puzzle_given_empty": -200.89620876312256,
+        "answer_prompt_effect": 47.37496900558472,
+        "puzzle_prompt_effect": 32.319900035858154
+      }
+    },
+    {
+      "id": 82,
+      "puzzle_text": "A man drives down the motorway at 70 miles per hour. He passes three cars going 80 miles per hour, then gets pulled over by a police officer and is given a ticket.",
+      "answer_text": "Clue: He doesn't get a speeding ticket.\nAnswer: He is driving the wrong way down the motorway.",
+      "logprobs": {
+        "answer_given_puzzle": -35.07494354248047,
+        "puzzle_given_answer": -75.67806625366211,
+        "answer_given_empty": -86.6365737915039,
+        "puzzle_given_empty": -119.6166410446167,
+        "answer_prompt_effect": 51.56163024902344,
+        "puzzle_prompt_effect": 43.93857479095459
+      }
+    },
+    {
+      "id": 83,
+      "puzzle_text": "A couple of dancers die around a dance competition.",
+      "answer_text": "During a tango competition, another - very competitive - couple poisoned the rose that another couple passed each other during their routine, so that the couple would die. The poisoned rose killed this couple and the others won the contest.",
+      "logprobs": {
+        "answer_given_puzzle": -149.52224731445312,
+        "puzzle_given_answer": -41.09619140625,
+        "answer_given_empty": -197.71676635742188,
+        "puzzle_given_empty": -65.73291015625,
+        "answer_prompt_effect": 48.19451904296875,
+        "puzzle_prompt_effect": 24.63671875
+      }
+    },
+    {
+      "id": 84,
+      "puzzle_text": "A man lets go of a bowling ball. A short while later, he is rushed to the hospital.",
+      "answer_text": "A physics professor is demonstrating conservation of energy by suspending a bowling ball from a piece of rope. He pulls the ball back until it's right in front of his nose, then lets go. It is supposed to swing away from him, then back at him, stopping just in front of his nose. Unfortunately, he gave the ball a slight push, resulting in the ball crashing into his nose upon its return.",
+      "logprobs": {
+        "answer_given_puzzle": -167.7396183013916,
+        "puzzle_given_answer": -39.11386060714722,
+        "answer_given_empty": -194.26202487945557,
+        "puzzle_given_empty": -71.42178344726562,
+        "answer_prompt_effect": 26.522406578063965,
+        "puzzle_prompt_effect": 32.30792284011841
+      }
+    },
+    {
+      "id": 85,
+      "puzzle_text": "Mike has been standing on his knee in the middle of the desert for over a day. He is all alone and has neither food nor water. But he doesn’t leave the place. What’s the matter?",
+      "answer_text": "He thinks his foot is standing on a mine (although it is not). \nIt was ordered to Mike and his partner to kill terrorists. But the operation failed. A sandstorm helped them to escape, and they ended up in the desert. They didn’t notice at once that they were in a minefield.\nSuddenly, Mike’s partner was blown up by a mine, his legs were torn off, and he died. Together with the explosion, Mike took a step and clearly heard that something clicked under his foot; he froze. He thought he had activated a mine fuse. This meant that if he lifted his foot, the mine would explode.\nMike managed to use a comset to inform his superiors about the situation. They told he that they would be able to help him in 52 hours only. And Mike decided to wait. \nA day later, he felt very bad because of the heat and began to hallucinate. Unfortunately, he didn’t know that the click he heard was not of a mine, but of a tin can left in the desert by another person who had been blown up by a mine in the same field.",
+      "logprobs": {
+        "answer_given_puzzle": -588.8752126693726,
+        "puzzle_given_answer": -92.11703300476074,
+        "answer_given_empty": -601.2394785881042,
+        "puzzle_given_empty": -134.37636947631836,
+        "answer_prompt_effect": 12.36426591873169,
+        "puzzle_prompt_effect": 42.25933647155762
+      }
+    },
+    {
+      "id": 86,
+      "puzzle_text": "Paul comes home tired. He goes to his room and turns off the light to sleep. After a while, feeling uneasy, he turns on the light and looks around. He turns the light back off and tries to sleep again. After repeating this several times, he takes a look under his bed and finds a dead body.",
+      "answer_text": "A thief was stealing from Paul's home. When Paul arrived home, the thief hid under the bed. The tension became too much and the thief suffered a sudden heart attack Paul was unable to sleep due to the ticking of the thief's wristwatch.",
+      "logprobs": {
+        "answer_given_puzzle": -129.15864992141724,
+        "puzzle_given_answer": -123.6789665222168,
+        "answer_given_empty": -173.62243843078613,
+        "puzzle_given_empty": -171.41412353515625,
+        "answer_prompt_effect": 44.4637885093689,
+        "puzzle_prompt_effect": 47.73515701293945
+      }
+    },
+    {
+      "id": 87,
+      "puzzle_text": "In some city an amount of people injured in car accidents was very high. Then it was decided by administration to make the using of seat belts oblidatory. People started to obey this rule. But the amount of crash accidents remained the same. Moreover, the number of injured people who addressed to the hospital even increased.",
+      "answer_text": "The adopted law decreased the number of accidents. A lot of people who would die without seat belt stayed alive but got injured and therefore they went to the hospital. So the number of patients increased.",
+      "logprobs": {
+        "answer_given_puzzle": -93.74635314941406,
+        "puzzle_given_answer": -172.61567449569702,
+        "answer_given_empty": -163.9079132080078,
+        "puzzle_given_empty": -228.51134300231934,
+        "answer_prompt_effect": 70.16156005859375,
+        "puzzle_prompt_effect": 55.895668506622314
+      }
+    },
+    {
+      "id": 88,
+      "puzzle_text": "A hospital director recently confirmed that many that many of people admitted to his hospital were not ill at all. They were perfectly healthy, yet were given hospital care and treatment.",
+      "answer_text": "The hospital was a maternity hospital and all those admitted were pregnant women.",
+      "logprobs": {
+        "answer_given_puzzle": -29.5072021484375,
+        "puzzle_given_answer": -109.830078125,
+        "answer_given_empty": -64.340576171875,
+        "puzzle_given_empty": -128.89691162109375,
+        "answer_prompt_effect": 34.8333740234375,
+        "puzzle_prompt_effect": 19.06683349609375
+      }
+    },
+    {
+      "id": 89,
+      "puzzle_text": "A man woke up, lit a match and saw something that frightened him to death.",
+      "answer_text": "This man was a prisoner. He wanted to escape and asked the mortician to do something for him. When somebody in prison would die, the prisoner would hide in the coffin and would be buried along with the corpse outside the territory of prison. And after some time he would be released by this mortician. \nBut something went wrong. When the prisoner opened his eyes after the burial and lit a match, he saw the face of the mortician. He understood that he is doomed and died of fright.",
+      "logprobs": {
+        "answer_given_puzzle": -251.65302228927612,
+        "puzzle_given_answer": -29.01641082763672,
+        "answer_given_empty": -315.56764221191406,
+        "puzzle_given_empty": -65.61891174316406,
+        "answer_prompt_effect": 63.91461992263794,
+        "puzzle_prompt_effect": 36.602500915527344
+      }
+    },
+    {
+      "id": 90,
+      "puzzle_text": "Students are taking an exam at military academy. One of them chooses a ticket and goes to his seat to get prepared. After some minutes he goes to the professor, silently gives him the student's record-book and leaves the classroom. The student got the excellent.",
+      "answer_text": "It was a morse code exam. During exam, the professor was tapping the message saying that any student may come up to him and get the excelllent.",
+      "logprobs": {
+        "answer_given_puzzle": -115.4288592338562,
+        "puzzle_given_answer": -179.00125122070312,
+        "answer_given_empty": -155.69140243530273,
+        "puzzle_given_empty": -233.27377319335938,
+        "answer_prompt_effect": 40.26254320144653,
+        "puzzle_prompt_effect": 54.27252197265625
+      }
+    },
+    {
+      "id": 91,
+      "puzzle_text": "George was late for a math class and misunderstood the teacher. This brought him a reward and recognition! What happened?",
+      "answer_text": "Once, the American mathematician George Danzig came very late for a class. He saw some problems written on the blackboard and decided that these were a homework task. He spent several days working on them and eventually found the answers. It turned out that he found the key to two “unsolvable” problems that many scientists were wrestling with.",
+      "logprobs": {
+        "answer_given_puzzle": -164.6684069633484,
+        "puzzle_given_answer": -70.26000595092773,
+        "answer_given_empty": -182.25705289840698,
+        "puzzle_given_empty": -103.42724609375,
+        "answer_prompt_effect": 17.588645935058594,
+        "puzzle_prompt_effect": 33.167240142822266
+      }
+    },
+    {
+      "id": 92,
+      "puzzle_text": "Landlords used to delay payment to people who built and repaired houses or even booted them out without money. But the builders came up with an uncommon move, which immediately made the landlords pay them in full. What did they do?",
+      "answer_text": "When laying a foundation for a house or repairing it, they put a raw egg in a certain place. After a while, it began to rot. If the landlord called the builders and paid for their work, they took the egg away. If he booted them out, the egg eventually began to stink, and it was very difficult to find where it had been hidden.",
+      "logprobs": {
+        "answer_given_puzzle": -175.20920181274414,
+        "puzzle_given_answer": -148.50173902511597,
+        "answer_given_empty": -236.7023148536682,
+        "puzzle_given_empty": -176.9942512512207,
+        "answer_prompt_effect": 61.49311304092407,
+        "puzzle_prompt_effect": 28.492512226104736
+      }
+    },
+    {
+      "id": 93,
+      "puzzle_text": "Eva was a skeptic, and never believed in the paranormal. But after she had spent 3 nights in a creepy forest all alone, her skepticism disappeared. Why?",
+      "answer_text": "Eva visited the ill-reputed creepy forest, and naturally, like all skeptics, she took photos and recorded her every step. After she returned home and started flipping the photos, she discovered a couple of pictures of her sleeping in a tent.",
+      "logprobs": {
+        "answer_given_puzzle": -183.4781723022461,
+        "puzzle_given_answer": -79.74285888671875,
+        "answer_given_empty": -214.9961166381836,
+        "puzzle_given_empty": -127.08671569824219,
+        "answer_prompt_effect": 31.5179443359375,
+        "puzzle_prompt_effect": 47.34385681152344
+      }
+    },
+    {
+      "id": 94,
+      "puzzle_text": "A man lies dead next to a feather. How did he die?",
+      "answer_text": "The man was a sword swallower in a carnival side-show. While he was practicing, someone tickled his throat with the feather, causing him to gag.\nReal fact: twenty-nine deaths have been reported as a result of sword swallowing injuries since 1880.",
+      "logprobs": {
+        "answer_given_puzzle": -158.08034229278564,
+        "puzzle_given_answer": -38.02453565597534,
+        "answer_given_empty": -197.54639720916748,
+        "puzzle_given_empty": -54.68990707397461,
+        "answer_prompt_effect": 39.466054916381836,
+        "puzzle_prompt_effect": 16.665371417999268
+      }
+    },
+    {
+      "id": 95,
+      "puzzle_text": "Silence fell, and after a few moments she died.",
+      "answer_text": "A blind ropedancer shows high-altitude acrobatic stunts at high altitude. According to the script, she was to jump off the rope exactly at that moment when the musician stops playing. \nOn this day, the musician didn’t feel well and suddenly lost consciousness. The music stopped, the ropedancer jumped too early and plunge to death.",
+      "logprobs": {
+        "answer_given_puzzle": -237.316002368927,
+        "puzzle_given_answer": -39.32861328125,
+        "answer_given_empty": -272.0413546562195,
+        "puzzle_given_empty": -51.557861328125,
+        "answer_prompt_effect": 34.72535228729248,
+        "puzzle_prompt_effect": 12.229248046875
+      }
+    },
+    {
+      "id": 96,
+      "puzzle_text": "A man is returning from Switzerland by train. If he had been in a non-smoking car he would have died.",
+      "answer_text": "The man used to be blind — he's returning from an eye operation which restored his sight. He spent all his money on the operation, so when the train (which had no internal lighting) goes through a tunnel, he thinks he's gone blind again and decides to kill himself. But before he could do it, he saw the light of the cigarettes people were smoking and realized he could still see.",
+      "logprobs": {
+        "answer_given_puzzle": -191.18245267868042,
+        "puzzle_given_answer": -59.14202833175659,
+        "answer_given_empty": -229.5278491973877,
+        "puzzle_given_empty": -106.23602294921875,
+        "answer_prompt_effect": 38.345396518707275,
+        "puzzle_prompt_effect": 47.09399461746216
+      }
+    },
+    {
+      "id": 97,
+      "puzzle_text": "Sonia was very tired and fell asleep. When she woke up, she found herself in a completely different place. What happened?",
+      "answer_text": "Sonia was traveling on a plane. When she woke up, the plane had already landed in another city.",
+      "logprobs": {
+        "answer_given_puzzle": -51.004669189453125,
+        "puzzle_given_answer": -35.73799133300781,
+        "answer_given_empty": -71.91424560546875,
+        "puzzle_given_empty": -68.66510009765625,
+        "answer_prompt_effect": 20.909576416015625,
+        "puzzle_prompt_effect": 32.92710876464844
+      }
+    },
+    {
+      "id": 98,
+      "puzzle_text": "When a plane was taking off in the United States, the terrorist demanded a million dollars and two parachutes. His demands were fulfilled. The plane took off and the terrorist jumped out with the money as they were flying above a desert. He was never found.\r\n\r\nWhy did the terrorist ask for two parachutes?",
+      "answer_text": "Terrorism is punished by death in the United States. So, he was afraid that they would deliberately give him a defected parachute.\nThe police couldn’t know why the terrorist needed the second parachute; it might be for a hostage. So, they had to make sure that both parachutes were serviceable not to risk civilians’ lives.",
+      "logprobs": {
+        "answer_given_puzzle": -209.18803358078003,
+        "puzzle_given_answer": -138.61863327026367,
+        "answer_given_empty": -248.8254909515381,
+        "puzzle_given_empty": -189.8866310119629,
+        "answer_prompt_effect": 39.63745737075806,
+        "puzzle_prompt_effect": 51.26799774169922
+      }
+    },
+    {
+      "id": 99,
+      "puzzle_text": "A person got into the car and drove off, but five minutes later the car was just in the same place that it started from. What happened?",
+      "answer_text": "The person was on a merry-go-round. He got into the car and it drove circle-wise.",
+      "logprobs": {
+        "answer_given_puzzle": -58.50848197937012,
+        "puzzle_given_answer": -74.0650634765625,
+        "answer_given_empty": -97.674560546875,
+        "puzzle_given_empty": -95.69683837890625,
+        "answer_prompt_effect": 39.16607856750488,
+        "puzzle_prompt_effect": 21.63177490234375
+      }
+    },
+    {
+      "id": 100,
+      "puzzle_text": "Bill was late for a birthday party and ended up in prison because of it. What happened?",
+      "answer_text": "It was a priest’s birthday. When giving his toast, he said that the first person who confessed to him was a murderer. \nBill came to the birthday party a bit later. When giving his toast to the priest, he told all the guests that he was the first person who confessed to him.",
+      "logprobs": {
+        "answer_given_puzzle": -178.51162719726562,
+        "puzzle_given_answer": -51.7691650390625,
+        "answer_given_empty": -182.36917114257812,
+        "puzzle_given_empty": -63.26964569091797,
+        "answer_prompt_effect": 3.8575439453125,
+        "puzzle_prompt_effect": 11.500480651855469
+      }
+    },
+    {
+      "id": 101,
+      "puzzle_text": "Andrew was stabbed to death in his car. However, the doors were locked. The car wasn’t damaged: all the windows were intact and raised up to the highest position. How could this happen?",
+      "answer_text": "Andrew was sitting in his convertible car (open-top car).",
+      "logprobs": {
+        "answer_given_puzzle": -39.89741516113281,
+        "puzzle_given_answer": -121.78160858154297,
+        "answer_given_empty": -73.848876953125,
+        "puzzle_given_empty": -128.00665092468262,
+        "answer_prompt_effect": 33.95146179199219,
+        "puzzle_prompt_effect": 6.225042343139648
+      }
+    },
+    {
+      "id": 102,
+      "puzzle_text": "Five pieces of coal, a carrot and a scarf are lying on the lawn. Nobody put them on the lawn but there is a perfectly logical reason why they should be there. What is it?",
+      "answer_text": "They were used by children who made a snowman. The snow has now melted.",
+      "logprobs": {
+        "answer_given_puzzle": -51.20233154296875,
+        "puzzle_given_answer": -81.49237060546875,
+        "answer_given_empty": -71.345947265625,
+        "puzzle_given_empty": -108.21242141723633,
+        "answer_prompt_effect": 20.14361572265625,
+        "puzzle_prompt_effect": 26.720050811767578
+      }
+    },
+    {
+      "id": 103,
+      "puzzle_text": "Michael is in prison. One day, he has luch, goes to prison courtyard for a while and finally visits the library. At dusk, out of the reach of the security cameras, he changes his clothes. He then goes through the door to leave the prison, without being caught.",
+      "answer_text": "Michael worked as a guard in the prison.",
+      "logprobs": {
+        "answer_given_puzzle": -16.31732177734375,
+        "puzzle_given_answer": -181.04730987548828,
+        "answer_given_empty": -48.92378234863281,
+        "puzzle_given_empty": -197.4666290283203,
+        "answer_prompt_effect": 32.60646057128906,
+        "puzzle_prompt_effect": 16.41931915283203
+      }
+    },
+    {
+      "id": 104,
+      "puzzle_text": "Sally was sleeping when she was awoken by Jack. She walked to the door and found a letter. She read it and began to cry. She now knew that her boyfriend would never see her again. Why?",
+      "answer_text": "Sally's boyfriend had recently undgone eye surgery. Jack, her boyfriend's guide-dog, awoke her after the postman had delivered a letter. The letter was from the doctor's. The letter was in response to her boyfriends medical tests that confirmed the surgery was unsuccesful and he would now be fully blind.",
+      "logprobs": {
+        "answer_given_puzzle": -214.68910932540894,
+        "puzzle_given_answer": -73.75759506225586,
+        "answer_given_empty": -258.5911178588867,
+        "puzzle_given_empty": -121.95913314819336,
+        "answer_prompt_effect": 43.90200853347778,
+        "puzzle_prompt_effect": 48.2015380859375
+      }
+    },
+    {
+      "id": 105,
+      "puzzle_text": "A man is found hanging in an otherwise empty locked room with a puddle of water under his feet.",
+      "answer_text": "He stood on a block of ice to hang himself.",
+      "logprobs": {
+        "answer_given_puzzle": -21.172332763671875,
+        "puzzle_given_answer": -46.437225341796875,
+        "answer_given_empty": -55.66943359375,
+        "puzzle_given_empty": -63.97222900390625,
+        "answer_prompt_effect": 34.497100830078125,
+        "puzzle_prompt_effect": 17.535003662109375
+      }
+    },
+    {
+      "id": 106,
+      "puzzle_text": "A naked man is lying dead in the middle of a desert with a match in his hand. What happened?\r\n\r\nA man is found dead in a desert. He is naked, and lots of clothes are scattered around him, among other things. There is a match in his hand. How did he die?",
+      "answer_text": "He was with several others in a hot air balloon crossing the desert. The balloon was punctured and they began to lose altitude. They tossed all their non-essentials overboard, then their clothing and food, but were still going to crash in the middle of the desert. Finally, they drew matches to see who would jump over the side and save the others; this man lost.",
+      "logprobs": {
+        "answer_given_puzzle": -197.02707624435425,
+        "puzzle_given_answer": -117.11599159240723,
+        "answer_given_empty": -196.57801008224487,
+        "puzzle_given_empty": -155.086040019989,
+        "answer_prompt_effect": -0.449066162109375,
+        "puzzle_prompt_effect": 37.97004842758179
+      }
+    },
+    {
+      "id": 107,
+      "puzzle_text": "A woman - at work - is going downstairs, when suddenly there is a blackout. In that very moment she realizes that her husband is about to die.",
+      "answer_text": "The woman worked as an electrician at a hospital and she knew that the emergency generators were broken. He husband had had a car crash and he was at that hospital, connected to a machine that kept him alive. When the blackout happened she knew that her husband couldn't be breathing by himself and therefore that he was dying.",
+      "logprobs": {
+        "answer_given_puzzle": -137.80889892578125,
+        "puzzle_given_answer": -83.82479095458984,
+        "answer_given_empty": -247.40763473510742,
+        "puzzle_given_empty": -121.11367797851562,
+        "answer_prompt_effect": 109.59873580932617,
+        "puzzle_prompt_effect": 37.28888702392578
+      }
+    },
+    {
+      "id": 108,
+      "puzzle_text": "Tim is sailing his boat when his watch falls overboard. He is a great diver. However, he does not manage to retrieve the watch.",
+      "answer_text": "Tim was sailing on the Dead Sea. Due to the high salt concentration, he couldn't dive deep enough to get his watch back.",
+      "logprobs": {
+        "answer_given_puzzle": -46.06513977050781,
+        "puzzle_given_answer": -76.59213829040527,
+        "answer_given_empty": -101.94874143600464,
+        "puzzle_given_empty": -103.35364866256714,
+        "answer_prompt_effect": 55.883601665496826,
+        "puzzle_prompt_effect": 26.761510372161865
+      }
+    },
+    {
+      "id": 109,
+      "puzzle_text": "A woman went on vacation and asked a friend to look after her cat. A week later, 8 cats were running around the apartment!",
+      "answer_text": "The next day this cat ran away, and the friend had to start looking for it. Since he did not know the cat very well, he had to keep all the similar cats that he had seen and wait for the friend who was supposed to identify the right pet.",
+      "logprobs": {
+        "answer_given_puzzle": -165.23049879074097,
+        "puzzle_given_answer": -67.83369445800781,
+        "answer_given_empty": -177.28631496429443,
+        "puzzle_given_empty": -97.21287536621094,
+        "answer_prompt_effect": 12.055816173553467,
+        "puzzle_prompt_effect": 29.379180908203125
+      }
+    },
+    {
+      "id": 110,
+      "puzzle_text": "A woman finishes getting dressed and dies.",
+      "answer_text": "There was a very venomous spider in one of her shoes. When the woman put on her shoes, the spider bit her.",
+      "logprobs": {
+        "answer_given_puzzle": -40.10932731628418,
+        "puzzle_given_answer": -32.77099609375,
+        "answer_given_empty": -74.53680372238159,
+        "puzzle_given_empty": -58.4326171875,
+        "answer_prompt_effect": 34.42747640609741,
+        "puzzle_prompt_effect": 25.66162109375
+      }
+    },
+    {
+      "id": 111,
+      "puzzle_text": "A woman walks into a pet store to buy a parrot. The seller offers her one, telling her that it can repeat everything it hears. Some days later the woman - feeling cheated - goes back into the store to get her money back. However, she comes back home with the parrot and not her money.",
+      "answer_text": "The parrot was deaf. It could not repeat anything, since it could not hear anything. However, the seller did not return the money to the woman because he never lied to her.",
+      "logprobs": {
+        "answer_given_puzzle": -70.29549789428711,
+        "puzzle_given_answer": -129.0883650779724,
+        "answer_given_empty": -147.92633819580078,
+        "puzzle_given_empty": -178.7638144493103,
+        "answer_prompt_effect": 77.63084030151367,
+        "puzzle_prompt_effect": 49.67544937133789
+      }
+    },
+    {
+      "id": 112,
+      "puzzle_text": "Jimmy hid a treasure but when he wanted to recover it, he was not able to.",
+      "answer_text": "Jimmy buried a treasure when he was 8 years old. He had written a note when he was younger with how many steps he would take to find his treasure. But now that he was grown up, his stride was much longer and he could never find his treasure.",
+      "logprobs": {
+        "answer_given_puzzle": -133.53766250610352,
+        "puzzle_given_answer": -39.030120849609375,
+        "answer_given_empty": -185.88844871520996,
+        "puzzle_given_empty": -78.98116302490234,
+        "answer_prompt_effect": 52.350786209106445,
+        "puzzle_prompt_effect": 39.95104217529297
+      }
+    },
+    {
+      "id": 113,
+      "puzzle_text": "A woman is found dead in a hospital. The murder weapon is a pair of scissors. However, the body has no cuts ot wounds of any kind.",
+      "answer_text": "The woman's condition was critical, and the doctors had connected her to a device that kept her alive. The murderer simply cut the wires off that device with scissors to end her life.",
+      "logprobs": {
+        "answer_given_puzzle": -85.9552001953125,
+        "puzzle_given_answer": -66.47112989425659,
+        "answer_given_empty": -137.94086456298828,
+        "puzzle_given_empty": -96.08659887313843,
+        "answer_prompt_effect": 51.98566436767578,
+        "puzzle_prompt_effect": 29.615468978881836
+      }
+    },
+    {
+      "id": 114,
+      "puzzle_text": "A man stole a wallet. This caused his death. What happened?",
+      "answer_text": "Inside the wallet, there was a statement that this wallet’s owner opposes blood transfusion or organ transplantation for religious reasons. The thief got in an accident, and blood transfusion would have saved his life, but this wasn’t done because of the statement in the wallet.",
+      "logprobs": {
+        "answer_given_puzzle": -150.81676864624023,
+        "puzzle_given_answer": -47.84417724609375,
+        "answer_given_empty": -179.1154932975769,
+        "puzzle_given_empty": -64.947265625,
+        "answer_prompt_effect": 28.29872465133667,
+        "puzzle_prompt_effect": 17.10308837890625
+      }
+    },
+    {
+      "id": 115,
+      "puzzle_text": "A man comes breathless out of a house, closes the door and goes quickly down stairs. Then he walks two blocks to get to another house, enters and breathes relieved.",
+      "answer_text": "The man had just moved. He arrived to his new home with the last boxes and he breathed a sigh of relief because he had finished.",
+      "logprobs": {
+        "answer_given_puzzle": -67.49150848388672,
+        "puzzle_given_answer": -115.79092407226562,
+        "answer_given_empty": -99.29617309570312,
+        "puzzle_given_empty": -135.85943603515625,
+        "answer_prompt_effect": 31.804664611816406,
+        "puzzle_prompt_effect": 20.068511962890625
+      }
+    },
+    {
+      "id": 116,
+      "puzzle_text": "In the middle of the ocean is a yacht. Several corpses are floating in the water nearby.",
+      "answer_text": "A group of people were on an ocean voyage in a yacht. One day, they decided to go swimming — they put on their swimsuits and dove off the side. They discovered belatedly that they have forgotten to put a ladder down the side of the yacht and were unable to climb back in, so they drowned.\nAlternate Solution (choose one):\nThe same situation, but they set out a ladder that was just barely long enough. When they dove into the water, the boat, without their weight, rose slightly in the water, putting the ladder just out of reach.",
+      "logprobs": {
+        "answer_given_puzzle": -316.06294107437134,
+        "puzzle_given_answer": -43.64775085449219,
+        "answer_given_empty": -399.96439599990845,
+        "puzzle_given_empty": -72.06005811691284,
+        "answer_prompt_effect": 83.90145492553711,
+        "puzzle_prompt_effect": 28.412307262420654
+      }
+    },
+    {
+      "id": 117,
+      "puzzle_text": "A man walks up to a cactus, looks at a piece of paper pinned there, and kills himself.",
+      "answer_text": "The man has been wandering lost in the desert. He fears he has been walking in circles. To test this, he pins a blank piece of paper to a cactus and sets off walking. When he encounters the paper again, his fears are confirmed and he knows he will never find his way out.",
+      "logprobs": {
+        "answer_given_puzzle": -107.21693897247314,
+        "puzzle_given_answer": -41.508872509002686,
+        "answer_given_empty": -163.92292737960815,
+        "puzzle_given_empty": -88.66473388671875,
+        "answer_prompt_effect": 56.70598840713501,
+        "puzzle_prompt_effect": 47.155861377716064
+      }
+    },
+    {
+      "id": 118,
+      "puzzle_text": "Cindy is amongst a crowd of people when she is murdered. However, nobody notices her cries.",
+      "answer_text": "Cindy was in a movie theater, watching a horror movie. A very scary scene started. While everybody was screaming the murderer - who was behind her - was killing her.",
+      "logprobs": {
+        "answer_given_puzzle": -82.0662841796875,
+        "puzzle_given_answer": -63.63311004638672,
+        "answer_given_empty": -140.90936279296875,
+        "puzzle_given_empty": -110.02967834472656,
+        "answer_prompt_effect": 58.84307861328125,
+        "puzzle_prompt_effect": 46.396568298339844
+      }
+    },
+    {
+      "id": 119,
+      "puzzle_text": "A man was walking down the street when he suddenly started to choke the woman walking by him. He was taken to the police station but soon after was released.",
+      "answer_text": "This woman was his wife. Some years ago she staged her death and her husband was found guilty. He already got out of jail and now can not be convicted for the same crime one more time.",
+      "logprobs": {
+        "answer_given_puzzle": -117.1065902709961,
+        "puzzle_given_answer": -66.8988037109375,
+        "answer_given_empty": -145.57958984375,
+        "puzzle_given_empty": -93.16578674316406,
+        "answer_prompt_effect": 28.472999572753906,
+        "puzzle_prompt_effect": 26.266983032226562
+      }
+    },
+    {
+      "id": 120,
+      "puzzle_text": "At five minutes to midnight, I took the train on the outskirts of Tokyo. There were only me and a few other people in the carriage when a man entered. He looked around the carriage and as soon as the doors closed, his face was convulsed with horror.\r\n\r\nHe approached a girl.\r\n– Excuse me, ma’am, are you 28 years old?\r\n– Yes! – she replied – How did you guess?\r\n\r\nHe ignored her question and moved on to the man sitting next to him.\r\n\r\n– And you... are you 45?\r\n– Yes, right! \r\n\r\nHe looked at me.\r\n\r\n– And you’re 35.\r\n– That’s right, but how do you know?\r\n\r\n– And you, miss, are you 50?\r\n– Yes, exactly, but tomorrow I’ll be 51... or rather, in 5 minutes.\r\n\r\nWhen she said that, the man’s face turned white as a sheet. Why?",
+      "answer_text": "Hints for guessers: \n1. The person has a gift.\n2. He can see at what age a person will die.\nAnswer:\nThe man with prophetic gift could see how many years others would live. He realized that the train would crash in less than 5 minutes and all the passengers would die. \nMore mystics: who tells the story if the narrator also died at the age of 35?",
+      "logprobs": {
+        "answer_given_puzzle": -277.1912307739258,
+        "puzzle_given_answer": -440.16597080230713,
+        "answer_given_empty": -300.63775539398193,
+        "puzzle_given_empty": -469.31281042099,
+        "answer_prompt_effect": 23.446524620056152,
+        "puzzle_prompt_effect": 29.14683961868286
+      }
+    },
+    {
+      "id": 121,
+      "puzzle_text": "Four college students were late for a lecture and explained it to the lecturer by having a flat tire. The smart lecturer quickly proved to the rest of the audience that the latecomers had lied. How?",
+      "answer_text": "The lecturer took all four latecomers to different rooms and asked each of them, on which of the car’s wheels the flat tire was. Of course, they gave different answers.",
+      "logprobs": {
+        "answer_given_puzzle": -87.93545150756836,
+        "puzzle_given_answer": -105.7038459777832,
+        "answer_given_empty": -149.91286993026733,
+        "puzzle_given_empty": -169.0581512451172,
+        "answer_prompt_effect": 61.977418422698975,
+        "puzzle_prompt_effect": 63.354305267333984
+      }
+    },
+    {
+      "id": 122,
+      "puzzle_text": "A man had lunch at the restaurant, and the waiter brought him his bill. He wrote out a check for the required amount but suddenly turned it over and wrote a few words on the reverse side of the check as congratulations to the restaurant owner. What for?",
+      "answer_text": "Salvador Dali was famous not only by his eccentric escapades, but also for his passion for money. Despite earning millions from his paintings and numerous commercial projects, the famous surrealist wasn’t above saving on restaurant bills. The whole evening, Dali could treat a large company of friends to any dishes and drinks from the menu. When it was time to pay the bill, the artist generously signed a check for a huge amount, then turned the check over and wrote a few warm words, expressing gratitude to the restaurant owner. \nThe idea was simple – relying on his fame as a living genius, he was sure that the restaurant owner would never dare to cash a check signed by Salvador Dali himself! And this was how it actually happened – the restaurateurs understood that eventually they would get much more for this check than just the amount in the bill. Well, and Dali saved a lot of money.",
+      "logprobs": {
+        "answer_given_puzzle": -438.6437110900879,
+        "puzzle_given_answer": -116.2301025390625,
+        "answer_given_empty": -476.68202352523804,
+        "puzzle_given_empty": -169.9786148071289,
+        "answer_prompt_effect": 38.03831243515015,
+        "puzzle_prompt_effect": 53.748512268066406
+      }
+    },
+    {
+      "id": 123,
+      "puzzle_text": "Alexander shot at the king, but no one condemned him. Why?",
+      "answer_text": "Alexander played poker and lost. Out of anger he shot at the card depicting the king.",
+      "logprobs": {
+        "answer_given_puzzle": -62.6715087890625,
+        "puzzle_given_answer": -32.28619384765625,
+        "answer_given_empty": -105.61862182617188,
+        "puzzle_given_empty": -63.7786865234375,
+        "answer_prompt_effect": 42.947113037109375,
+        "puzzle_prompt_effect": 31.49249267578125
+      }
+    },
+    {
+      "id": 124,
+      "puzzle_text": "Bill shot the man, but was not punished. Why?",
+      "answer_text": "The man was a film actor. According to the script, Bill was supposed to “shoot” him.\nUnfortunately, the gun was mistakenly loaded with live ammunition. Bill didn't know about this.",
+      "logprobs": {
+        "answer_given_puzzle": -125.13146877288818,
+        "puzzle_given_answer": -25.41302490234375,
+        "answer_given_empty": -139.4954810142517,
+        "puzzle_given_empty": -55.458984375,
+        "answer_prompt_effect": 14.364012241363525,
+        "puzzle_prompt_effect": 30.04595947265625
+      }
+    },
+    {
+      "id": 125,
+      "puzzle_text": "Ludo was about to eat a piece of cheese when he was suddenly killed by a piece of metal. What happened?",
+      "answer_text": "Ludo is a mouse. He was killed by the mousetrap.",
+      "logprobs": {
+        "answer_given_puzzle": -32.43026351928711,
+        "puzzle_given_answer": -48.58495855331421,
+        "answer_given_empty": -61.28710889816284,
+        "puzzle_given_empty": -86.25834465026855,
+        "answer_prompt_effect": 28.856845378875732,
+        "puzzle_prompt_effect": 37.673386096954346
+      }
+    },
+    {
+      "id": 126,
+      "puzzle_text": "A man returns from a business trip, he rings a door, his wife opens it. He immediately accused her of betrayal.",
+      "answer_text": "On the way back home, this man decided to visit his friend. And the door was opened by his own half-dressed wife.",
+      "logprobs": {
+        "answer_given_puzzle": -78.71112060546875,
+        "puzzle_given_answer": -73.34048461914062,
+        "answer_given_empty": -117.54014587402344,
+        "puzzle_given_empty": -112.50805616378784,
+        "answer_prompt_effect": 38.82902526855469,
+        "puzzle_prompt_effect": 39.16757154464722
+      }
+    },
+    {
+      "id": 127,
+      "puzzle_text": "After the barrister’s speech, Bill’s punishment was upgraded. Why?",
+      "answer_text": "In autumn, a district court was hearing a case of a homeless man who had broken a shop window. Because of the barrister’s speech, the court, although drifting toward a conditional sentence, convicted the criminal. \n\n The barrister said: “Winter is coming! A homeless man can die. Don’t you understand that only in prison the defendant will have shoes, clothes, and food…”.",
+      "logprobs": {
+        "answer_given_puzzle": -265.8677520751953,
+        "puzzle_given_answer": -55.555503845214844,
+        "answer_given_empty": -290.7105255126953,
+        "puzzle_given_empty": -79.6058349609375,
+        "answer_prompt_effect": 24.8427734375,
+        "puzzle_prompt_effect": 24.050331115722656
+      }
+    },
+    {
+      "id": 128,
+      "puzzle_text": "A mother-in-law disliked her son-in-law so much that she wanted to poison him. But the son-in-law was careful and always ate only what his mother-in-law ate. Over dinner one night, the mother-in-law cut a piece of meat in half, ate one half herself, and gave the other to her son-in-law. After that he died. How did she manage to do it?",
+      "answer_text": "She greased one side of the knife with poison.",
+      "logprobs": {
+        "answer_given_puzzle": -30.389545440673828,
+        "puzzle_given_answer": -161.5165672302246,
+        "answer_given_empty": -54.694580078125,
+        "puzzle_given_empty": -165.43339252471924,
+        "answer_prompt_effect": 24.305034637451172,
+        "puzzle_prompt_effect": 3.916825294494629
+      }
+    },
+    {
+      "id": 129,
+      "puzzle_text": "The girl’s mother died. The girl was burying her, and at the funeral she saw the man of her dreams and fell in love with him. 14 days later, she killed her sister. Why did she do that?",
+      "answer_text": "To see this guy again, since he might come to the funeral again.",
+      "logprobs": {
+        "answer_given_puzzle": -73.64144897460938,
+        "puzzle_given_answer": -108.23389768600464,
+        "answer_given_empty": -81.72265625,
+        "puzzle_given_empty": -129.67056274414062,
+        "answer_prompt_effect": 8.081207275390625,
+        "puzzle_prompt_effect": 21.436665058135986
+      }
+    },
+    {
+      "id": 130,
+      "puzzle_text": "He was very calm. However, they kept beating him until he screamed. After that, she was happy. Why?",
+      "answer_text": "The girl has just given birth to a son.",
+      "logprobs": {
+        "answer_given_puzzle": -40.783203125,
+        "puzzle_given_answer": -77.1295166015625,
+        "answer_given_empty": -43.6636962890625,
+        "puzzle_given_empty": -94.72201538085938,
+        "answer_prompt_effect": 2.8804931640625,
+        "puzzle_prompt_effect": 17.592498779296875
+      }
+    },
+    {
+      "id": 131,
+      "puzzle_text": "When Martin woke up that morning, he was surprised to see the door open. As soon as he crossed the threshold he got beheaded.",
+      "answer_text": "Martin was a canary that had been living in his cage for four months. Silvester - a cat - was waiting for his opportumity to catch Martin and eat him. When their owner left the cage door open by mistake Martin flew out of it and Silvester bit off his small head.",
+      "logprobs": {
+        "answer_given_puzzle": -175.04122734069824,
+        "puzzle_given_answer": -69.55181884765625,
+        "answer_given_empty": -226.2794189453125,
+        "puzzle_given_empty": -109.17211818695068,
+        "answer_prompt_effect": 51.23819160461426,
+        "puzzle_prompt_effect": 39.620299339294434
+      }
+    },
+    {
+      "id": 132,
+      "puzzle_text": "A couple find a man's corpse on the beach. The corpse is under an umbrella and has a knife on his back. There are no signs of violence and no traces of blood. The autopsy reveals that the man died of natural causes.",
+      "answer_text": "The man, who had a tattoo of a knife on his back, died of a heart attack.",
+      "logprobs": {
+        "answer_given_puzzle": -28.867515563964844,
+        "puzzle_given_answer": -101.33350372314453,
+        "answer_given_empty": -63.47566223144531,
+        "puzzle_given_empty": -127.9694595336914,
+        "answer_prompt_effect": 34.60814666748047,
+        "puzzle_prompt_effect": 26.635955810546875
+      }
+    },
+    {
+      "id": 133,
+      "puzzle_text": "How do you get a full-grown pear inside a bottle of brandy?",
+      "answer_text": "It may be easier than putting a ship in a bottle but requires just as much patience. The pear isn’t put into the bottle; it grows inside it. When the fruit is small, the bottle is affixed to the tree branch, and the pear grows to maturity inside the bottle.",
+      "logprobs": {
+        "answer_given_puzzle": -129.31615018844604,
+        "puzzle_given_answer": -30.68404769897461,
+        "answer_given_empty": -162.23730421066284,
+        "puzzle_given_empty": -68.4667797088623,
+        "answer_prompt_effect": 32.9211540222168,
+        "puzzle_prompt_effect": 37.782732009887695
+      }
+    },
+    {
+      "id": 134,
+      "puzzle_text": "One person decided to play golf with Nick Faldo, imposing one condition - he will choose the time and the place for a match. Nick agreed. As a result this person beat the champion.",
+      "answer_text": "This person was blind and he chose to play this match at moonless night. He could play golf perfectly well in dark. (It is true, blind people can play golf with the help of not blind people). Such conditions were unusual for Nick so he lost.",
+      "logprobs": {
+        "answer_given_puzzle": -147.1147117614746,
+        "puzzle_given_answer": -107.51244926452637,
+        "answer_given_empty": -239.34315490722656,
+        "puzzle_given_empty": -173.90203619003296,
+        "answer_prompt_effect": 92.22844314575195,
+        "puzzle_prompt_effect": 66.38958692550659
+      }
+    },
+    {
+      "id": 135,
+      "puzzle_text": "A man wearing a balaclava runs out of a museum carrying a painting under his arm. A police officer sees him, shoots him dead and commits suicide soon after. A couple of days later, the man with the painting is buried and named favorite son of the city.",
+      "answer_text": "During a cold spell, there is fire in a museum and its director tried to save the most valuable painting from the museum's collection. The police officer had not noticed the fire and thought the man with the painting was a thief. He told him to freeze but since the director was deaf he did not hear the police officer. When the police officer realized what he had done, he committed suicide.",
+      "logprobs": {
+        "answer_given_puzzle": -176.81597518920898,
+        "puzzle_given_answer": -129.0957260131836,
+        "answer_given_empty": -249.95864820480347,
+        "puzzle_given_empty": -171.11959838867188,
+        "answer_prompt_effect": 73.14267301559448,
+        "puzzle_prompt_effect": 42.02387237548828
+      }
+    },
+    {
+      "id": 136,
+      "puzzle_text": "Aborigines lived on an island in the middle of the ocean. However, they found a way to get rich. How did they do it?",
+      "answer_text": "There were porcelain vases left at the ocean bottom after a shipwreck. For 100 years, the most experienced divers couldn’t get them. \n\nThe aborigines invented a clever method. They caught octopuses, tied them down, and plunged into the water. \n\nThen they waited until the animals find places to hide inside porcelain bowls and vessels among the pile of ship wreckage. Octopuses turned out to be stubborn – they didn’t want to part with their favorite dwelling, even when being pulled by the rope. \n\nSometimes, the octopus pulled a stone instead of the porcelain, but it worked out all right. \n\n From “Primates of the sea” by Igor Akimushkin",
+      "logprobs": {
+        "answer_given_puzzle": -449.99464988708496,
+        "puzzle_given_answer": -68.94262647628784,
+        "answer_given_empty": -474.97592067718506,
+        "puzzle_given_empty": -84.00277328491211,
+        "answer_prompt_effect": 24.981270790100098,
+        "puzzle_prompt_effect": 15.060146808624268
+      }
+    },
+    {
+      "id": 137,
+      "puzzle_text": "A man buys rice at $1 a pound from American growers and sells it for 2 cents a pound. As a result of this he becomes a millionaire. How could this be?",
+      "answer_text": "The man is a philanthropist who bought the rice to sell to poor people at prices they could afford. He started out as a billionaire, but lost so much money in his good works that he became a millionaire! (this is Warren Buffets goal)",
+      "logprobs": {
+        "answer_given_puzzle": -153.97646284103394,
+        "puzzle_given_answer": -84.45035552978516,
+        "answer_given_empty": -175.9280548095703,
+        "puzzle_given_empty": -133.3244171142578,
+        "answer_prompt_effect": 21.951591968536377,
+        "puzzle_prompt_effect": 48.874061584472656
+      }
+    },
+    {
+      "id": 138,
+      "puzzle_text": "In the front of a car, a woman is found dead. There is a gun in the back seat, out of her reach. The windows are closed and the doors are all locked.",
+      "answer_text": "The woman was sitting in a convertible and the top was down. The murderer shot her and threw the gun into the back seat of the car.",
+      "logprobs": {
+        "answer_given_puzzle": -54.660133361816406,
+        "puzzle_given_answer": -74.11795043945312,
+        "answer_given_empty": -100.8328857421875,
+        "puzzle_given_empty": -103.3865966796875,
+        "answer_prompt_effect": 46.172752380371094,
+        "puzzle_prompt_effect": 29.268646240234375
+      }
+    },
+    {
+      "id": 139,
+      "puzzle_text": "The doorbell rings. Bill opens the door. On the threshold, he sees a local vagrant. \r\n \r\n\"Hello,\" says the vagrant, \"as usual, I was going around the garbage pits and in one of them found a wallet with $1,000 and your ID. You must have thrown it away by mistake.\"\r\n\r\n\"Right!\" says Bill joyfully. \"My wallet! Thank you so much!\"\r\n\r\n\"Please check the contents.\" the vagrant asks.\r\n\r\n\"One thousand even!\" confirms Bill, counting the bills hastily. Then he takes a $20 bill out of the pack and gives it to the vagrant, \"This is from me with thanks!\" \r\n \r\nThey part, being quite content with each other. \r\n  \r\n\"Who was it?\" Bill’s wife asks.\r\n  \r\nBill laughs and tells his wife what happened. \r\n\r\nWhy’s it funny?",
+      "answer_text": "When returning the wallet, the vagrant had high hopes for gratitude. \nBut there was a chance that Bill wouldn’t have any broken money at hand. \nIn the wallet, there were only $100 bills. \nWould Bill agree to pay such a large amount? \nAnd the vagrant made a wise decision. Before returning the wallet, he had exchanged one hundred for smaller bills – 5, 10, 20, 50, deciding that thus Bill would be able to choose the amount to thank him with. \n\n It was the vagrant’s forethought that made Bill laugh.",
+      "logprobs": {
+        "answer_given_puzzle": -324.36149406433105,
+        "puzzle_given_answer": -440.15811252593994,
+        "answer_given_empty": -393.0305018424988,
+        "puzzle_given_empty": -487.34114837646484,
+        "answer_prompt_effect": 68.66900777816772,
+        "puzzle_prompt_effect": 47.1830358505249
+      }
+    },
+    {
+      "id": 140,
+      "puzzle_text": "After a professor died, his will was followed carefully, but later it turned out that he wanted something completely different. Why?",
+      "answer_text": "The professor signed his skeleton away to the medical university. After his death, his skeleton was turned into a teaching aid. But later a skeleton on a stand was found in the professor’s office – this very skeleton the professor had in mind.",
+      "logprobs": {
+        "answer_given_puzzle": -147.39505004882812,
+        "puzzle_given_answer": -65.50334167480469,
+        "answer_given_empty": -175.3952178955078,
+        "puzzle_given_empty": -90.58804321289062,
+        "answer_prompt_effect": 28.000167846679688,
+        "puzzle_prompt_effect": 25.084701538085938
+      }
+    },
+    {
+      "id": 141,
+      "puzzle_text": "The man was going to go to work by car, but found that one of the tires was flat. Without doing anything, he got into the car and drove 20 kilometers to work and then back home, without the slightest embarrassment. How could he manage it?",
+      "answer_text": "The tire was flat on the spare wheel, which was in the trunk.",
+      "logprobs": {
+        "answer_given_puzzle": -44.67602491378784,
+        "puzzle_given_answer": -133.03443908691406,
+        "answer_given_empty": -63.780029296875,
+        "puzzle_given_empty": -156.1809844970703,
+        "answer_prompt_effect": 19.104004383087158,
+        "puzzle_prompt_effect": 23.14654541015625
+      }
+    },
+    {
+      "id": 142,
+      "puzzle_text": "A guy goes into a drugstore and leaves shortly after with the money from the cash register. The drugstore owner calls the Police Station and, some time later, a police officer recovers the money and takes the guy away. That evening the three people go to the police station to report a theft.",
+      "answer_text": "The guy was the drugstore owner's son. His car had been stolen and he had an important exam. He had been to the drugstore to ask his mother for some money so he could take a taxi. In addition to this, the mother called her husband - who was a police officer - and asked him to bring their son to the exam. He did, and since the son did not need the money any more, he gave it back to his father, who returned it to the mother. At the end of the day, the whole family reported the car theft.",
+      "logprobs": {
+        "answer_given_puzzle": -226.29718780517578,
+        "puzzle_given_answer": -137.89550399780273,
+        "answer_given_empty": -294.49452018737793,
+        "puzzle_given_empty": -213.3681125640869,
+        "answer_prompt_effect": 68.19733238220215,
+        "puzzle_prompt_effect": 75.47260856628418
+      }
+    },
+    {
+      "id": 143,
+      "puzzle_text": "A man dies of thirst at home. How could it happen?",
+      "answer_text": "The man’s home was a yacht, in which he was travelling around the world. While sailing in the ocean, he ran out of fresh water much faster than he expected.",
+      "logprobs": {
+        "answer_given_puzzle": -80.2451286315918,
+        "puzzle_given_answer": -40.140380859375,
+        "answer_given_empty": -111.26593732833862,
+        "puzzle_given_empty": -55.8094482421875,
+        "answer_prompt_effect": 31.020808696746826,
+        "puzzle_prompt_effect": 15.6690673828125
+      }
+    },
+    {
+      "id": 144,
+      "puzzle_text": "A person called the police and told them to ask about John K. Upon arrival at John’s house, the police found him dead. Examining the corpse, the police discovered severe injuries. But the apartment was in perfect order, without any signs of a struggle or break-in.",
+      "answer_text": "A driver hit a passerby at night, found his address in the documents, discovered that he lived alone, and took him home.",
+      "logprobs": {
+        "answer_given_puzzle": -89.95556640625,
+        "puzzle_given_answer": -139.9099884033203,
+        "answer_given_empty": -121.5343017578125,
+        "puzzle_given_empty": -166.46370697021484,
+        "answer_prompt_effect": 31.5787353515625,
+        "puzzle_prompt_effect": 26.55371856689453
+      }
+    },
+    {
+      "id": 145,
+      "puzzle_text": "At the end of the XIX century one american enterpreneur invented a system to withstand competition. This system we all use nowadays.",
+      "answer_text": "This american enterpreneur was Almon Brown Strowger. Strowger patented his automatic telephone exchange and left the undertaking business to mass-produce his new invention.\nAnecdotally, Strowger's undertaking business was losing clients to a competitor whose telephone-operator wife was redirecting everyone who called for Strowger. Motivated to remove the intermediary operator, he invented the first automatic telephone exchange in 1889 and received its patent in 1891.It is reported that he initially constructed a model of his invention from a round collar box and some straight pins.",
+      "logprobs": {
+        "answer_given_puzzle": -298.08837270736694,
+        "puzzle_given_answer": -86.48418045043945,
+        "answer_given_empty": -328.9220781326294,
+        "puzzle_given_empty": -107.72529602050781,
+        "answer_prompt_effect": 30.83370542526245,
+        "puzzle_prompt_effect": 21.24111557006836
+      }
+    },
+    {
+      "id": 146,
+      "puzzle_text": "A little girl was crying bitterly in a barn. Through her tears, she noticed an old lamp lying in the garbage. She took it and dusted it off.\r\n\r\nSuddenly a genie appeared and said:\r\n\r\n\"I’ll fulfill one of your wishes. But only one, so think it over.\"\r\n\r\n\"Please make my parents disappear!\" the girl said through tears, \"I hate them!\"\r\n\r\n\"Consider it done,\" replied the genie. \"Go to bed, and in the morning your wish will be fulfilled.\"\r\n\r\nThe next morning, the girl woke up and went down to the kitchen. She found her mom and dad sitting at the kitchen table having breakfast. The girl immediately regretted her wish. She rushed into the barn and began to rub the lamp.\r\n\r\nThe genie appeared and said, \"Well, are you happy now?\"\r\n\r\n\"Please cancel my yesterday’s wish,\" the girl pleaded.\r\n\r\n\"I'm sorry,\" the genie replied. \"But once a wish is made, I can’t cancel it.\"\r\n\r\nAnd the girl burst into bitter tears. Why?",
+      "answer_text": "The girl realized that she lived with foster parents, and her wish made her real parents, who lived somewhere else, disappear.",
+      "logprobs": {
+        "answer_given_puzzle": -78.96323013305664,
+        "puzzle_given_answer": -430.560697555542,
+        "answer_given_empty": -113.41973876953125,
+        "puzzle_given_empty": -440.5255217552185,
+        "answer_prompt_effect": 34.45650863647461,
+        "puzzle_prompt_effect": 9.964824199676514
+      }
+    },
+    {
+      "id": 147,
+      "puzzle_text": "A dinner at a dormitory. The light went out. When they turned on the light, a student had blood all over his hands.",
+      "answer_text": "There was the last sausage left on the plate. When the light went out, all the students reached for the sausage with their forks, and this one with his hands.",
+      "logprobs": {
+        "answer_given_puzzle": -87.79023742675781,
+        "puzzle_given_answer": -72.94009208679199,
+        "answer_given_empty": -139.18405151367188,
+        "puzzle_given_empty": -109.62267875671387,
+        "answer_prompt_effect": 51.39381408691406,
+        "puzzle_prompt_effect": 36.682586669921875
+      }
+    },
+    {
+      "id": 148,
+      "puzzle_text": "The parents lost their little daughter when she was playing on the playground. The police didn’t find her. The case was deemed as unsolved, and the investigation was closed.\r\n\r\nBut the parents refused to give up. And they decided to contact a medium. This medium often helped the police and could often point out the exact location of a criminal or a missing person.\r\n\r\nWhen the medium arrived a few days later, she asked the parents to take her to the place where they had last seen their daughter. The mother and father took the medium to the park and watched her sit down on the grass, close her eyes, and do into a trance. Then she exclaimed, “Your daughter is alive! Her heart is beating and her lungs are breathing.”\r\n\r\nThe happy parents held hands tightly. The mother asked, “But where is she now?”\r\n\r\n“She sees a luxurious house with expensive furniture,” the medium continued, “And only the most delicious food is in her stomach”.\r\n\r\nThe mother breathed a sigh of relief again and pleaded, \"But where is our daughter? Please tell us!\"\r\n\r\nThe medium hesitated for a while. Then her eyes opened wide, and she screamed, \"She’s all over the world!\"\r\n\r\nFor a while, the parents of the missing girl stood motionless with their mouths wide open. Then they suddenly understood what the medium meant and fell on the floor, crying bitterly.\r\n\r\nWhat happened to the girl?",
+      "answer_text": "The girl was kidnapped and sold for organs.",
+      "logprobs": {
+        "answer_given_puzzle": -26.366058349609375,
+        "puzzle_given_answer": -644.4335250854492,
+        "answer_given_empty": -51.119140625,
+        "puzzle_given_empty": -685.5045108795166,
+        "answer_prompt_effect": 24.753082275390625,
+        "puzzle_prompt_effect": 41.07098579406738
+      }
+    },
+    {
+      "id": 149,
+      "puzzle_text": "A company produced knives for peeling potatoes. The manufacturers wanted to increase sales of their products and decided: if the knives disappear more often in homes, then housewives will buy new ones. How did they embody their idea?",
+      "answer_text": "The company began to produce knives for peeling potatoes, which were painted to match the color of the peel of this vegetable. The device merged color with peelings, and they were often thrown away.",
+      "logprobs": {
+        "answer_given_puzzle": -135.69298553466797,
+        "puzzle_given_answer": -121.53076076507568,
+        "answer_given_empty": -178.4688720703125,
+        "puzzle_given_empty": -191.20721054077148,
+        "answer_prompt_effect": 42.77588653564453,
+        "puzzle_prompt_effect": 69.6764497756958
+      }
+    },
+    {
+      "id": 150,
+      "puzzle_text": "Two monkeys are looking through a pipe that happened to be in a glade. \r\nThe pipe is straight, not too long and not clogged. \r\nMonkeys look through the opposite ends of the pipe, but don’t see each other there. Why?",
+      "answer_text": "The correct answer is: the monkeys don’t look through the pipe at one time.\nThere is another logical answer: because it's dark.",
+      "logprobs": {
+        "answer_given_puzzle": -86.48138427734375,
+        "puzzle_given_answer": -117.25990295410156,
+        "answer_given_empty": -129.22528076171875,
+        "puzzle_given_empty": -177.28734397888184,
+        "answer_prompt_effect": 42.743896484375,
+        "puzzle_prompt_effect": 60.02744102478027
+      }
+    },
+    {
+      "id": 151,
+      "puzzle_text": "Kirill is jailed for a murder he hasn’t committed. Bill can prove that it wasn’t Kirill. But he deliberately hides the evidence. Why?",
+      "answer_text": "Bill is a detective. A couple of years ago, he investigated a murder, and he believes that Kirill committed it. But the court decided otherwise, and Kirill walked free. \n\nBill decided to hide all the evidence of the new crime so that Kirill could be punished for the murder. \n\n (Pay attention to the difference between “believe” and “know” when answering the questions)\n\n --- \n This is a common plot for literature and movies. \n\nIn Claude Chabrol’s Inspector Lavardin, an innocent man is accused, but Lavardin keeps silent although he knows that he’s innocent in this murder case, since the accused has committed other crimes that Lavardin can’t prove. \n\n “The Judge and his Executioner” by Friedrich Durrenmatt has the same plot.",
+      "logprobs": {
+        "answer_given_puzzle": -441.2922558784485,
+        "puzzle_given_answer": -59.850539684295654,
+        "answer_given_empty": -559.4668288230896,
+        "puzzle_given_empty": -102.92471313476562,
+        "answer_prompt_effect": 118.17457294464111,
+        "puzzle_prompt_effect": 43.07417345046997
+      }
+    },
+    {
+      "id": 152,
+      "puzzle_text": "Thieves broke into a woman’s house. She shut herself up in her room and called the police. She was told that there were no patrol cars available right now, and she would have to wait. \r\n\r\nShe didn’t wait. 5 minutes later, 3 patrol cars and an ambulance were at her house. What did she do?",
+      "answer_text": "After 2 minutes, the woman called the police again and said that she had shot all the thieves.\nAfter all, the police immediately came and successfully detained the robbers. So, the woman found out that there were still patrol cars available.",
+      "logprobs": {
+        "answer_given_puzzle": -154.81053161621094,
+        "puzzle_given_answer": -142.2399139404297,
+        "answer_given_empty": -189.1342010498047,
+        "puzzle_given_empty": -167.42555046081543,
+        "answer_prompt_effect": 34.32366943359375,
+        "puzzle_prompt_effect": 25.185636520385742
+      }
+    },
+    {
+      "id": 153,
+      "puzzle_text": "The husband lied to his wife that there were weapons buried in the backyard of their house. What for?",
+      "answer_text": "He was serving a sentence in prison and knew that his correspondence was read. He wanted to make his wife a birthday gift – to help her dig up a vegetable garden.\nSearching for the weapons, police did a great job.",
+      "logprobs": {
+        "answer_given_puzzle": -184.38507080078125,
+        "puzzle_given_answer": -58.464599609375,
+        "answer_given_empty": -194.23049926757812,
+        "puzzle_given_empty": -88.23675537109375,
+        "answer_prompt_effect": 9.845428466796875,
+        "puzzle_prompt_effect": 29.77215576171875
+      }
+    },
+    {
+      "id": 154,
+      "puzzle_text": "Igor breaks into Thomas' home to kill him but he doesn't do it. However he is immediately arrested and sentenced for the crime. Why?",
+      "answer_text": "Igor was a hitman. The person who hired him had planned to kill Thomas and get rid of Igor. To achieve this, he hired a second assassin that killed Thomas before Igor got there. When Igor arrived, Thomas was dead and the police had already been called and were on their way.",
+      "logprobs": {
+        "answer_given_puzzle": -140.804678440094,
+        "puzzle_given_answer": -84.0403208732605,
+        "answer_given_empty": -189.01802349090576,
+        "puzzle_given_empty": -122.00746154785156,
+        "answer_prompt_effect": 48.21334505081177,
+        "puzzle_prompt_effect": 37.967140674591064
+      }
+    },
+    {
+      "id": 155,
+      "puzzle_text": "A woman hits the windshield of a vehicle travelling down the road and falls to the ground.The driver calls the police. When the officer comes, he looks after the victim and takes her into custody. Why?",
+      "answer_text": "The woman threw herself against the windshield of the car, which was going at a low speed, with the intention of getting paid by the driver's insurance company. Her plan did not work, however, because the car was fitted with a security camera that recorded her actions.",
+      "logprobs": {
+        "answer_given_puzzle": -113.75877952575684,
+        "puzzle_given_answer": -111.95680236816406,
+        "answer_given_empty": -153.7670168876648,
+        "puzzle_given_empty": -132.09078979492188,
+        "answer_prompt_effect": 40.00823736190796,
+        "puzzle_prompt_effect": 20.133987426757812
+      }
+    },
+    {
+      "id": 156,
+      "puzzle_text": "A horse is tied to a 15 ft. rope and there is a bail of hay 25 ft. away from him, yet the horse is able to eat from the bail of hay. How is this possible?",
+      "answer_text": "The horse is ties to one end of the rope but the other end of the rope is not tied to anything so the horse walks over and eats the hay.",
+      "logprobs": {
+        "answer_given_puzzle": -62.02125358581543,
+        "puzzle_given_answer": -47.906245708465576,
+        "answer_given_empty": -93.20840454101562,
+        "puzzle_given_empty": -85.52912855148315,
+        "answer_prompt_effect": 31.187150955200195,
+        "puzzle_prompt_effect": 37.62288284301758
+      }
+    },
+    {
+      "id": 157,
+      "puzzle_text": "A New York city hairdresser recently said that he would rather cut the hair of 3 Canadians rather than cut the hair of one New Yorker. Why?",
+      "answer_text": "He would rather earn three times as much money!",
+      "logprobs": {
+        "answer_given_puzzle": -22.886695861816406,
+        "puzzle_given_answer": -88.11156272888184,
+        "answer_given_empty": -47.39727783203125,
+        "puzzle_given_empty": -101.37723875045776,
+        "answer_prompt_effect": 24.510581970214844,
+        "puzzle_prompt_effect": 13.265676021575928
+      }
+    },
+    {
+      "id": 158,
+      "puzzle_text": "Micheal and his wife were having a heated argument that lasted hours. After some time they both left the house to go outside. Neither of them ever returned.",
+      "answer_text": "While they were arguing they forgot that they had food cooking in the kitchen. The unattended stove caused a fire that began spreading through the house. They left the house as soon as they realised it was burning. The house burned to the ground so they could never go back.",
+      "logprobs": {
+        "answer_given_puzzle": -129.8880534172058,
+        "puzzle_given_answer": -94.03604125976562,
+        "answer_given_empty": -180.0363006591797,
+        "puzzle_given_empty": -135.4650421142578,
+        "answer_prompt_effect": 50.14824724197388,
+        "puzzle_prompt_effect": 41.42900085449219
+      }
+    },
+    {
+      "id": 159,
+      "puzzle_text": "Rachael and Monica have moved into a shared house with several other occupants. Monica doesn’t like their new accommodation though because of the angry and aggressive cat that greeted them when they first walked in. Rachael realizes that there isn’t really a problem. Why?",
+      "answer_text": "There is a mirror near the entrance. Monica is a cat, saw her reflection, and thought that it was another cat challenging her for territory. Rachael can cover up the mirror until Monica becomes settled, but Monica will figure it out eventually even if Rachael does nothing.",
+      "logprobs": {
+        "answer_given_puzzle": -162.92886352539062,
+        "puzzle_given_answer": -162.34365844726562,
+        "answer_given_empty": -232.28451490402222,
+        "puzzle_given_empty": -208.59353637695312,
+        "answer_prompt_effect": 69.35565137863159,
+        "puzzle_prompt_effect": 46.2498779296875
+      }
+    },
+    {
+      "id": 160,
+      "puzzle_text": "A woman is planning to kill her husband during dinner. However, she commits suicide while preparing it.",
+      "answer_text": "She was planning to kill him by poisoning the food with some pills that she had in her bag. When she went to grab them, she noticed that they were not there, and that her son had swallowed them, thinking they were sweets. She couldn't bear it and took her own life.",
+      "logprobs": {
+        "answer_given_puzzle": -115.79522705078125,
+        "puzzle_given_answer": -54.16967010498047,
+        "answer_given_empty": -160.62952423095703,
+        "puzzle_given_empty": -76.1596565246582,
+        "answer_prompt_effect": 44.83429718017578,
+        "puzzle_prompt_effect": 21.989986419677734
+      }
+    },
+    {
+      "id": 161,
+      "puzzle_text": "Two women are talking. One goes into the bathroom, comes out five minutes later, and kills the other.",
+      "answer_text": "Both women are white; the one whose house this takes place in is single. A black friend of the other woman, the one who goes into the bathroom, was recently killed, reportedly by the KKK (Ku Klux Klan). The woman who goes into the bathroom discovers a bloodstained KKK robe in the other's laundry hamper, picks up a nail file from the medicine cabinet, and goes out and kills the other.",
+      "logprobs": {
+        "answer_given_puzzle": -208.81359910964966,
+        "puzzle_given_answer": -30.32190704345703,
+        "answer_given_empty": -243.9222092628479,
+        "puzzle_given_empty": -75.62620162963867,
+        "answer_prompt_effect": 35.10861015319824,
+        "puzzle_prompt_effect": 45.30429458618164
+      }
+    },
+    {
+      "id": 162,
+      "puzzle_text": "A businessman witnesses a kidnapping. However, when he tells the police, they do not believe him.",
+      "answer_text": "After leaving the dentist, the witness was unable to speak properly, since he had numb mouth. The policemen thought that the man was drunk and did not believe a word he said.",
+      "logprobs": {
+        "answer_given_puzzle": -100.78301620483398,
+        "puzzle_given_answer": -47.28610610961914,
+        "answer_given_empty": -123.40190076828003,
+        "puzzle_given_empty": -67.76665306091309,
+        "answer_prompt_effect": 22.618884563446045,
+        "puzzle_prompt_effect": 20.480546951293945
+      }
+    },
+    {
+      "id": 163,
+      "puzzle_text": "A man designed a device into which you can insert colored paper, and then get the ideal 100$. Experts can not distinguish them from the real ones. How does he do that, and why does he sell this device?",
+      "answer_text": "The man sells this device to the thief, convincing him that it prints counterfeit dollars that are indistinguishable from the real ones. He demonstrates the machine by inserting green paper into it. But green paper - this is actually real 100$, but richly painted in green. The machine simply removes green paint from them.",
+      "logprobs": {
+        "answer_given_puzzle": -184.38903331756592,
+        "puzzle_given_answer": -142.2860713005066,
+        "answer_given_empty": -236.59690046310425,
+        "puzzle_given_empty": -178.13478088378906,
+        "answer_prompt_effect": 52.20786714553833,
+        "puzzle_prompt_effect": 35.84870958328247
+      }
+    },
+    {
+      "id": 164,
+      "puzzle_text": "Two devices are commonly used by people. They are created for the same purpose. But one of them has lots of details and another does not has any. What are these things?",
+      "answer_text": "One of these devices is hourglass. Another one is sundial. \nLittle hint for players: both devices are invented long time ago.",
+      "logprobs": {
+        "answer_given_puzzle": -106.37957572937012,
+        "puzzle_given_answer": -86.28120422363281,
+        "answer_given_empty": -120.46134948730469,
+        "puzzle_given_empty": -116.53750610351562,
+        "answer_prompt_effect": 14.08177375793457,
+        "puzzle_prompt_effect": 30.256301879882812
+      }
+    },
+    {
+      "id": 165,
+      "puzzle_text": "There are a man and his son in a car. The car crashes and the father dies. When the ambulance takes the son to the hospital, the surgeon says:\" I can't do the surgery, because he is my son\". How can that be possible?",
+      "answer_text": "Because the surgeon is a woman and his mother.",
+      "logprobs": {
+        "answer_given_puzzle": -22.363723754882812,
+        "puzzle_given_answer": -92.50426483154297,
+        "answer_given_empty": -60.4150390625,
+        "puzzle_given_empty": -121.72616195678711,
+        "answer_prompt_effect": 38.05131530761719,
+        "puzzle_prompt_effect": 29.22189712524414
+      }
+    },
+    {
+      "id": 166,
+      "puzzle_text": "I was alone in the mountains studying birds. When I accidentally fell from a height and broke my leg, I noticed an unknown black bird. I couldn't even get up, and I would have died of thirst or hunger if it hadn’t been for a strange girl who started coming to me every night. She had black hair, long eyelashes, and a charming smile. She never talked but just lay on top of me and fed me from her mouth. I thought it was raw meat. Sometimes, she gave me warm blood to drink, but I was so hungry that enjoyed any food. She left immediately afterwards.\r\n\r\nAbout a month later, my leg felt better. I managed to get up, return home, and finally have a proper meal. I was surprised when at night she somehow got into my room again and woke me up. Chewing something, she slowly started climbing on top of me again. I tried to resist, but in vain. She forced the food into my mouth and left, smiling. This time I was full, so I felt an aversion. Spitting everything out on the floor and recollecting myself, I managed see pieces of someone’s eye in this lump. \r\n\r\nSince then, it happened every night. Although I was grateful to her for saving me, I begin to feel really worried. Fortunately, she stopped visiting me after a couple of weeks.\r\n\r\nFive years have passed since then. I’m on Mount Fuji now, and here I met the black bird again. Now I understand everything. My time is short. Do you know why?",
+      "answer_text": "This girl is a demon. She wanted to take care of the main character and prolong his life.\n5 years after the last feeding, she came to the main character again – but this time not for feeding. She transformed into the black bird and took him to her nest on Mount Fuji. Every day, she started biting off small pieces of his flesh to travel back in time and feed him in the past, because otherwise he would have starved to death.",
+      "logprobs": {
+        "answer_given_puzzle": -247.99033641815186,
+        "puzzle_given_answer": -797.4840002059937,
+        "answer_given_empty": -279.2845401763916,
+        "puzzle_given_empty": -868.1839590072632,
+        "answer_prompt_effect": 31.294203758239746,
+        "puzzle_prompt_effect": 70.69995880126953
+      }
+    },
+    {
+      "id": 167,
+      "puzzle_text": "Oscar was sitting reading his newspaper, when he heard a noise. When he realized what had happened, he bitterly regretted not having caught the taxi in time. Shortly afterwards, he committed suicide.",
+      "answer_text": "Oscar was broke. He was a miniature car models collector and, to solve his economic problems, he was going to sell his most valuable car. He had been cleaning it and did not put it down on the table properly when he finished. When he sat down and began to read his newspaper, he heard how it fell off the table. He could not catch it in time before it crashed into the floor.",
+      "logprobs": {
+        "answer_given_puzzle": -204.67793035507202,
+        "puzzle_given_answer": -96.63941764831543,
+        "answer_given_empty": -317.5405502319336,
+        "puzzle_given_empty": -147.85997772216797,
+        "answer_prompt_effect": 112.86261987686157,
+        "puzzle_prompt_effect": 51.22056007385254
+      }
+    },
+    {
+      "id": 168,
+      "puzzle_text": "A man quits his job and celebrates by throwing a party all night. The next day he dresses up and jumps from the balcony of his house. Why?",
+      "answer_text": "The man won the lottery. He quit his job and celebrated with his friends. The next day the man dressed up to get the prize but realized that he had destroyed the ticket when washing his suit at the dry cleaner a few days before.",
+      "logprobs": {
+        "answer_given_puzzle": -129.36102294921875,
+        "puzzle_given_answer": -79.72651672363281,
+        "answer_given_empty": -167.86358642578125,
+        "puzzle_given_empty": -111.57217407226562,
+        "answer_prompt_effect": 38.5025634765625,
+        "puzzle_prompt_effect": 31.845657348632812
+      }
+    },
+    {
+      "id": 169,
+      "puzzle_text": "King George IV was born in 1763 and ruled England from 1820 to 1830 when he died. He wasn’t an outstanding ruler but is known as a footwear trendsetter. His shoes were fundamentally different from those worn by his contemporaries. Everyone liked this innovation so much that today it’s a common practice, which can’t be said about those times. What kind of innovation is it?",
+      "answer_text": "This king was the first to have a right and a left boot. Before then, all shoes and boots were made to fit both feet.",
+      "logprobs": {
+        "answer_given_puzzle": -60.2523250579834,
+        "puzzle_given_answer": -197.3698959350586,
+        "answer_given_empty": -98.59228515625,
+        "puzzle_given_empty": -220.7111258506775,
+        "answer_prompt_effect": 38.3399600982666,
+        "puzzle_prompt_effect": 23.341229915618896
+      }
+    },
+    {
+      "id": 170,
+      "puzzle_text": "When the priest stopped talking, Bobby died.",
+      "answer_text": "Bobby was a little hamster who had come to the church along with Tom, his 9-year-old owner. When the priest was speaking in front of the believers, the little hamster escaped from the child's lap and went to the altar. When the priest finished speaking and headed towards his chair, he did not see Bobby and crushed him with his foot.",
+      "logprobs": {
+        "answer_given_puzzle": -166.03804683685303,
+        "puzzle_given_answer": -20.78759765625,
+        "answer_given_empty": -227.99964141845703,
+        "puzzle_given_empty": -60.338134765625,
+        "answer_prompt_effect": 61.961594581604004,
+        "puzzle_prompt_effect": 39.550537109375
+      }
+    },
+    {
+      "id": 171,
+      "puzzle_text": "The man was walking along the rails and suddenly he saw a train coming towards him. Then he ran like hell to meet the approaching train.",
+      "answer_text": "The man was in a tunnel and, in order to save his own life, he had to run along the rails to meet the train. When the tunnel was over, he was able to jump off the rails. And thanks to that, he remained alive.",
+      "logprobs": {
+        "answer_given_puzzle": -98.9754467010498,
+        "puzzle_given_answer": -48.24699401855469,
+        "answer_given_empty": -161.6206202507019,
+        "puzzle_given_empty": -93.32356262207031,
+        "answer_prompt_effect": 62.6451735496521,
+        "puzzle_prompt_effect": 45.076568603515625
+      }
+    },
+    {
+      "id": 172,
+      "puzzle_text": "I was having dinner with my friend and he said to find a hidden place so that he would not be seen. After a while, my friend exploded.",
+      "answer_text": "My friend and I are mosquitoes, and in the middle of sucking blood, my friend was slapped to death by a human, so he exploded.",
+      "logprobs": {
+        "answer_given_puzzle": -70.82336235046387,
+        "puzzle_given_answer": -76.01901245117188,
+        "answer_given_empty": -104.57994842529297,
+        "puzzle_given_empty": -109.918701171875,
+        "answer_prompt_effect": 33.7565860748291,
+        "puzzle_prompt_effect": 33.899688720703125
+      }
+    },
+    {
+      "id": 173,
+      "puzzle_text": "Andrew decided to spend the evening with his family. He bought tickets for the whole family, but his ticket cost him his life.",
+      "answer_text": "Andrew took his family to the zoo. He found the tickets too expensive. So, he decided not to buy a ticket for himself. He climbed over the wall but got into a cage with a lion. When he realized what happened, it was too late.",
+      "logprobs": {
+        "answer_given_puzzle": -99.91347312927246,
+        "puzzle_given_answer": -61.64764404296875,
+        "answer_given_empty": -138.9557342529297,
+        "puzzle_given_empty": -102.96105194091797,
+        "answer_prompt_effect": 39.04226112365723,
+        "puzzle_prompt_effect": 41.31340789794922
+      }
+    },
+    {
+      "id": 174,
+      "puzzle_text": "Peter wins the raffle and commits suicide.",
+      "answer_text": "A group of people were snowed in. They decided to do a raffle to decide who should die so the others could eat his/her corpse to stay alive. Peter's name was selected so he had to take his own life.",
+      "logprobs": {
+        "answer_given_puzzle": -122.47874450683594,
+        "puzzle_given_answer": -18.825775146484375,
+        "answer_given_empty": -165.07489776611328,
+        "puzzle_given_empty": -65.555419921875,
+        "answer_prompt_effect": 42.596153259277344,
+        "puzzle_prompt_effect": 46.729644775390625
+      }
+    },
+    {
+      "id": 175,
+      "puzzle_text": "There were many reasons why John enjoyed coming here. But his wife Mary hated this place, as did other women in the city. Why?",
+      "answer_text": "This situation puzzle is about a real geographical object. In Stockholm, there’s a narrow – no more than a meter wide – street that leads to a drinking place. It was very popular in the 18th century, as drunkards could hold on to the walls when walking along the street. However, their wives couldn’t enter this street, because their hooped dresses got stuck between the walls.",
+      "logprobs": {
+        "answer_given_puzzle": -251.17653608322144,
+        "puzzle_given_answer": -80.716796875,
+        "answer_given_empty": -249.14723014831543,
+        "puzzle_given_empty": -109.3900146484375,
+        "answer_prompt_effect": -2.029305934906006,
+        "puzzle_prompt_effect": 28.6732177734375
+      }
+    },
+    {
+      "id": 176,
+      "puzzle_text": "A car without a driver moves; a man dies. How come?",
+      "answer_text": "The murderer sets the car on a slope above the hot dog stand where the victim works. He then wedges an ice block in the car to keep the brake pedal down, and puts the car in neutral, after which he flies to another city to avoid suspicion. It's a warm day; when the ice melts, the car rolls down the hill and strikes the hot dog man at his roadside stand, killing him.",
+      "logprobs": {
+        "answer_given_puzzle": -227.3197784423828,
+        "puzzle_given_answer": -46.9638671875,
+        "answer_given_empty": -269.1556963920593,
+        "puzzle_given_empty": -69.7109375,
+        "answer_prompt_effect": 41.835917949676514,
+        "puzzle_prompt_effect": 22.7470703125
+      }
+    },
+    {
+      "id": 177,
+      "puzzle_text": "A woman entered a building accompanied by a man whom she loves very much. But she left the building with another man, whom she loves very much. What happened?",
+      "answer_text": "A woman is getting married. Her father brought her to church, and she leaves the church with her husband.",
+      "logprobs": {
+        "answer_given_puzzle": -54.55599021911621,
+        "puzzle_given_answer": -67.33763694763184,
+        "answer_given_empty": -75.49609375,
+        "puzzle_given_empty": -94.59315967559814,
+        "answer_prompt_effect": 20.94010353088379,
+        "puzzle_prompt_effect": 27.25552272796631
+      }
+    },
+    {
+      "id": 178,
+      "puzzle_text": "The killer was severely punished by his victim. Plus, instantly. How?",
+      "answer_text": "The man wanted to knock a snowman down with his car and gathered fairish speed. But it turned out that in the middle of the snowman there was an iron pole sticking out of the ground.",
+      "logprobs": {
+        "answer_given_puzzle": -126.81779479980469,
+        "puzzle_given_answer": -79.546875,
+        "answer_given_empty": -146.4206199645996,
+        "puzzle_given_empty": -92.3095703125,
+        "answer_prompt_effect": 19.602825164794922,
+        "puzzle_prompt_effect": 12.7626953125
+      }
+    },
+    {
+      "id": 179,
+      "puzzle_text": "Lou is in a cave when, suddenly, he hears a sound from outside. He thinks it's strange, so he goes out to see what had happened, and dies the moment he exits the cave.",
+      "answer_text": "Lou heard the sound of a chain saw and discovered that it belonged to a woodcutter who was cutting down a tree just in front of the cave. Unfortunately, Lou could not dodge the tree before it fell on him.",
+      "logprobs": {
+        "answer_given_puzzle": -85.07108688354492,
+        "puzzle_given_answer": -94.45584869384766,
+        "answer_given_empty": -118.37801885604858,
+        "puzzle_given_empty": -133.5472869873047,
+        "answer_prompt_effect": 33.30693197250366,
+        "puzzle_prompt_effect": 39.09143829345703
+      }
+    },
+    {
+      "id": 180,
+      "puzzle_text": "A prisoner was put in an escape-proof cell and told that he would be pardoned if he could break out. He was also given permission to keep any plants he wished in his cell. He was released in less than a week. How did he di it?",
+      "answer_text": "He requested a poison ivy plant. Soon after receiving it, he broke out — in a rash. Of course, he then received his pardon.",
+      "logprobs": {
+        "answer_given_puzzle": -83.67237091064453,
+        "puzzle_given_answer": -129.71617126464844,
+        "answer_given_empty": -129.77128553390503,
+        "puzzle_given_empty": -152.72107315063477,
+        "answer_prompt_effect": 46.0989146232605,
+        "puzzle_prompt_effect": 23.004901885986328
+      }
+    },
+    {
+      "id": 181,
+      "puzzle_text": "A man takes a bucket of water and turns it over. However, nothing pours out, and the water in the bucket isn’t frozen. How is this possible?",
+      "answer_text": "The man is a diver and is underwater.",
+      "logprobs": {
+        "answer_given_puzzle": -25.368408203125,
+        "puzzle_given_answer": -90.0294418334961,
+        "answer_given_empty": -46.3916015625,
+        "puzzle_given_empty": -98.17928314208984,
+        "answer_prompt_effect": 21.023193359375,
+        "puzzle_prompt_effect": 8.14984130859375
+      }
+    },
+    {
+      "id": 182,
+      "puzzle_text": "Why did a healthy young girl put a gypsum on her arm, which was not damaged?",
+      "answer_text": "A young girl put a gypsum on the healthy arm before an oral french exam. She thought that the examiner would ask about her arm. And she came to the exam, having prepared for this particular question.",
+      "logprobs": {
+        "answer_given_puzzle": -126.880126953125,
+        "puzzle_given_answer": -42.83447265625,
+        "answer_given_empty": -179.3095703125,
+        "puzzle_given_empty": -87.324462890625,
+        "answer_prompt_effect": 52.429443359375,
+        "puzzle_prompt_effect": 44.489990234375
+      }
+    },
+    {
+      "id": 183,
+      "puzzle_text": "Two men are beating each other up and both of them suddenly fall to the floor.",
+      "answer_text": "The daughter of one of the boxers had been kidnapped and she would be killed if her father won the fight. At the end of the fight, the boxer's opponent fainted and the other boxer - in order not to win the match - threw himself to the floor.",
+      "logprobs": {
+        "answer_given_puzzle": -141.73122215270996,
+        "puzzle_given_answer": -41.44108581542969,
+        "answer_given_empty": -171.8933048248291,
+        "puzzle_given_empty": -59.92109298706055,
+        "answer_prompt_effect": 30.16208267211914,
+        "puzzle_prompt_effect": 18.48000717163086
+      }
+    },
+    {
+      "id": 184,
+      "puzzle_text": "Gabriela's decision to stop moving saved her life.",
+      "answer_text": "Gabriela was in a swamp and found herself stuck in quicksand. She moved slowly so that she could wait until somebody rescued her.",
+      "logprobs": {
+        "answer_given_puzzle": -75.4125919342041,
+        "puzzle_given_answer": -28.918303966522217,
+        "answer_given_empty": -115.04037237167358,
+        "puzzle_given_empty": -68.71533203125,
+        "answer_prompt_effect": 39.62778043746948,
+        "puzzle_prompt_effect": 39.79702806472778
+      }
+    },
+    {
+      "id": 185,
+      "puzzle_text": "A man goes to the doctor to get the results of some previous tests. The results do not show up any health issues. However, he commits suicide shortly after the visit.",
+      "answer_text": "The patient knew that his wife was cheating on him, but he only knew the lover's name. His wife swore to him that this lover did not exist. However when the man left the doctor's, he saw the lover's name on the report. He realized his wife was cheating on him with the doctor and could not cope with it.",
+      "logprobs": {
+        "answer_given_puzzle": -148.39949750900269,
+        "puzzle_given_answer": -79.45745086669922,
+        "answer_given_empty": -191.98369550704956,
+        "puzzle_given_empty": -120.58489227294922,
+        "answer_prompt_effect": 43.584197998046875,
+        "puzzle_prompt_effect": 41.12744140625
+      }
+    },
+    {
+      "id": 186,
+      "puzzle_text": "Over 80 percent of Greenland is covered in ice. But why then it was called Greenland (a green land)?",
+      "answer_text": "The name Greenland comes from Scandinavian settlers. In the Norse sagas, it is said that Erik the Red was exiled from Iceland for murder. He set out in ships to find land rumoured to be to the northwest. After settling there, he named the land Grfnland (Greenland) to attract more people to settle there.",
+      "logprobs": {
+        "answer_given_puzzle": -115.59864568710327,
+        "puzzle_given_answer": -66.42961502075195,
+        "answer_given_empty": -139.218994140625,
+        "puzzle_given_empty": -78.7619514465332,
+        "answer_prompt_effect": 23.62034845352173,
+        "puzzle_prompt_effect": 12.33233642578125
+      }
+    },
+    {
+      "id": 187,
+      "puzzle_text": "On first day, nothing in Mary’s behavior surprised John.\r\nOn the second day, John was extremely surprised.\r\nOn the third day, John got it and switched his opinion about women for the better.",
+      "answer_text": "Mary was a woman with a rich husband and a rich lover. Both enjoyed giving her expensive gifts but gave her very little pocket money. \n\n - On the first day, Mary and her husband came to the store and chose a dress that cost $2,000. The husband paid at once, and the store assistant (John) wasn’t surprised. \n - On the second day, Mary came to the same store with her lover and chose just the same dress as yesterday. The lover paid at once, and John the seller was very surprised. \n - On the third day, Mary came to the store alone and returned one of the dresses, receiving $2,000 in cash. Indeed, John was lost in admiration.",
+      "logprobs": {
+        "answer_given_puzzle": -298.71553325653076,
+        "puzzle_given_answer": -116.39462852478027,
+        "answer_given_empty": -340.390576839447,
+        "puzzle_given_empty": -153.32559967041016,
+        "answer_prompt_effect": 41.67504358291626,
+        "puzzle_prompt_effect": 36.93097114562988
+      }
+    },
+    {
+      "id": 188,
+      "puzzle_text": "A man looked out of the window and soon died. What happened?",
+      "answer_text": "Through the window of his car, he saw a pretty woman and had a fatal accident.",
+      "logprobs": {
+        "answer_given_puzzle": -70.06563568115234,
+        "puzzle_given_answer": -40.51409912109375,
+        "answer_given_empty": -72.2227783203125,
+        "puzzle_given_empty": -58.8333740234375,
+        "answer_prompt_effect": 2.1571426391601562,
+        "puzzle_prompt_effect": 18.31927490234375
+      }
+    },
+    {
+      "id": 189,
+      "puzzle_text": "A deaf man came into a store to pick up flowers he ordered for his beloved wife. How did he explain that he needs to pick up the flowers that he ordered before?",
+      "answer_text": "He just said it. He is deaf, but not mute.",
+      "logprobs": {
+        "answer_given_puzzle": -43.07232666015625,
+        "puzzle_given_answer": -85.27603149414062,
+        "answer_given_empty": -54.716064453125,
+        "puzzle_given_empty": -108.30099487304688,
+        "answer_prompt_effect": 11.64373779296875,
+        "puzzle_prompt_effect": 23.02496337890625
+      }
+    },
+    {
+      "id": 190,
+      "puzzle_text": "Michael manages to get shot; in doing so he saves his own life.",
+      "answer_text": "Michael was a soldier on the battlefront. The day of a big attack was approaching. When none of the other soldiers were looking, he put out an arm, so that the enemy would shoot at it. He was then taken to the hospital, and his life was no longer in danger.",
+      "logprobs": {
+        "answer_given_puzzle": -156.11146545410156,
+        "puzzle_given_answer": -48.20719909667969,
+        "answer_given_empty": -186.9542465209961,
+        "puzzle_given_empty": -80.73893737792969,
+        "answer_prompt_effect": 30.84278106689453,
+        "puzzle_prompt_effect": 32.53173828125
+      }
+    },
+    {
+      "id": 191,
+      "puzzle_text": "A woman starves to death despite being surrounded by food.",
+      "answer_text": "The woman worked in the stores of a large food company. During the holiday period, she was alone and locked herself in by accident. As all the food was canned and she had nothing to open the cans with, she starved to death.",
+      "logprobs": {
+        "answer_given_puzzle": -121.95477056503296,
+        "puzzle_given_answer": -25.48432159423828,
+        "answer_given_empty": -153.28747367858887,
+        "puzzle_given_empty": -50.629547119140625,
+        "answer_prompt_effect": 31.332703113555908,
+        "puzzle_prompt_effect": 25.145225524902344
+      }
+    },
+    {
+      "id": 192,
+      "puzzle_text": "Taxi stops, the taxi driver opens the door and a dead men falls on the road. What had happened?",
+      "answer_text": "The previous passenger was a spider lover and he forgot a box with his spider there. This dead men panicked when he saw it and so he was bitten by apoisonous spider.",
+      "logprobs": {
+        "answer_given_puzzle": -167.97952270507812,
+        "puzzle_given_answer": -60.668792724609375,
+        "answer_given_empty": -204.3847198486328,
+        "puzzle_given_empty": -91.40841674804688,
+        "answer_prompt_effect": 36.40519714355469,
+        "puzzle_prompt_effect": 30.7396240234375
+      }
+    },
+    {
+      "id": 193,
+      "puzzle_text": "A man is running, a crowd is running after him. The man is screaming to the crowd:\"You will never see the gold!\" and he starts shooting. People who observe all that are exulting.",
+      "answer_text": "It was the biathlon.",
+      "logprobs": {
+        "answer_given_puzzle": -15.293914794921875,
+        "puzzle_given_answer": -136.14247131347656,
+        "answer_given_empty": -38.56640625,
+        "puzzle_given_empty": -177.12147521972656,
+        "answer_prompt_effect": 23.272491455078125,
+        "puzzle_prompt_effect": 40.97900390625
+      }
+    },
+    {
+      "id": 194,
+      "puzzle_text": "The man was afraid to go home because the man in the mask was there.",
+      "answer_text": "They are playing baseball. The man in the mask is the catcher. The other man is afraid to advance to home base.",
+      "logprobs": {
+        "answer_given_puzzle": -57.325355529785156,
+        "puzzle_given_answer": -36.237823486328125,
+        "answer_given_empty": -89.12625122070312,
+        "puzzle_given_empty": -61.48388671875,
+        "answer_prompt_effect": 31.80089569091797,
+        "puzzle_prompt_effect": 25.246063232421875
+      }
+    },
+    {
+      "id": 195,
+      "puzzle_text": "The man received the parcel in which he found a dead mouse. He reported this to the police, and the sender of this parcel was found guilty of fraud.",
+      "answer_text": "The sender was supposed to send the jewels to this man. He hoped that the mouse would gnaw a hole in the box and run away, and nobody could blame on him for the loss.",
+      "logprobs": {
+        "answer_given_puzzle": -110.36321973800659,
+        "puzzle_given_answer": -63.64410400390625,
+        "answer_given_empty": -162.08970594406128,
+        "puzzle_given_empty": -121.5784912109375,
+        "answer_prompt_effect": 51.72648620605469,
+        "puzzle_prompt_effect": 57.93438720703125
+      }
+    },
+    {
+      "id": 196,
+      "puzzle_text": "A man is found dead in a puddle of blood and water on the floor of an otherwise empty\r\nlocked room with no windows. How could this happen?",
+      "answer_text": "He stabbed himself with an icicle.",
+      "logprobs": {
+        "answer_given_puzzle": -29.44718885421753,
+        "puzzle_given_answer": -80.833740234375,
+        "answer_given_empty": -41.154266357421875,
+        "puzzle_given_empty": -89.0474853515625,
+        "answer_prompt_effect": 11.707077503204346,
+        "puzzle_prompt_effect": 8.2137451171875
+      }
+    },
+    {
+      "id": 197,
+      "puzzle_text": "Camellia brought Valmont some wine. He looked at his watch, drank and died.",
+      "answer_text": "Valmont was hopelessly in love with Camellia, but she didn’t reciprocate. One day she offered Valmont a cruel game: she put some poison into one of the two glasses of wine, and Valmont had to drink any of them. If he survived, Camelia agreed to marry him.\nValmont used his watch as a coin to decide his fate (by the position of the second hand to the left or right of the vertical line). He was unlucky.",
+      "logprobs": {
+        "answer_given_puzzle": -212.922043800354,
+        "puzzle_given_answer": -31.648070812225342,
+        "answer_given_empty": -263.8531799316406,
+        "puzzle_given_empty": -106.36749267578125,
+        "answer_prompt_effect": 50.93113613128662,
+        "puzzle_prompt_effect": 74.71942186355591
+      }
+    },
+    {
+      "id": 198,
+      "puzzle_text": "A woman completes a drawing, and then commits suicide. Why?",
+      "answer_text": "Long suspicious of her family history, the woman does the research necessary to draw her family tree. Upon completing it, she confirms that she is the product of incest, a fact she cannot live with.",
+      "logprobs": {
+        "answer_given_puzzle": -118.52181768417358,
+        "puzzle_given_answer": -43.63165283203125,
+        "answer_given_empty": -139.54733848571777,
+        "puzzle_given_empty": -65.3278579711914,
+        "answer_prompt_effect": 21.02552080154419,
+        "puzzle_prompt_effect": 21.696205139160156
+      }
+    },
+    {
+      "id": 199,
+      "puzzle_text": "A man is stranded on an island covered in forest. One day, when the wind is blowing from the west, lightning strikes the west end of the island and sets fire to the forest. The fire is very violent, burning everything in its path, and without intervention the fire will burn the whole island, killing the man in the process. There are cliffs around the island, so he cannot jump off.\r\nHow can the man survive the fire? (There are no buckets or any other means to put out the fire)",
+      "answer_text": "The man picks up a piece of wood and lights it from the fire on the west end of the island. He then quickly carries it near the east end of he island and starts a new fire. The wind will cause that fire to burn out the eastern end and he can then shelter in the burnt area.",
+      "logprobs": {
+        "answer_given_puzzle": -70.39430522918701,
+        "puzzle_given_answer": -52.85350465774536,
+        "answer_given_empty": -192.688232421875,
+        "puzzle_given_empty": -69.36392021179199,
+        "answer_prompt_effect": 122.29392719268799,
+        "puzzle_prompt_effect": 16.51041555404663
+      }
+    },
+    {
+      "id": 200,
+      "puzzle_text": "A woman jumps from a windowshell, on a 6th floor. However, she is not injured in any way.",
+      "answer_text": "The woman was about to commit suicide but she changed her mind in the last minute and decided to jump back into her apartment.",
+      "logprobs": {
+        "answer_given_puzzle": -45.782283782958984,
+        "puzzle_given_answer": -69.35604858398438,
+        "answer_given_empty": -81.80310440063477,
+        "puzzle_given_empty": -99.02786254882812,
+        "answer_prompt_effect": 36.02082061767578,
+        "puzzle_prompt_effect": 29.67181396484375
+      }
+    },
+    {
+      "id": 201,
+      "puzzle_text": "Following criminals’ trail, a police inspector entered a chess club. Assessing the situation, he told his assistants, “Detain those two!” \r\nHow did he guess?",
+      "answer_text": "One of the “chess players” had no kings on the board.",
+      "logprobs": {
+        "answer_given_puzzle": -50.32220458984375,
+        "puzzle_given_answer": -120.67459106445312,
+        "answer_given_empty": -65.82989501953125,
+        "puzzle_given_empty": -145.80242919921875,
+        "answer_prompt_effect": 15.5076904296875,
+        "puzzle_prompt_effect": 25.127838134765625
+      }
+    },
+    {
+      "id": 202,
+      "puzzle_text": "A man smashes Jimmy's luxury car. Althought Jimmy saw his car get smashed he made no attempt to stop the man.",
+      "answer_text": "Jimmy and the other man had a bet. It was agreed that the winner of the bet would smash the loser's car. Jimmy lost the bet.",
+      "logprobs": {
+        "answer_given_puzzle": -44.37832260131836,
+        "puzzle_given_answer": -72.20787048339844,
+        "answer_given_empty": -86.80986404418945,
+        "puzzle_given_empty": -110.29185485839844,
+        "answer_prompt_effect": 42.431541442871094,
+        "puzzle_prompt_effect": 38.083984375
+      }
+    },
+    {
+      "id": 203,
+      "puzzle_text": "An artist took an order to paint a portrait of a very ugly and arrogant woman. Everyone tried to dissuade him, claiming that she wouldn’t pay a penny, because the portrait would be bad. And so it happened. But two days later, the woman returned and begged the artist to sell her the portrait. Why?",
+      "answer_text": "The artist sent the portrait to an exhibition and called it The Penny Pincher. It triggered gossips, and the woman had to ask the artist to remove the portrait from the exhibition.",
+      "logprobs": {
+        "answer_given_puzzle": -109.43504333496094,
+        "puzzle_given_answer": -173.31339263916016,
+        "answer_given_empty": -154.1330108642578,
+        "puzzle_given_empty": -189.17579650878906,
+        "answer_prompt_effect": 44.697967529296875,
+        "puzzle_prompt_effect": 15.862403869628906
+      }
+    },
+    {
+      "id": 204,
+      "puzzle_text": "Due to an oversight committed by Nils when doing his job, Martha, an upstairs neighbour, couldn’t wash the dishes. At the same time, Martha’s husband was glad, but Nils was still fired. Why?",
+      "answer_text": "An interesting case happened in Norway: \nWhen a housewife (Martha) turned on a water tap, beer poured out of it! The fact is that in a cafe on the ground floor, a bartender confused taps. As a result, Martha had a beer jet upstairs, and in the bar below, water splashed from the beer tap. Of course, the bartender was fired, but Martha’s husband was happy.",
+      "logprobs": {
+        "answer_given_puzzle": -273.0047798156738,
+        "puzzle_given_answer": -139.61568021774292,
+        "answer_given_empty": -290.9291019439697,
+        "puzzle_given_empty": -182.7375373840332,
+        "answer_prompt_effect": 17.9243221282959,
+        "puzzle_prompt_effect": 43.12185716629028
+      }
+    },
+    {
+      "id": 205,
+      "puzzle_text": "Many people were surprised when a famous town merchant named Bill rolled out a barrel of honey to the square and offered everyone a treat.\r\n\r\nBut people were even more surprised when they asked about the reason for such a gift and heard Bill reply that it wasn’t a gift at all.",
+      "answer_text": "Bill has been selling honey for many years. He scooped the product up with a measuring cup and poured it into a buyer’s jug.\nBut honey is a thick substance, and it takes a long time to pour it out completely... None of the customers have ever waited until the last drop.\nBut Bill was a rarely honest man and wasn’t going to appropriate anything that wasn’t his, even if it was a matter of a few drops. He poured the rest of the honey into a separate jug, and over the years, he accumulated a barrel full of honey. Now, Bill’s initially strange answer is clear: after all, one can only give what’s one’s own, and he never thought that this honey was his own. He just RETURNED the honey to people who kind of left it for long-term storage.",
+      "logprobs": {
+        "answer_given_puzzle": -466.915979385376,
+        "puzzle_given_answer": -155.32290649414062,
+        "answer_given_empty": -536.7384147644043,
+        "puzzle_given_empty": -200.78057432174683,
+        "answer_prompt_effect": 69.82243537902832,
+        "puzzle_prompt_effect": 45.4576678276062
+      }
+    },
+    {
+      "id": 206,
+      "puzzle_text": "He wasn’t hungry, but food saved his life.",
+      "answer_text": "He was lying in a dungeon tied to a bench. A slowly descending sickle swung above him that was supposed to kill him. However, he used leftovers from a bowl of food to lubricate the ties (ropes), which were thus gnawed by rats.\nFrom the story \"The Pit and the Pendulum\" by Edgar Poe.",
+      "logprobs": {
+        "answer_given_puzzle": -218.9554796218872,
+        "puzzle_given_answer": -32.83727264404297,
+        "answer_given_empty": -254.07545042037964,
+        "puzzle_given_empty": -52.6494140625,
+        "answer_prompt_effect": 35.11997079849243,
+        "puzzle_prompt_effect": 19.81214141845703
+      }
+    },
+    {
+      "id": 207,
+      "puzzle_text": "Bill always wore a silk scarf to work, whatever the weather. What’s his job, and why does he need this scarf?",
+      "answer_text": "Bill is a World War I pilot. He needs a scarf so as not to rub his neck while searching for enemy planes.\nExplanation:\nThe first military aircraft (“air stacks”) had an open cockpit. At the same time, the flight speed reached 150 km/h. So, the pilots wore thick leather clothes with maximum wind resistance.\nAt that time, there were no long-range detection systems. To be the first to detect the enemy, the pilot had to turn his head round at least every 20 seconds. The cases are known when pilots rubbed their necks to blood.\nThat’s how the pilots got white silk scarves for flights. Silk is a very smooth and at the same time dense fabric. It served both as protection from the headwind and as a smooth layer between the skin and the collar.",
+      "logprobs": {
+        "answer_given_puzzle": -463.19315338134766,
+        "puzzle_given_answer": -63.253173828125,
+        "answer_given_empty": -482.81733655929565,
+        "puzzle_given_empty": -95.44004821777344,
+        "answer_prompt_effect": 19.624183177947998,
+        "puzzle_prompt_effect": 32.18687438964844
+      }
+    },
+    {
+      "id": 208,
+      "puzzle_text": "Gordon came to see Harry and gave him a few strikes in the stomach. Then, they had a short talk, and he struck a few more times. Harry died a couple of days later. What happened?",
+      "answer_text": "On a tour in Montreal in 1926, three students entered Houdini’s dressing room. Among them was a college boxing champion called Gordon. He asked Houdini if he really could stand up to a few strong strikes in the stomach without feeling anything. Lost in thought, Houdini nodded, and the student suddenly struck the illusionist two or three times. Houdini barely stopped him, “Wait, I need to get ready.” Then, he strained his abs, “You can strike now.” The student struck a couple times and felt Houdini’s iron abs. \nHarry ignored the increasing stomach ache for a few days. The illusionist fell right on stage during a performance in Detroit and was taken to the hospital. Houdini was diagnosed with a burst appendix, which caused peritonitis. Doctors predicted speedy death, but the illusionist survived a few days, which was pretty long in his situation. Harry Houdini died, his body was taken to New York and buried in a bronze box that he used for his tricks.\nHarry Houdini is an American illusionist, philanthropist, and actor. He became famous for exposing charlatans and complex escape and release tricks.",
+      "logprobs": {
+        "answer_given_puzzle": -742.8363990783691,
+        "puzzle_given_answer": -83.06436157226562,
+        "answer_given_empty": -706.815836429596,
+        "puzzle_given_empty": -170.4994659423828,
+        "answer_prompt_effect": -36.02056264877319,
+        "puzzle_prompt_effect": 87.43510437011719
+      }
+    },
+    {
+      "id": 209,
+      "puzzle_text": "A rich pirate buried a treasure full of jewels. Of course, he had a map to find it, but someone stole it a month later. The pirate didn’t react to this at all. Why was he so calm?",
+      "answer_text": "The pirate had a few copies of the map. He deliberately buried the main part of the treasure deep, and the rest of the treasure was closer to the surface.\nPeople who’ll find the first treasure on the surface will think that it is the entire treasure. In addition, they’ll spread rumors that the treasure has been stolen and other people will stop hunting the pirate’s map.",
+      "logprobs": {
+        "answer_given_puzzle": -230.1999282836914,
+        "puzzle_given_answer": -111.4459457397461,
+        "answer_given_empty": -266.2835388183594,
+        "puzzle_given_empty": -150.7987823486328,
+        "answer_prompt_effect": 36.08361053466797,
+        "puzzle_prompt_effect": 39.35283660888672
+      }
+    },
+    {
+      "id": 210,
+      "puzzle_text": "When it turned out that the painting was fake, it became 10 times more expensive. How did it happen?",
+      "answer_text": "A lady approaches an antiquarian’s tent, spends long time looking at the paintings and stops at one of them with an inscription saying: “I. Repin”; the price tag said: ten rubles.\n— Here’s ten rubles. I’m taking the painting. But I’ll bring it back if it’s fake. I’ll be at my friends’ place, where Repin is having lunch today, and I'll show it to him.\nThe lady brings the picture to her friends and shows it to Repin. He laughs. He asks for a pen and ink and signs at the bottom of the picture, “This is not Repin. I. Repin.”\nThis painting returned to Sukharevka and was sold for a hundred rubles thanks to Repin’s autograph.\nAn abstract from Vladimir Gilyarovsky’s book “Moscow and Muscovites”, 1926",
+      "logprobs": {
+        "answer_given_puzzle": -494.0351595878601,
+        "puzzle_given_answer": -51.414642333984375,
+        "answer_given_empty": -507.09655237197876,
+        "puzzle_given_empty": -78.02490234375,
+        "answer_prompt_effect": 13.061392784118652,
+        "puzzle_prompt_effect": 26.610260009765625
+      }
+    },
+    {
+      "id": 211,
+      "puzzle_text": "There are three drunk men and a corpse in the room. The men refuse to talk to the police, but they still quickly identified the killer. How?",
+      "answer_text": "There was a bottle with a bloody mark left by the murdered man’s head on the table. It was an obvious murder weapon. It had all four men’s fingerprints on it. However, only one man’s fingerprints were turned over. It meant that he was the one who made the strike, holding the bottle like a club.",
+      "logprobs": {
+        "answer_given_puzzle": -190.7195816040039,
+        "puzzle_given_answer": -78.5511360168457,
+        "answer_given_empty": -216.59368133544922,
+        "puzzle_given_empty": -113.46678924560547,
+        "answer_prompt_effect": 25.874099731445312,
+        "puzzle_prompt_effect": 34.915653228759766
+      }
+    },
+    {
+      "id": 212,
+      "puzzle_text": "Jasmine was playing her usual favorite game when they suddenly started shooting at her. What happened?",
+      "answer_text": "A group of men came to hunt on a frozen lake. To make an air-hole for birds, they lit dynamite and threw it on the ice away from themselves.\nA beloved dog of one of the men called Jasmine thought that it was a stick and wanted to play bringing it back to the owner. When she grabbed the dynamite and ran back, the frightened men began to shoot at Jasmine, hoping that she’d get frightened and drop it.\nUnfortunately, she hid under a jeep instead and exploded with it.",
+      "logprobs": {
+        "answer_given_puzzle": -360.62242889404297,
+        "puzzle_given_answer": -50.24198913574219,
+        "answer_given_empty": -356.8374094963074,
+        "puzzle_given_empty": -118.39886474609375,
+        "answer_prompt_effect": -3.7850193977355957,
+        "puzzle_prompt_effect": 68.15687561035156
+      }
+    },
+    {
+      "id": 213,
+      "puzzle_text": "Two women accidently met in a train compartment. This brought a man they didn’t know to prison. What happened?",
+      "answer_text": "One of the women had a sable fur coat, and the other was allergic to cat hair.\nThe allergic one had a severe allergy attack. This revealed that the fur coat was actually made of cat hair. \nThe woman complained to the police and after a while the director of the fur factory was sentenced to imprisonment.",
+      "logprobs": {
+        "answer_given_puzzle": -182.2064666748047,
+        "puzzle_given_answer": -77.9224853515625,
+        "answer_given_empty": -212.48492431640625,
+        "puzzle_given_empty": -102.11273193359375,
+        "answer_prompt_effect": 30.278457641601562,
+        "puzzle_prompt_effect": 24.19024658203125
+      }
+    },
+    {
+      "id": 214,
+      "puzzle_text": "Marmalade helped Bill to skip school with impunity. How did he do it?",
+      "answer_text": "Australian schools began using fingerprint scanners to check high school students’ attendance in 2010. Bill found out that he could easily bypass these scanners with gelatin, which is used to make marmalade bears. \nHe put his finger to a marmalade bear and asked a classmate to show it to the scanner for him, so that the school system would think that Bill was present in class. The scanner successfully recognized the fingerprint.",
+      "logprobs": {
+        "answer_given_puzzle": -204.4956660270691,
+        "puzzle_given_answer": -46.77709913253784,
+        "answer_given_empty": -259.59723949432373,
+        "puzzle_given_empty": -71.60560607910156,
+        "answer_prompt_effect": 55.10157346725464,
+        "puzzle_prompt_effect": 24.82850694656372
+      }
+    },
+    {
+      "id": 215,
+      "puzzle_text": "They had to throw away plenty of their valuables, but it didn’t made them upset. What happened?",
+      "answer_text": "They smuggled alcohol at the Prohibition time in the United States. They were ready for unexpected customs control. They tied bags of salt to each box in advance. In case of danger, they threw them into the water. After a while, salt dissolved in the water and the cargo floated back to the surface.",
+      "logprobs": {
+        "answer_given_puzzle": -228.91936492919922,
+        "puzzle_given_answer": -65.22933912277222,
+        "answer_given_empty": -223.85774612426758,
+        "puzzle_given_empty": -90.37643384933472,
+        "answer_prompt_effect": -5.061618804931641,
+        "puzzle_prompt_effect": 25.1470947265625
+      }
+    },
+    {
+      "id": 216,
+      "puzzle_text": "A man goes to the auto repair shop and asks the mechanic when he is available. The mechanic says he is busy for the next 2 hours. The man thanks him but doesn't return. A few days later, he asks him again, the mechanic says he is busy for the next one hour. Again, the man doesn't return. Next day the man asks him again and the mechanic says \"You are lucky, 5 minutes and I'm available\" but the man leaves\r\nanyway.",
+      "answer_text": "The man did not want his car to be repaired. He was actually having an affair with the mechanic's wife and he wanted to know how much time he could spend with her without risking being caught.",
+      "logprobs": {
+        "answer_given_puzzle": -64.53170776367188,
+        "puzzle_given_answer": -197.42697668075562,
+        "answer_given_empty": -121.98341369628906,
+        "puzzle_given_empty": -232.95404052734375,
+        "answer_prompt_effect": 57.45170593261719,
+        "puzzle_prompt_effect": 35.527063846588135
+      }
+    },
+    {
+      "id": 217,
+      "puzzle_text": "A coin collector finds an internet advertisement about a coin collection at a very low price. After reading it carefully, he decides to buy it. Although it is genuine and its value is much higher than the price he pays, he is not happy but very angry.",
+      "answer_text": "The man’s wife had found out that he had an affair with another woman. To take revenge, she put for sale her husband's coin collection at a very low price so that she could sell it soon. When the man realized what was happening, he quickly bought the coins before anyone else did.",
+      "logprobs": {
+        "answer_given_puzzle": -134.93841552734375,
+        "puzzle_given_answer": -121.868408203125,
+        "answer_given_empty": -164.08375549316406,
+        "puzzle_given_empty": -159.8792266845703,
+        "answer_prompt_effect": 29.145339965820312,
+        "puzzle_prompt_effect": 38.01081848144531
+      }
+    },
+    {
+      "id": 218,
+      "puzzle_text": "A man comes up to the border of a neighboring country on his motorcycle. The customs officer at the border crossing stops him and searches the man. He finds nothing so he lets him cross. The next day the same thing happens. This goes on every day for several months. \r\n\r\nThen one day, the man doesnʼt show up. The border official meets up with him in a restaurant in the city. The officer says, “I know youʼre smuggling something and itʼs driving me crazy. Itʼs all I think about. I canʼt even sleep. Just between you and me, what are you\r\nsmuggling?” What is the man smuggling?",
+      "answer_text": "Motorcycles.",
+      "logprobs": {
+        "answer_given_puzzle": -20.26953125,
+        "puzzle_given_answer": -292.2598958015442,
+        "answer_given_empty": -19.154296875,
+        "puzzle_given_empty": -306.8631682395935,
+        "answer_prompt_effect": -1.115234375,
+        "puzzle_prompt_effect": 14.603272438049316
+      }
+    },
+    {
+      "id": 219,
+      "puzzle_text": "When kids were watching TV, they were not frigthened so much. But when they saw others suffering, they realized that something was not right.",
+      "answer_text": "It was an experiment when kids were giving blood. It showed that the kids were feeling better during this process if they were watching TV rather than if they were supported by their parents.",
+      "logprobs": {
+        "answer_given_puzzle": -100.29315185546875,
+        "puzzle_given_answer": -80.25973510742188,
+        "answer_given_empty": -137.34925079345703,
+        "puzzle_given_empty": -110.8094482421875,
+        "answer_prompt_effect": 37.05609893798828,
+        "puzzle_prompt_effect": 30.549713134765625
+      }
+    },
+    {
+      "id": 220,
+      "puzzle_text": "One day, I felt fed up with my younger sister’s bleat. So, I killed her and threw her body into a well. The next day, the body disappeared. \r\n\r\nA few years later, I quarreled with a friend over a trifle and decided to kill him too and to throw his body into the well. The next day, the body disappeared.\r\n\r\nLater, I was drunk and accidentally impregnated a girl. I killed her and threw her into the same well. The next day, her body disappeared, as all the others did.\r\n\r\n10 years later, my boss drove me nuts. I killed him and disposed of the body in the same well. A day later, his body disappeared. \r\n\r\nShortly thereafter, I needed to send my mom to a nursing home, but I didn’t have enough money for that, so I killed her and threw her into the well. The next day, the body was still there. Why?",
+      "answer_text": "The main character’s mother dragged corpses away out of the well. Of course, she couldn’t drag her own corpse away.",
+      "logprobs": {
+        "answer_given_puzzle": -116.75951337814331,
+        "puzzle_given_answer": -354.7804355621338,
+        "answer_given_empty": -115.204833984375,
+        "puzzle_given_empty": -377.74870681762695,
+        "answer_prompt_effect": -1.5546793937683105,
+        "puzzle_prompt_effect": 22.968271255493164
+      }
+    },
+    {
+      "id": 221,
+      "puzzle_text": "The woman is speaking something and she is upset. Nobody can understand her but a man is filming her on camera. Why? And what is happening?",
+      "answer_text": "It happened for real. English linguist Dr. David Dalby filmed an 87-year-old African woman who spoke Bikya as her native tongue (and Bikya is probably best known for this particular work).\nBy the way, it was thought that she was the last speaker, but Kiessling (2007) reports that Bikya has the largest number of remaining speakers of the Furu languages.",
+      "logprobs": {
+        "answer_given_puzzle": -290.60943126678467,
+        "puzzle_given_answer": -94.227783203125,
+        "answer_given_empty": -278.6174907684326,
+        "puzzle_given_empty": -117.6749267578125,
+        "answer_prompt_effect": -11.99194049835205,
+        "puzzle_prompt_effect": 23.4471435546875
+      }
+    },
+    {
+      "id": 222,
+      "puzzle_text": "Why Alexander the Great told his army to shave off their beards?",
+      "answer_text": "When the commander Parmenio asked the reason, according to the ancient historian Plutarch, Alexander replied, “Don’t you know that in battles there is nothing handier to grasp than a beard?” \n---\nBut there is ample cause to doubt Plutarch’s explanation. Stories of beard-pulling in battles were myth rather than history. Plutarch and later historians misunderstood the order because they neglected the most relevant fact, namely that Alexander had dared to do what no self-respecting Greek leader had ever done before: shave his face, likening himself to the demigod Heracles, rendered in painting and sculpture in the immortal splendor of youthful, beardless nudity. Alexander wished above all, as he told his generals before the battle, that each man would see himself as a crucial part of the mission. They would certainly see this more clearly if each of them looked more like their heroic commander.",
+      "logprobs": {
+        "answer_given_puzzle": -528.5702872276306,
+        "puzzle_given_answer": -24.260223388671875,
+        "answer_given_empty": -565.470606803894,
+        "puzzle_given_empty": -50.779052734375,
+        "answer_prompt_effect": 36.90031957626343,
+        "puzzle_prompt_effect": 26.518829345703125
+      }
+    },
+    {
+      "id": 223,
+      "puzzle_text": "Why is it better to have round manhole covers than square ones?",
+      "answer_text": "A square manhole cover can be turned and dropped down the diagonal of the manhole. A round manhole cover cannot be dropped down the manhole. So for safety reasons, all manhole covers should be round.",
+      "logprobs": {
+        "answer_given_puzzle": -68.48815107345581,
+        "puzzle_given_answer": -12.52978515625,
+        "answer_given_empty": -120.16623497009277,
+        "puzzle_given_empty": -40.93438720703125,
+        "answer_prompt_effect": 51.67808389663696,
+        "puzzle_prompt_effect": 28.40460205078125
+      }
+    },
+    {
+      "id": 224,
+      "puzzle_text": "A magician is standing on a concrete floor holding a raw egg with his hand outstretched. Without the aid of any objects, he is able to drop the egg two feet without breaking it's shell. How does he do it?",
+      "answer_text": "He simply holds the egg higher than two feet, and then releases the egg. The first two feet it will fall without breaking.",
+      "logprobs": {
+        "answer_given_puzzle": -68.53393173217773,
+        "puzzle_given_answer": -89.80695295333862,
+        "answer_given_empty": -112.72970581054688,
+        "puzzle_given_empty": -125.10572004318237,
+        "answer_prompt_effect": 44.19577407836914,
+        "puzzle_prompt_effect": 35.29876708984375
+      }
+    },
+    {
+      "id": 225,
+      "puzzle_text": "A woman asks questions to her friend - a policeman - about a strange death. After 5 minutes the policeman is surprised to see that the woman finds out the cause of the death.",
+      "answer_text": "The woman and the policeman were friends and they were playing \"situation puzzle\". The policeman told a story and thought that his friend could not solve it. He was very surprised when the woman, after a few questions, found out the solution.",
+      "logprobs": {
+        "answer_given_puzzle": -106.92999267578125,
+        "puzzle_given_answer": -81.73468017578125,
+        "answer_given_empty": -151.32901000976562,
+        "puzzle_given_empty": -129.19444274902344,
+        "answer_prompt_effect": 44.399017333984375,
+        "puzzle_prompt_effect": 47.45976257324219
+      }
+    },
+    {
+      "id": 226,
+      "puzzle_text": "You are driving down the road in your car on a wild, stormy night, when you pass by a bus stop and you see three people waiting for the bus: An old lady, an old friend who once saved your life and the perfect partner you have been dreaming about. There can only be one passenger in your car, whom do you choose?",
+      "answer_text": "The old lady of course! After helping the old lady into the car, you can give your keys to your friend and have him drive the old lady. You get to wait for the next bus with your perfect partner.",
+      "logprobs": {
+        "answer_given_puzzle": -107.21011352539062,
+        "puzzle_given_answer": -135.49539279937744,
+        "answer_given_empty": -193.29734754562378,
+        "puzzle_given_empty": -137.54216527938843,
+        "answer_prompt_effect": 86.08723402023315,
+        "puzzle_prompt_effect": 2.0467724800109863
+      }
+    },
+    {
+      "id": 227,
+      "puzzle_text": "A man was born in 1972 and dies in 1952 at the age of 25. How can this be?",
+      "answer_text": "He's born in room number 1972 of a hospital and dies in room number 1952.",
+      "logprobs": {
+        "answer_given_puzzle": -55.59032726287842,
+        "puzzle_given_answer": -39.65457057952881,
+        "answer_given_empty": -78.16407012939453,
+        "puzzle_given_empty": -75.77264595031738,
+        "answer_prompt_effect": 22.573742866516113,
+        "puzzle_prompt_effect": 36.118075370788574
+      }
+    },
+    {
+      "id": 228,
+      "puzzle_text": "The cadets became the cause of a mass buying up of salt in the whole city.",
+      "answer_text": "Cadets were supposed to shovel the snow. But they were lazy so they strew the ground with salt. They bought lots of salt to perfrom it. When old people saw military men buying lots of salt, they thought there'll be a war soon and began to wreak havoc and buy up salt.",
+      "logprobs": {
+        "answer_given_puzzle": -188.6681137084961,
+        "puzzle_given_answer": -37.33927917480469,
+        "answer_given_empty": -234.47211027145386,
+        "puzzle_given_empty": -101.92498779296875,
+        "answer_prompt_effect": 45.803996562957764,
+        "puzzle_prompt_effect": 64.58570861816406
+      }
+    },
+    {
+      "id": 229,
+      "puzzle_text": "A woman in France in 1959 is waiting in her room, with all the doors locked from the inside, for her husband to come home. When he arrives, the house has burned to the ground and she's dead. How come?",
+      "answer_text": "The hot sun reflected from the woman's large mirror (which may have been imperfectly flat and therefore focused the sunlight) and heated the lingerie she was wearing to the burning point. She was absorbed in a book at the time and didn't notice the heat until her clothing was afire. Nobody could get to her to help because her doors were locked from the inside.",
+      "logprobs": {
+        "answer_given_puzzle": -206.48526763916016,
+        "puzzle_given_answer": -107.43284797668457,
+        "answer_given_empty": -246.61952590942383,
+        "puzzle_given_empty": -133.88758659362793,
+        "answer_prompt_effect": 40.13425827026367,
+        "puzzle_prompt_effect": 26.45473861694336
+      }
+    },
+    {
+      "id": 230,
+      "puzzle_text": "A woman enters a large metal tube. She is overcome with fear and clenches her boyfriend’s hand tightly. She is visibly shaken. Her boyfriend gently rubs her arms and speaks softly to her, but is unaffected himself. A few hours later, the woman’s boyfriend tells her that it’s time to go and her torment ends. What was happening to the woman?",
+      "answer_text": "The woman is terrified of flying but must travel to see a dying relative and this adds to her stress level. Her boyfriend does his best to comfort her during the few hours of the flight.",
+      "logprobs": {
+        "answer_given_puzzle": -95.21560668945312,
+        "puzzle_given_answer": -190.54891920089722,
+        "answer_given_empty": -124.81522369384766,
+        "puzzle_given_empty": -213.6367793083191,
+        "answer_prompt_effect": 29.59961700439453,
+        "puzzle_prompt_effect": 23.087860107421875
+      }
+    },
+    {
+      "id": 231,
+      "puzzle_text": "Three ducklings are swimming in the lake in a row.\r\n\r\nThe first duckling says, “There are two ducklings swimming behind me.”\r\nThe second duckling says, “There is one duckling swimming in front of me, and another duckling is swimming behind me.” \r\nThe third duckling says, “There are two ducklings swimming in front of me, and another one is swimming behind me.”\r\n\r\nHow is it possible?",
+      "answer_text": "The third duckling lied.",
+      "logprobs": {
+        "answer_given_puzzle": -26.489608764648438,
+        "puzzle_given_answer": -111.91886806488037,
+        "answer_given_empty": -56.587890625,
+        "puzzle_given_empty": -131.5624828338623,
+        "answer_prompt_effect": 30.098281860351562,
+        "puzzle_prompt_effect": 19.643614768981934
+      }
+    }
+  ],
+  "statistics": {
+    "total_answer_given_puzzle": -32008.46521615982,
+    "total_puzzle_given_answer": -22025.467601776123,
+    "avg_answer_given_puzzle": -137.9675224834475,
+    "avg_puzzle_given_answer": -94.9373603524833
+  }
+}
